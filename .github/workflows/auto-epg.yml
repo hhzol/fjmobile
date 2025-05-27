@@ -5,10 +5,10 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
-  schedule:
+#  schedule:
   # auto update at 1,7,12,18 o'clock Beijing time
   # check at https://crontab.guru/
-  - cron: "0 17,23,4,10 * * *" 
+#  - cron: "0 17,23,4,10 * * *" 
   
 jobs:
   build:
