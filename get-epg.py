@@ -1,178 +1,225 @@
-#-*- coding: utf-8 -*-                                                                                                                                  
-import re
-import pytz
 import requests
-from lxml import html
-from datetime import datetime, timezone, timedelta
+import xml.etree.ElementTree as ET
+from datetime import datetime, timedelta
+import xml.dom.minidom
 
-tz = pytz.timezone('Asia/Shanghai')
+fixurl = "http://watchtv.fja.bcs.ottcn.com:8080/cms-lvp-epg/lvps/getAllProgramlist?abilityString=%257B%2522CITY_CODE%2522%253A%2522592%2522%252C%2522COUNTY_CODE%2522%253A%2522201%2522%252C%2522VILLAGE_CODE%2522%253A%2522000102091010000414404459%2522%252C%2522abilities%2522%253A%255B%2522Playable-YOUKU%257CPlayable-IQIYI%257CDL-3rd%2522%252C%25224K-1%257CtimeShift%257CNxM%2522%252C%25224K-1%257Ccp-TENCENT%2522%255D%252C%2522businessGroupIds%2522%253A%255B%255D%252C%2522deviceGroupIds%2522%253A%255B%25222081%2522%255D%252C%2522districtCode%2522%253A%2522350200%2522%252C%2522labelIds%2522%253A%255B%25223570%2522%255D%252C%2522userGroupIds%2522%253A%255B%2522350000%2522%255D%252C%2522userLabelIds%2522%253A%255B%25223570%2522%255D%257D"
 
-cctv_channel = ['cctv1','cctv2','cctv3','cctv4','cctv5','cctv5plus','cctv6',\
-    'cctv7','cctv8','cctvjilu','cctv10','cctv11','cctv12','cctvchild', \
-        'cctv15','cctv16','cctv17','cctv4k']
-cctv_channel_tvsou = ['cctv-1','cctv-2','cctv-3','cctv-4','cctv-5','cctv5+','cctv-6',\
-    'cctv-7','cctv-8','cctv-9','cctv-10','cctv-11','cctv-12']
+# 各频道对应 uuid
+channel_uuids = {
+    "CCTV1": "HD-8000k-1080P-lowcctv1",
+    "CCTV2": "cctv-2",
+    "CCTV3": "HD-8M-1080P-cctv3",
+    "CCTV4": "cctv-4",
+    "CCTV5": "HD-8M-1080P-cctv5",
+    "CCTV5+": "HD-8000k-1080P-cctv05plus",
+    "CCTV6": "HD-8M-1080P-cctv6",
+    "CCTV7": "HD-8000k-1080P-cctv7",
+    "CCTV8": "HD-8M-1080P-cctv8",
+    "CCTV9": "HD-8000k-1080P-cctv9",
+    "CCTV10": "HD-8000k-1080P-cctv10",
+    "CCTV11": "cctv-11",
+    "CCTV12": "HD-8000k-1080P-cctv12",
+    "CCTV13": "cctv-13",
+    "CCTV14": "HD-8000k-1080P-cctv14",
+    "CCTV15": "cctv-15",
+    "CCTV16": "HD-8000k-1080P-cctv16",
+    "CCTV16 4K": "HD-20M-2160P-cctv16",
+    "CCTV17": "HD-8000k-1080P-cctv17",
+    "CGTN纪录": "cctv-9",
+    "CGTN": "cctv19",
+    "CGTN法语": "SD-4000k-576P-CGTNFrench",
+    "CGTN俄语": "SD-4000k-576P-CGTNRussia",
+    "CGTN西语": "SD-4000k-576P-CGTNEspana",
+    "CGTN阿语": "SD-4000k-576P-CGTNArab",
+    "中国天气": "fjzgqixiang",
+    "CETV1": "jiaoyutv",
+    "CETV2": "fjjiaoyutv2",
+    "CETV4": "SD-4000k-576P-jiaoyutv4",
+    "福建综合": "fjzonghe",
+    "东南卫视": "fjdongnanstv",
+    "福建乡村振兴": "fjxiangcunzxgg",
+    "福建新闻": "fjxinwen",
+    "福建电视剧": "fjdianshiju",
+    "福建旅游": "fjlvyou",
+    "福建经济": "fjjingjish",
+    "福建文体": "fjtiyu",
+    "福建少儿": "fjshaoer",
+    "海峡卫视": "fjhaixia",
+    "福建教育": "fjjiaoyu",
+    "厦门卫视": "HD-4000k-1080P-xiamenstv",
+    "厦门1": "HD-4000k-1080P-xiamen1",
+    "厦门2": "HD-4000k-1080P-xiamen2",
+    "厦门3": "HD-4000k-1080P-xiamen3",
+    "北京卫视": "fjbeijingstv",
+    "天津卫视": "fjtianjinstv",
+    "河北卫视": "HD-8000k-1080P-bsthebeistv",
+    "山西卫视": "fjshanxistv",
+    "内蒙古卫视": "fjneimenggustv",
+    "辽宁卫视": "HD-8000k-1080P-bstliaoningstv",
+    "吉林卫视": "jilin1",
+    "黑龙江卫视": "fjheilongjiangstv",
+    "东方卫视": "HD-8000k-1080P-bstdongfangstv",
+    "江苏卫视": "HD-8000k-1080P-bstjiangsustv",
+    "浙江卫视": "fjzhejiangstv",
+    "安徽卫视": "HD-8000k-1080P-bstanhuistv",
+    "江西卫视": "fjjiangxistv",
+    "山东卫视": "fjshandongstv",
+    "河南卫视": "henanstv",
+    "湖北卫视": "fjhubeistv",
+    "湖南卫视": "fjhunanstv",
+    "广东卫视": "HD-8000k-1080P-bstguangdongstv",
+    "广西卫视": "fjguangxistv",
+    "海南卫视": "lvyoustv",
+    "重视卫视": "fjchongqingstv",
+    "四川卫视": "HD-8000k-1080P-bstsichuanstv",
+    "贵州卫视": "fjguizhoustv",
+    "云南卫视": "yntv1",
+    "西藏卫视": "fjxizangstv",
+    "陕西卫视": "fjshanxi1stv",
+    "甘肃卫视": "fjgansustv",
+    "青海卫视": "fjqinghaistv",
+    "宁夏卫视": "fjnignxiastv",
+    "新疆卫视": "fjxinjiangstv",
+    "深圳卫视": "fjshenzhenstv",
+    "兵团卫视": "SD-2500k-576P-bstbingtuanstv",
+    "三沙卫视": "HD-2500k-1080P-bstsanshastv",
+    "康巴卫视": "kamba-tv",
+    "延边卫视": "SD-4000k-576P-yanbianstv",
+    "纪实科教": "HD-8000k-1080P-beijingjishi",
+    "先锋乒羽": "SD-2000k-576P-xianfengpy",
+    "快乐垂钓": "HD-2000k-1080P-happyfishing",
+    "山东教育": "shandongjy",
+    "茶频道": "SD-2000k-576P-chapd",
+    "金鹰纪实": "HD-8000k-1080P-mgjinyingjishi",
+    "金鹰卡通": "SD-8000k-1080P-yingyinkaton",
+    "哈哈炫动": "xuandongkaton",
+    "卡酷少儿": "kakukaton",
+    "嘉佳卡通": "fjjiajiakatong",
+    "优漫卡通": "youmankaton",
+    "精品大剧": "jdaju",
+    "古装剧场": "guzhuangjc",
+    "军旅剧场": "junlvjc",
+    "家庭剧场": "jiatingjc",
+    "热播精选": "xiqumd",
+    "爱情喜剧": "aiqingxj",
+    "动作电影": "dongzuody",
+    "精品综合": "mingxingdp",
+    "惊悚悬疑": "jingsongxy",
+    "黑莓电影": "HD-8000k-1080P-Supermovie",
+    "金牌综艺": "saishijx",
+    "精品体育": "jtiyu",
+    "精品萌宠": "jingpinmc",
+    "中国功夫": "SD-1500k-576P-gzkongfu",
+    "黑莓动画": "HD-8000k-1080P-Supercctv14",
+    "怡伴健康": "ljiankangyouyue",
+    "潮妈辣婆": "HD-1500k-720P-cmlapo",
+    "哒啵赛事": "HD-8000k-1080P-Superwmyx",
+    "哒啵电竞": "dabodj",
+    "精品纪录": "jingpinjl",
+    "军事评论": "junshipl",
+    "炫舞未来": "HD-4000k-1080P-xwwl",
+    "CCTV4K": "HD-15M-2160P-cctv4k",
+    "北京卫视4K": "FJGD-SMS-beijingstv4k",
+    "纯享4K": "HD-20M-2160P-chunxiang4k",
+    "睛彩青少": "HD-8000k-1080P-quanminrl",
+    "睛彩竞技": "HD-8000k-1080P-miguaoyun2",
+    "睛彩篮球": "HD-8000k-1080P-miguaoyun1",
+    "睛彩广场舞": "MIGU-8000k-1080P-jcgcw"
+}
 
-sat_channel = ['cetv1','cetv2','cetv3','cetv4','btv1','btvjishi','dongfang', \
-        'hunan','shandong','zhejiang','jiangsu','guangdong','dongnan','anhui', \
-        'gansu','liaoning','travel','neimenggu','ningxia','qinghai','xiamen', \
-        'yunnan','chongqing','jiangxi','shan1xi','shan3xi','shenzhen','sichuan','tianjin', \
-        'guangxi','guizhou','hebei','henan','heilongjiang','hubei','jilin', \
-        'yanbian','xizang','xinjiang','bingtuan','btvchild','gaoerfu','sdetv']
-sat_channel_tvsou = ['hubei','hunan','zhejiang','jiangsu','dongfang','btv1','guangdong',\
-    'shenzhen','heilongjiang','tianjin','shandong','anhui','liaoning']
+# 获取今天日期
+today = datetime.today().date()
+startdate = (today + timedelta(days=0)).strftime("%Y%m%d")
+enddate = (today + timedelta(days=6)).strftime("%Y%m%d")
 
-def getChannelCNTV(fhandle, channelID):
-    '''
-    通过央视cntv接口，获取央视，和上星卫视的节目单，写入同目录下 guide.xml 文件，文件格式符合xmltv标准
-    接口返回的json转换成dict后类似如下
-    {'cctv1': {'isLive': '九九第1集', 'liveSt': 1535264130, 'channelName': 'CCTV-1 综合', 'program': [{'t': '生活提示2018-187', 'st': 1535215320, 'et': 1535215680, 'showTime': '00:42', 'eventType': '', 'eventId': '', 'duration': 360}
+# 生成完整频道地址
+channels = {}
+for name, uuid in channel_uuids.items():
+    full_url = f"{fixurl}&startDate={startdate}&endDate={enddate}&pos=fullplayer&uuid={uuid}"
+    channels[name] = full_url
 
-    Args:
-        fhandle,文件处理对象，用于后续调用，直接写入xml文件
-        channelID,电视台列表，list格式，可以批量一次性获取多个节目单
+# 创建TV根节点
+tv = ET.Element('tv')
 
-    Return:
-        None,直接写入xml文件
-    '''
+# 添加channel节点
+for channel_name in channels:
+    channel_element = ET.SubElement(tv, 'channel', id=channel_name)
+    display_name = ET.SubElement(channel_element, 'display-name')
+    display_name.text = channel_name
 
-    #change channelID list to str cids
-    cids = ''
-    for x in channelID:
-        cids = cids + x + ','
+# 定义今天5:00AM时间点
+today_5am = datetime.combine(today, datetime.min.time()) + timedelta(hours=5)
 
-    epgdate = datetime.now(tz).strftime('%Y%m%d')
-    session = requests.Session()
-    api = "http://api.cntv.cn/epg/epginfo?c=%s&d=%s" % (cids, epgdate)
-    epgdata = session.get(api).json()
+# 处理每个频道的节目单
+for channel_name, url in channels.items():
+    response = requests.get(url)
+    data = response.json()
 
-    for n in range(len(channelID)):
-        program = epgdata[channelID[n]]['program']
+    # 收集所有节目
+    programs = []
+    for day in data.get('content', []):
+        for program in day.get('programs', []):
+            programs.append(program)
 
-        #write channel id info
-        fhandle.write('    <channel id="%s">\n' % channelID[n])
-        fhandle.write('        <display-name lang="cn">%s</display-name>\n' % epgdata[channelID[n]]['channelName'])
-        fhandle.write('    </channel>\n')
+    # 按时间升序排序
+    programs.sort(key=lambda x: x['startTime'])
+    next_start_dt= None
+    for program in programs:
+        start_timestamp = program['startTime']
+        end_timestamp = program['endTime']
+        start_dt = datetime.fromtimestamp(start_timestamp)
+        end_dt = datetime.fromtimestamp(end_timestamp)
 
-def getChannelEPG(fhandle, channelID):
+        # 跳过5:00AM之前的节目
+        if start_dt < today_5am:
+            continue
 
-    #change channelID list to str cids
-    cids = ''
-    for x in channelID:
-        cids = cids + x + ','
+        if next_start_dt is not None and start_dt > next_start_dt:
+            prog0 = ET.SubElement(tv, "programme", {
+                "start": next_start_dt.strftime("%Y%m%d%H%M%S") + " +0800",
+                "stop": start_dt.strftime("%Y%m%d%H%M%S") + " +0800",
+                "channel": channel_name
+            })
+            title0 = ET.SubElement(prog0, "title")
+            title0.text = "**（隐藏的节目名）**"
+        if start_dt.date() != end_dt.date() and (end_dt.hour != 0 or end_dt.minute != 0):
+            # 分拆跨天的节目
+            # 第一段
+            part1_stop = datetime.combine(start_dt.date(), datetime.max.time()).replace(hour=23, minute=59, second=59)
+            prog1 = ET.SubElement(tv, "programme", {
+                "start": start_dt.strftime("%Y%m%d%H%M%S") + " +0800",
+                "stop": part1_stop.strftime("%Y%m%d%H%M%S") + " +0800",
+                "channel": channel_name
+            })
+            title1 = ET.SubElement(prog1, "title")
+            title1.text = program['programName']
+            # 第二段
+            part2_start = datetime.combine(end_dt.date(), datetime.min.time())
+            prog2 = ET.SubElement(tv, "programme", {
+                "start": part2_start.strftime("%Y%m%d%H%M%S") + " +0800",
+                "stop": end_dt.strftime("%Y%m%d%H%M%S") + " +0800",
+                "channel": channel_name
+            })
+            title2 = ET.SubElement(prog2, "title")
+            title2.text = program['programName']
+        else:
+            programme = ET.SubElement(tv, "programme", {
+                "start": start_dt.strftime("%Y%m%d%H%M%S") + " +0800",
+                "stop": end_dt.strftime("%Y%m%d%H%M%S") + " +0800",
+                "channel": channel_name
+            })
+            title = ET.SubElement(programme, "title")
+            title.text = program['programName']
+        next_start_dt=end_dt
 
-    epgdate = datetime.now(tz).strftime('%Y%m%d')
-    epgdate2 = (datetime.now(tz) + timedelta(days=1)).strftime('%Y%m%d')
-    epgdate3 = (datetime.now(tz) + timedelta(days=2)).strftime('%Y%m%d')
-    session = requests.Session()
-    api = "http://api.cntv.cn/epg/epginfo?c=%s&d=%s" % (cids, epgdate)
-    api2 = "http://api.cntv.cn/epg/epginfo?c=%s&d=%s" % (cids, epgdate2)
-    api3 = "http://api.cntv.cn/epg/epginfo?c=%s&d=%s" % (cids, epgdate3)
-    epgdata = session.get(api).json()
-    epgdata2 = session.get(api2).json()
-    epgdata3 = session.get(api3).json()
+# 格式化输出XML
+xml_string = ET.tostring(tv, encoding='utf-8')
+dom = xml.dom.minidom.parseString(xml_string)
+pretty_xml = dom.toprettyxml(indent="  ")
 
-    for n in range(len(channelID)):
-        program = epgdata[channelID[n]]['program']
-        for detail in program:
-            #write programe
-            st = datetime.fromtimestamp(detail['st']).strftime('%Y%m%d%H%M')+'00'
-            et = datetime.fromtimestamp(detail['et']).strftime('%Y%m%d%H%M')+'00'
+# 输出结果
+with open('fj.xml', 'w', encoding='utf-8') as f:
+    f.write(pretty_xml)
 
-            fhandle.write('    <programme start="%s" stop="%s" channel="%s">\n' % (st, et, channelID[n]))
-            fhandle.write('        <title lang="zh">%s</title>\n' % detail['t'])
-            fhandle.write('    </programme>\n')
-
-        program2 = epgdata2[channelID[n]]['program']
-        for detail2 in program2:
-            #write programe
-            st = datetime.fromtimestamp(detail2['st']).strftime('%Y%m%d%H%M')+'00'
-            et = datetime.fromtimestamp(detail2['et']).strftime('%Y%m%d%H%M')+'00'
-
-            fhandle.write('    <programme start="%s" stop="%s" channel="%s">\n' % (st, et, channelID[n]))
-            fhandle.write('        <title lang="zh">%s</title>\n' % detail2['t'])
-            fhandle.write('    </programme>\n')
-
-        program3 = epgdata3[channelID[n]]['program']
-        for detail3 in program3:
-            #write programe
-            st = datetime.fromtimestamp(detail3['st']).strftime('%Y%m%d%H%M')+'00'
-            et = datetime.fromtimestamp(detail3['et']).strftime('%Y%m%d%H%M')+'00'
-
-            fhandle.write('    <programme start="%s" stop="%s" channel="%s">\n' % (st, et, channelID[n]))
-            fhandle.write('        <title lang="zh">%s</title>\n' % detail3['t'])
-            fhandle.write('    </programme>\n')            
-'''
-# 本段内容适用电视猫，备份使用，先注释掉
-def getChannelTVsou(fhandle, channelID):
-    
-    #获取TVSOU的节目单和节目信息，先获取所有台的ID，再通过ID获取每个台每天节目单
-
-    #获取tvsou每个台的地址
-    session = requests.Session()
-    base_url = 'https://www.tvsou.com'
-    api_url = 'https://www.tvsou.com/epg/%s/' % channelID
-    headers = {'Host':'www.tvsou.com','User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0'}
-    #获取所有电视台的url的xpath
-    channels_rule = '/html/body/div[3]/div[3]/div[3]/div[1]/div[1]/ul/li/a/@href'
-    channelname_rule = '/html/body/div[3]/div[2]/span[2]/text()'
-    epgname_rule = '/html/body/div[3]/div[3]/div[3]/div[2]/div[2]/div[2]/ol/li/@data-name'
-    epgtime_rule = '/html/body/div[3]/div[3]/div[3]/div[2]/div[2]/div[2]/ol/li/@data-mainstars'
-    epgcontenturl_rule = '/html/body/div[3]/div[3]/div[3]/div[2]/div[2]/div[2]/ol/li/@data-url'
-    epgcontentdesc_url = '/html/body/div[3]/div[1]/div[1]/div/div/div/pre/text()'
-
-    #获取所有电视台的URL，方便抓取
-    channels_html= session.get(api_url,headers=headers).text
-    tree = html.fromstring(channels_html)
-    channels_url = tree.xpath(channels_rule)
-
-    #按照获取的url抓取电视台节目单
-    for channel in channels_url:
-        c_html = session.get(base_url + channel,headers=headers).text
-        tree = html.fromstring(c_html)
-        #epgname可以直接使用，epgtime和epgcontenturl需要转换
-        channelid = channel.split('?')[0].split('/')[-1]
-        #channelname = tree.xpath(channelname_rule)[0].strip().split(' ')[0].split('台-')[1]
-        channelname = re.match(r'.*?-(.*) 节目单',tree.xpath(channelname_rule)[0].strip()).group(1)
-        epgname = tree.xpath(epgname_rule)
-        epgtime = tree.xpath(epgtime_rule)
-        epgcontenturl = tree.xpath(epgcontenturl_rule)
-
-        #转换epg节目单的content为节目真实url
-        epgcontenturl = [base_url+i.strip().replace('show','story') for i in epgcontenturl]
-        epgstarttime = [datetime.now().strftime('%Y%m%d')+j[0].replace(':','').strip() for j in [i.split('-') for i in epgtime]]
-        epgstoptime = [datetime.now().strftime('%Y%m%d')+j[1].replace(':','').strip() for j in [i.split('-') for i in epgtime]]
-
-        #write channel id info
-        fhandle.write('    <channel id="%s">\n' % channelid)
-        fhandle.write('        <display-name lang="cn">%s</display-name>\n' % channelname)
-        fhandle.write('    </channel>\n')
-
-        #write programe
-        for n in range(len(epgname)):
-
-            #获取节目的描述desc，需要额外在抓取网页的描述信息
-            #desc_html = session.get(epgcontenturl[n][0:-1],headers=headers).text
-            #tree = html.fromstring(desc_html)
-            #desc_content = tree.xpath(epgcontentdesc_url[0])
-            #print(desc_content)
-
-
-            fhandle.write('    <programme start="%s" stop="%s" channel="%s">\n' % (epgstarttime[n], epgstoptime[n], channelid))
-            fhandle.write('        <title lang="cn">%s</title>\n' % epgname[n].strip())
-            #fhandle.write('        <desc lang="cn">%s</desc>\n' % epgname[n].strip())
-            fhandle.write('    </programme>\n')
-'''
-
-with open('guide.xml','w', encoding='utf-8') as fhandle: # 参数 w 表示覆盖，追加用 at (追加+文本)
-    fhandle.write('<?xml version="1.0" encoding="utf-8" ?>\n')
-    fhandle.write('<tv generator-info-name="frankwuzp" generator-info-url="https://github.com/frankwuzp/iptv-cn">\n')
-#    getChannelTVsou(fhandle,cctv_channel_tvsou)
-#    getChannelTVsou(fhandle, 'weishi')
-    getChannelCNTV(fhandle, cctv_channel)
-    getChannelCNTV(fhandle, sat_channel)
-    getChannelEPG(fhandle, cctv_channel)
-    getChannelEPG(fhandle, sat_channel)    
-#    getChannelTVmining(fhandle,cctv_channel_tvmining)
-#    getChannelTVmining(fhandle,sat_channel_tvmining)
-    fhandle.write('</tv>')
+print('XMLTV文件已生成完毕！')
