@@ -48,15 +48,9 @@ def merge_epg_files(output_file="all.xml"):
     # 创建新的根节点 <tv>
     merged_root = ET.Element("tv")
 
-    # 按 channel_id 排序
-    sorted_channel_ids = sorted(all_channels.keys())
-
-    # 添加 channel 节点
-    for channel_id in sorted_channel_ids:
+    # 添加 channel 节点和programme 节点
+    for channel_id in all_channels:
         merged_root.append(all_channels[channel_id])
-
-    # 添加 programme 节点
-    for channel_id in sorted_channel_ids:
         for programme in channel_programmes[channel_id]:
             merged_root.append(programme)
 
