@@ -38,17 +38,39 @@ jobs:
       - name: Set Timezone
         run: sudo timedatectl set-timezone 'Asia/Shanghai'
       
-      - name: Update tv-guide
+      - name: Get EPG by day
         run: |
           pwd
           python get-epg.py
+
+      - name: Remove old EPG files (older than 7 days)
+        run: |
+          find . -type f -name 'epg_*.xml' | while read file; do
+          filename=$(basename "$file")
+          date_str=$(echo "$filename" | sed -E 's/epg_([0-9]{8})\.xml/\1/')
+          file_date=$(date -d "$date_str" +%s 2>/dev/null || true)
+          if [ -z "$file_date" ]; then
+             echo "无法解析日期: $filename"
+          continue
+          fi
+          threshold_date=$(date -d "7 days ago" +%s)
+          if [ "$file_date" -lt "$threshold_date" ]; then
+            echo "删除过期文件: $file"
+            rm -f "$file"
+          fi
+          done
+
+      - name: Emergy EPG files
+        run: |
+          pwd
+          python emergy.py
 
       - name: Commit changes
         run: |
           git config --local user.email "github-actions-bot@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git diff-index --quiet HEAD || git commit -m "🚀 update tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
+          git diff-index --quiet HEAD || git commit -m "🚀 update epg file at $(date '+%Y-%m-%d %H:%M:%S')"
       - name: Pull changes
         run: git pull -r
       - name: Push changes
