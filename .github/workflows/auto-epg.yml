@@ -43,6 +43,24 @@ jobs:
           pwd
           python get-epg.py
 
+      - name: Rename today's epg_ file to e.xml and compress as e.xml.gz
+        run: |
+          # 获取今天的日期
+          today=$(date '+%Y%m%d')
+    
+          # 查找以 epg_ 开头且日期为今天的文件
+          for file in epg_${today}.xml; do
+            if [ -f "$file" ]; then
+              echo "找到今天的EPG文件: $file"
+              cp "$file" e.xml
+              gzip -c e.xml > e.xml.gz
+              echo "已生成 e.xml 和 e.xml.gz"
+              break
+            else
+              echo "没有找到今天的 EPG 文件: epg_${today}.xml"
+            fi
+          done
+
       - name: Remove old EPG files (older than 7 days)
         run: |
           find . -type f -name 'epg_*.xml' | while read file; do
@@ -64,6 +82,10 @@ jobs:
         run: |
           pwd
           python merge.py
+
+      - name: Compress all.xml to all.xml.gz
+        run: |
+          gzip -c all.xml > all.xml.gz
 
       - name: Commit changes
         run: |
