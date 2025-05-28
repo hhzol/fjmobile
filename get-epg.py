@@ -34,8 +34,8 @@ tz = timezone(timedelta(hours=8))
 base_date = datetime.now(tz).replace(hour=0, minute=0, second=0, microsecond=0)
 
 # 按日期生成XML
-for offset in range(9):  # 0=今天, 1=明天, 2=后天
-    appoint_date = base_date + timedelta(days=(offset-6))
+for offset in range(3):  # 0=今天, 1=明天, 2=后天
+    appoint_date = base_date + timedelta(days=offset)
     target_playDate = int(appoint_date.timestamp())
     date_str = appoint_date.strftime('%Y%m%d')
 
