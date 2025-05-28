@@ -8,3 +8,6 @@
 
 
 四、当天的数据转存为e.xml并打包为e.xml.gz
+
+
+五、频道的准确名称见channels.txt
