@@ -38,7 +38,8 @@ def merge_epg_files(output_file="all.xml"):
                 all_channels[channel_id] = channel
 
         all_programmes.extend(root.findall("programme"))
-
+        print(f"节目已添加: {file}")
+        
     for elem in merged_root.findall("channel"):
         merged_root.remove(elem)
     for elem in merged_root.findall("programme"):
