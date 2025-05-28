@@ -63,7 +63,7 @@ jobs:
       - name: Emergy EPG files
         run: |
           pwd
-          python emergy.py
+          python merge.py
 
       - name: Commit changes
         run: |
