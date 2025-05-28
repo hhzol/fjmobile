@@ -10,4 +10,4 @@
 四、将9天的历史数据（含明后天）合并为all.xml并打包为all.xml.gz，地址：https://epg.136605.xyz/all.xml.gz
 
 
-五、当天的数据转存为e.xml并打包为e.xml.gz,地址：https://epg.136605.xyz/e.xml.gz
+五、当天的数据转存为e.xml并打包为e.xml.gz，地址：https://epg.136605.xyz/e.xml.gz
