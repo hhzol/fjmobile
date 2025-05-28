@@ -30,7 +30,7 @@ for channel_id, info in channels.items():
     channel_data[channel_id] = data.get('content', [])
     print(f"已获取频道: {info['channel_name']}")
 
-# 获取当
+# 获取今天时间，以确定生成的xml日期
 tz = timezone(timedelta(hours=8))
 base_date = datetime.now(tz).replace(hour=0, minute=0, second=0, microsecond=0)
 
