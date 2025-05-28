@@ -1,6 +1,7 @@
 import os
 import glob
 import xml.etree.ElementTree as ET
+from collections import defaultdict
 
 def extract_date(filename):
     """从文件名中提取日期"""
@@ -19,7 +20,7 @@ def merge_epg_files(output_file="all.xml"):
         return
 
     all_channels = {}
-    all_programmes = []
+    channel_programmes = defaultdict(list)  # 新增：按 channel_id 分类存储 programme
 
     for idx, file in enumerate(epg_files):
         print(f"处理文件: {file}")
@@ -30,25 +31,34 @@ def merge_epg_files(output_file="all.xml"):
             print(f"解析文件 {file} 出错: {e}")
             continue
 
+        # 收集 channel 节点
         for channel in root.findall("channel"):
             channel_id = channel.get("id")
             if channel_id not in all_channels:
                 all_channels[channel_id] = channel
 
-        programmes = root.findall("programme")
-        all_programmes.extend(programmes)
-        print(f"找到 {len(programmes)} 个 programme 节点，已添加: {file}")
+        # 收集 programme 节点，并按 channel_id 分类
+        for programme in root.findall("programme"):
+            channel_id = programme.get("channel")
+            if channel_id:
+                channel_programmes[channel_id].append(programme)
+
+        print(f"文件 {file} 中已添加 {len(root.findall('programme'))} 个 programme 节点")
 
     # 创建新的根节点 <tv>
     merged_root = ET.Element("tv")
 
-    # 添加 <channel> 节点
-    for channel in all_channels.values():
-        merged_root.append(channel)
+    # 按 channel_id 排序
+    sorted_channel_ids = sorted(all_channels.keys())
 
-    # 添加 <programme> 节点
-    for programme in all_programmes:
-        merged_root.append(programme)
+    # 添加 channel 节点
+    for channel_id in sorted_channel_ids:
+        merged_root.append(all_channels[channel_id])
+
+    # 添加 programme 节点
+    for channel_id in sorted_channel_ids:
+        for programme in channel_programmes[channel_id]:
+            merged_root.append(programme)
 
     # 写入输出文件
     merged_tree = ET.ElementTree(merged_root)
