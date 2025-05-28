@@ -3,360 +3,6 @@
   <channel id="1">
     <display-name>CCTV1</display-name>
   </channel>
-  <channel id="2">
-    <display-name>CCTV2</display-name>
-  </channel>
-  <channel id="3">
-    <display-name>CCTV3</display-name>
-  </channel>
-  <channel id="4">
-    <display-name>CCTV4</display-name>
-  </channel>
-  <channel id="5">
-    <display-name>CCTV5</display-name>
-  </channel>
-  <channel id="6">
-    <display-name>CCTV5+</display-name>
-  </channel>
-  <channel id="7">
-    <display-name>CCTV6</display-name>
-  </channel>
-  <channel id="8">
-    <display-name>CCTV7</display-name>
-  </channel>
-  <channel id="9">
-    <display-name>CCTV8</display-name>
-  </channel>
-  <channel id="10">
-    <display-name>CCTV9</display-name>
-  </channel>
-  <channel id="11">
-    <display-name>CCTV10</display-name>
-  </channel>
-  <channel id="12">
-    <display-name>CCTV11</display-name>
-  </channel>
-  <channel id="13">
-    <display-name>CCTV12</display-name>
-  </channel>
-  <channel id="14">
-    <display-name>CCTV13</display-name>
-  </channel>
-  <channel id="15">
-    <display-name>CCTV14</display-name>
-  </channel>
-  <channel id="16">
-    <display-name>CCTV15</display-name>
-  </channel>
-  <channel id="17">
-    <display-name>CCTV16</display-name>
-  </channel>
-  <channel id="18">
-    <display-name>CCTV16 4K</display-name>
-  </channel>
-  <channel id="19">
-    <display-name>CCTV17</display-name>
-  </channel>
-  <channel id="20">
-    <display-name>CGTN纪录</display-name>
-  </channel>
-  <channel id="21">
-    <display-name>CGTN</display-name>
-  </channel>
-  <channel id="22">
-    <display-name>CGTN法语</display-name>
-  </channel>
-  <channel id="23">
-    <display-name>CGTN俄语</display-name>
-  </channel>
-  <channel id="24">
-    <display-name>CGTN西语</display-name>
-  </channel>
-  <channel id="25">
-    <display-name>CGTN阿语</display-name>
-  </channel>
-  <channel id="26">
-    <display-name>中国天气</display-name>
-  </channel>
-  <channel id="27">
-    <display-name>CETV1</display-name>
-  </channel>
-  <channel id="28">
-    <display-name>CETV2</display-name>
-  </channel>
-  <channel id="29">
-    <display-name>CETV4</display-name>
-  </channel>
-  <channel id="30">
-    <display-name>福建综合</display-name>
-  </channel>
-  <channel id="31">
-    <display-name>东南卫视</display-name>
-  </channel>
-  <channel id="32">
-    <display-name>福建乡村振兴</display-name>
-  </channel>
-  <channel id="33">
-    <display-name>福建新闻</display-name>
-  </channel>
-  <channel id="34">
-    <display-name>福建电视剧</display-name>
-  </channel>
-  <channel id="35">
-    <display-name>福建旅游</display-name>
-  </channel>
-  <channel id="36">
-    <display-name>福建经济</display-name>
-  </channel>
-  <channel id="37">
-    <display-name>福建文体</display-name>
-  </channel>
-  <channel id="38">
-    <display-name>福建少儿</display-name>
-  </channel>
-  <channel id="39">
-    <display-name>海峡卫视</display-name>
-  </channel>
-  <channel id="40">
-    <display-name>福建教育</display-name>
-  </channel>
-  <channel id="41">
-    <display-name>厦门卫视</display-name>
-  </channel>
-  <channel id="42">
-    <display-name>厦门1</display-name>
-  </channel>
-  <channel id="43">
-    <display-name>厦门2</display-name>
-  </channel>
-  <channel id="44">
-    <display-name>厦门3</display-name>
-  </channel>
-  <channel id="45">
-    <display-name>北京卫视</display-name>
-  </channel>
-  <channel id="46">
-    <display-name>天津卫视</display-name>
-  </channel>
-  <channel id="47">
-    <display-name>河北卫视</display-name>
-  </channel>
-  <channel id="48">
-    <display-name>山西卫视</display-name>
-  </channel>
-  <channel id="49">
-    <display-name>内蒙古卫视</display-name>
-  </channel>
-  <channel id="50">
-    <display-name>辽宁卫视</display-name>
-  </channel>
-  <channel id="51">
-    <display-name>吉林卫视</display-name>
-  </channel>
-  <channel id="52">
-    <display-name>黑龙江卫视</display-name>
-  </channel>
-  <channel id="53">
-    <display-name>东方卫视</display-name>
-  </channel>
-  <channel id="54">
-    <display-name>江苏卫视</display-name>
-  </channel>
-  <channel id="55">
-    <display-name>浙江卫视</display-name>
-  </channel>
-  <channel id="56">
-    <display-name>安徽卫视</display-name>
-  </channel>
-  <channel id="57">
-    <display-name>江西卫视</display-name>
-  </channel>
-  <channel id="58">
-    <display-name>山东卫视</display-name>
-  </channel>
-  <channel id="59">
-    <display-name>河南卫视</display-name>
-  </channel>
-  <channel id="60">
-    <display-name>湖北卫视</display-name>
-  </channel>
-  <channel id="61">
-    <display-name>湖南卫视</display-name>
-  </channel>
-  <channel id="62">
-    <display-name>广东卫视</display-name>
-  </channel>
-  <channel id="63">
-    <display-name>广西卫视</display-name>
-  </channel>
-  <channel id="64">
-    <display-name>海南卫视</display-name>
-  </channel>
-  <channel id="65">
-    <display-name>重视卫视</display-name>
-  </channel>
-  <channel id="66">
-    <display-name>四川卫视</display-name>
-  </channel>
-  <channel id="67">
-    <display-name>贵州卫视</display-name>
-  </channel>
-  <channel id="68">
-    <display-name>云南卫视</display-name>
-  </channel>
-  <channel id="69">
-    <display-name>西藏卫视</display-name>
-  </channel>
-  <channel id="70">
-    <display-name>陕西卫视</display-name>
-  </channel>
-  <channel id="71">
-    <display-name>甘肃卫视</display-name>
-  </channel>
-  <channel id="72">
-    <display-name>青海卫视</display-name>
-  </channel>
-  <channel id="73">
-    <display-name>宁夏卫视</display-name>
-  </channel>
-  <channel id="74">
-    <display-name>新疆卫视</display-name>
-  </channel>
-  <channel id="75">
-    <display-name>深圳卫视</display-name>
-  </channel>
-  <channel id="76">
-    <display-name>兵团卫视</display-name>
-  </channel>
-  <channel id="77">
-    <display-name>三沙卫视</display-name>
-  </channel>
-  <channel id="78">
-    <display-name>康巴卫视</display-name>
-  </channel>
-  <channel id="79">
-    <display-name>延边卫视</display-name>
-  </channel>
-  <channel id="80">
-    <display-name>纪实科教</display-name>
-  </channel>
-  <channel id="81">
-    <display-name>先锋乒羽</display-name>
-  </channel>
-  <channel id="82">
-    <display-name>快乐垂钓</display-name>
-  </channel>
-  <channel id="83">
-    <display-name>山东教育</display-name>
-  </channel>
-  <channel id="84">
-    <display-name>茶频道</display-name>
-  </channel>
-  <channel id="85">
-    <display-name>金鹰纪实</display-name>
-  </channel>
-  <channel id="86">
-    <display-name>金鹰卡通</display-name>
-  </channel>
-  <channel id="87">
-    <display-name>哈哈炫动</display-name>
-  </channel>
-  <channel id="88">
-    <display-name>卡酷少儿</display-name>
-  </channel>
-  <channel id="89">
-    <display-name>嘉佳卡通</display-name>
-  </channel>
-  <channel id="90">
-    <display-name>优漫卡通</display-name>
-  </channel>
-  <channel id="91">
-    <display-name>精品大剧</display-name>
-  </channel>
-  <channel id="92">
-    <display-name>古装剧场</display-name>
-  </channel>
-  <channel id="93">
-    <display-name>军旅剧场</display-name>
-  </channel>
-  <channel id="94">
-    <display-name>家庭剧场</display-name>
-  </channel>
-  <channel id="95">
-    <display-name>热播精选</display-name>
-  </channel>
-  <channel id="96">
-    <display-name>爱情喜剧</display-name>
-  </channel>
-  <channel id="97">
-    <display-name>动作电影</display-name>
-  </channel>
-  <channel id="98">
-    <display-name>精品综合</display-name>
-  </channel>
-  <channel id="99">
-    <display-name>惊悚悬疑</display-name>
-  </channel>
-  <channel id="100">
-    <display-name>黑莓电影</display-name>
-  </channel>
-  <channel id="101">
-    <display-name>金牌综艺</display-name>
-  </channel>
-  <channel id="102">
-    <display-name>精品体育</display-name>
-  </channel>
-  <channel id="103">
-    <display-name>精品萌宠</display-name>
-  </channel>
-  <channel id="104">
-    <display-name>中国功夫</display-name>
-  </channel>
-  <channel id="105">
-    <display-name>黑莓动画</display-name>
-  </channel>
-  <channel id="106">
-    <display-name>怡伴健康</display-name>
-  </channel>
-  <channel id="107">
-    <display-name>潮妈辣婆</display-name>
-  </channel>
-  <channel id="108">
-    <display-name>哒啵赛事</display-name>
-  </channel>
-  <channel id="109">
-    <display-name>哒啵电竞</display-name>
-  </channel>
-  <channel id="110">
-    <display-name>精品纪录</display-name>
-  </channel>
-  <channel id="111">
-    <display-name>军事评论</display-name>
-  </channel>
-  <channel id="112">
-    <display-name>炫舞未来</display-name>
-  </channel>
-  <channel id="113">
-    <display-name>CCTV4K</display-name>
-  </channel>
-  <channel id="114">
-    <display-name>北京卫视4K</display-name>
-  </channel>
-  <channel id="115">
-    <display-name>纯享4K</display-name>
-  </channel>
-  <channel id="116">
-    <display-name>睛彩青少</display-name>
-  </channel>
-  <channel id="117">
-    <display-name>睛彩竞技</display-name>
-  </channel>
-  <channel id="118">
-    <display-name>睛彩篮球</display-name>
-  </channel>
-  <channel id="119">
-    <display-name>睛彩广场舞</display-name>
-  </channel>
   <programme start="20250531002900 +0800" stop="20250531005915 +0800" channel="1">
     <title>人文名镇9</title>
   </programme>
@@ -474,6 +120,9 @@
   <programme start="20250601000000 +0800" stop="20250601004900 +0800" channel="1">
     <title>非遗里的中国第三季</title>
   </programme>
+  <channel id="2">
+    <display-name>CCTV2</display-name>
+  </channel>
   <programme start="20250531002600 +0800" stop="20250531010010 +0800" channel="2">
     <title>经济半小时</title>
   </programme>
@@ -588,6 +237,9 @@
   <programme start="20250601000000 +0800" stop="20250601004400 +0800" channel="2">
     <title>赢在AI+5</title>
   </programme>
+  <channel id="3">
+    <display-name>CCTV3</display-name>
+  </channel>
   <programme start="20250531002505 +0800" stop="20250531011105 +0800" channel="3">
     <title>风雨送春归7</title>
   </programme>
@@ -654,6 +306,9 @@
   <programme start="20250601000000 +0800" stop="20250601002625 +0800" channel="3">
     <title>风雨送春归8</title>
   </programme>
+  <channel id="4">
+    <display-name>CCTV4</display-name>
+  </channel>
   <programme start="20250531001340 +0800" stop="20250531005510 +0800" channel="4">
     <title>灿烂的季节40</title>
   </programme>
@@ -780,6 +435,9 @@
   <programme start="20250531230245 +0800" stop="20250601000045 +0800" channel="4">
     <title>健康中国</title>
   </programme>
+  <channel id="5">
+    <display-name>CCTV5</display-name>
+  </channel>
   <programme start="20250531000500 +0800" stop="20250531010500 +0800" channel="5">
     <title>亚洲举重锦标赛-男子109公斤级决赛</title>
   </programme>
@@ -843,6 +501,9 @@
   <programme start="20250601000000 +0800" stop="20250601000500 +0800" channel="5">
     <title>法国网球公开赛-第3轮</title>
   </programme>
+  <channel id="6">
+    <display-name>CCTV5+</display-name>
+  </channel>
   <programme start="20250531003500 +0800" stop="20250531010600 +0800" channel="6">
     <title>世界泳联花样游泳世界杯-埃及站</title>
   </programme>
@@ -897,6 +558,9 @@
   <programme start="20250601000000 +0800" stop="20250601004500 +0800" channel="6">
     <title>欧洲篮球联赛-三、四名决赛</title>
   </programme>
+  <channel id="7">
+    <display-name>CCTV6</display-name>
+  </channel>
   <programme start="20250531005600 +0800" stop="20250531010400 +0800" channel="7">
     <title>今日影评(108)</title>
   </programme>
@@ -987,6 +651,9 @@
   <programme start="20250601000000 +0800" stop="20250601001300 +0800" channel="7">
     <title>树屋上的童真(下)</title>
   </programme>
+  <channel id="8">
+    <display-name>CCTV7</display-name>
+  </channel>
   <programme start="20250531000345 +0800" stop="20250531060200 +0800" channel="8">
     <title>兵器面面观</title>
   </programme>
@@ -1089,6 +756,9 @@
   <programme start="20250601000000 +0800" stop="20250601060200 +0800" channel="8">
     <title>第二战场</title>
   </programme>
+  <channel id="9">
+    <display-name>CCTV8</display-name>
+  </channel>
   <programme start="20250531004215 +0800" stop="20250531012815 +0800" channel="9">
     <title>追光的日子13</title>
   </programme>
@@ -1212,6 +882,9 @@
   <programme start="20250601000000 +0800" stop="20250601004215 +0800" channel="9">
     <title>追光的日子18</title>
   </programme>
+  <channel id="10">
+    <display-name>CCTV9</display-name>
+  </channel>
   <programme start="20250531000300 +0800" stop="20250531005900 +0800" channel="10">
     <title>全景自然</title>
   </programme>
@@ -1299,6 +972,9 @@
   <programme start="20250601000000 +0800" stop="20250601000300 +0800" channel="10">
     <title>寰宇视野</title>
   </programme>
+  <channel id="11">
+    <display-name>CCTV10</display-name>
+  </channel>
   <programme start="20250531001530 +0800" stop="20250531004530 +0800" channel="11">
     <title>味道</title>
   </programme>
@@ -1395,6 +1071,9 @@
   <programme start="20250601000000 +0800" stop="20250601000630 +0800" channel="11">
     <title>味道</title>
   </programme>
+  <channel id="12">
+    <display-name>CCTV11</display-name>
+  </channel>
   <programme start="20250531002600 +0800" stop="20250531060000 +0800" channel="12">
     <title>典藏</title>
   </programme>
@@ -1461,6 +1140,9 @@
   <programme start="20250601000000 +0800" stop="20250601002020 +0800" channel="12">
     <title>承欢记28</title>
   </programme>
+  <channel id="13">
+    <display-name>CCTV12</display-name>
+  </channel>
   <programme start="20250531004200 +0800" stop="20250531013000 +0800" channel="13">
     <title>刘家媳妇18</title>
   </programme>
@@ -1554,6 +1236,9 @@
   <programme start="20250601000000 +0800" stop="20250601002500 +0800" channel="13">
     <title>刘家媳妇20</title>
   </programme>
+  <channel id="14">
+    <display-name>CCTV13</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531010000 +0800" channel="14">
     <title>午夜新闻</title>
   </programme>
@@ -1662,6 +1347,9 @@
   <programme start="20250531230000 +0800" stop="20250601000000 +0800" channel="14">
     <title>24小时</title>
   </programme>
+  <channel id="15">
+    <display-name>CCTV14</display-name>
+  </channel>
   <programme start="20250531055500 +0800" stop="20250531060000 +0800" channel="15">
     <title>中华人民共和国国歌</title>
   </programme>
@@ -1728,6 +1416,9 @@
   <programme start="20250601000000 +0800" stop="20250601001300 +0800" channel="15">
     <title>我们的日子8</title>
   </programme>
+  <channel id="16">
+    <display-name>CCTV15</display-name>
+  </channel>
   <programme start="20250531055800 +0800" stop="20250531060000 +0800" channel="16">
     <title>中华人民共和国国歌</title>
   </programme>
@@ -1779,6 +1470,9 @@
   <programme start="20250601000000 +0800" stop="20250601002800 +0800" channel="16">
     <title>奋楫家国-沈水欢歌颂端阳</title>
   </programme>
+  <channel id="17">
+    <display-name>CCTV16</display-name>
+  </channel>
   <programme start="20250531001000 +0800" stop="20250531010500 +0800" channel="17">
     <title>巴黎奥运会-游泳比赛</title>
   </programme>
@@ -1857,6 +1551,9 @@
   <programme start="20250601000000 +0800" stop="20250601003000 +0800" channel="17">
     <title>巴黎奥运会-三人篮球女子决赛、男子决赛</title>
   </programme>
+  <channel id="18">
+    <display-name>CCTV16 4K</display-name>
+  </channel>
   <programme start="20250531001000 +0800" stop="20250531010500 +0800" channel="18">
     <title>巴黎奥运会-游泳比赛</title>
   </programme>
@@ -1935,6 +1632,9 @@
   <programme start="20250601000000 +0800" stop="20250601003000 +0800" channel="18">
     <title>巴黎奥运会-三人篮球女子决赛、男子决赛</title>
   </programme>
+  <channel id="19">
+    <display-name>CCTV17</display-name>
+  </channel>
   <programme start="20250531002000 +0800" stop="20250531004700 +0800" channel="19">
     <title>大地讲堂</title>
   </programme>
@@ -2037,6 +1737,9 @@
   <programme start="20250601000000 +0800" stop="20250601004400 +0800" channel="19">
     <title>乐游新乡村</title>
   </programme>
+  <channel id="20">
+    <display-name>CGTN纪录</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531003000 +0800" channel="20">
     <title>人文地理(英)</title>
   </programme>
@@ -2145,6 +1848,9 @@
   <programme start="20250531230000 +0800" stop="20250601000000 +0800" channel="20">
     <title>精彩放送(英)</title>
   </programme>
+  <channel id="21">
+    <display-name>CGTN</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531010000 +0800" channel="21">
     <title>全球财经</title>
   </programme>
@@ -2271,6 +1977,9 @@
   <programme start="20250531233000 +0800" stop="20250601000000 +0800" channel="21">
     <title>传承中国</title>
   </programme>
+  <channel id="22">
+    <display-name>CGTN法语</display-name>
+  </channel>
   <programme start="20250531001500 +0800" stop="20250531010000 +0800" channel="22">
     <title>剧场</title>
   </programme>
@@ -2388,6 +2097,9 @@
   <programme start="20250601000000 +0800" stop="20250601001500 +0800" channel="22">
     <title>纪录片</title>
   </programme>
+  <channel id="23">
+    <display-name>CGTN俄语</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531004500 +0800" channel="23">
     <title>剧场</title>
   </programme>
@@ -2529,6 +2241,9 @@
   <programme start="20250531233000 +0800" stop="20250601000000 +0800" channel="23">
     <title>故事汇</title>
   </programme>
+  <channel id="24">
+    <display-name>CGTN西语</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531004500 +0800" channel="24">
     <title>剧场</title>
   </programme>
@@ -2676,6 +2391,9 @@
   <programme start="20250531233000 +0800" stop="20250601000000 +0800" channel="24">
     <title>纪录片</title>
   </programme>
+  <channel id="25">
+    <display-name>CGTN阿语</display-name>
+  </channel>
   <programme start="20250531001500 +0800" stop="20250531010000 +0800" channel="25">
     <title>剧场</title>
   </programme>
@@ -2811,6 +2529,9 @@
   <programme start="20250601000000 +0800" stop="20250601001500 +0800" channel="25">
     <title>剧场</title>
   </programme>
+  <channel id="26">
+    <display-name>中国天气</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531010000 +0800" channel="26">
     <title>伴眠时段</title>
   </programme>
@@ -3303,6 +3024,9 @@
   <programme start="20250531235600 +0800" stop="20250601000000 +0800" channel="26">
     <title>七天城市预报</title>
   </programme>
+  <channel id="27">
+    <display-name>CETV1</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531002200 +0800" channel="27">
     <title>生活服务</title>
   </programme>
@@ -3462,6 +3186,9 @@
   <programme start="20250601000000 +0800" stop="20250601002000 +0800" channel="27">
     <title>经典剧场</title>
   </programme>
+  <channel id="28">
+    <display-name>CETV2</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531002000 +0800" channel="28">
     <title>同上一堂课-一年级数学</title>
   </programme>
@@ -3615,6 +3342,9 @@
   <programme start="20250531233000 +0800" stop="20250601000000 +0800" channel="28">
     <title>生活服务</title>
   </programme>
+  <channel id="29">
+    <display-name>CETV4</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531001000 +0800" channel="29">
     <title>蹦蹦跳跳爱健康</title>
   </programme>
@@ -3762,6 +3492,9 @@
   <programme start="20250531235000 +0800" stop="20250601000000 +0800" channel="29">
     <title>蹦蹦跳跳爱健康</title>
   </programme>
+  <channel id="30">
+    <display-name>福建综合</display-name>
+  </channel>
   <programme start="20250531000200 +0800" stop="20250531002500 +0800" channel="30">
     <title>精选剧场</title>
   </programme>
@@ -3912,6 +3645,9 @@
   <programme start="20250601000000 +0800" stop="20250601002500 +0800" channel="30">
     <title>精选剧场</title>
   </programme>
+  <channel id="31">
+    <display-name>东南卫视</display-name>
+  </channel>
   <programme start="20250531005200 +0800" stop="20250531013400 +0800" channel="31">
     <title>动画片</title>
   </programme>
@@ -4059,6 +3795,9 @@
   <programme start="20250601000000 +0800" stop="20250601005200 +0800" channel="31">
     <title>深夜剧场:哈尔滨一九四四27</title>
   </programme>
+  <channel id="32">
+    <display-name>福建乡村振兴</display-name>
+  </channel>
   <programme start="20250531070000 +0800" stop="20250531093000 +0800" channel="32">
     <title>福建新闻联播</title>
   </programme>
@@ -4086,6 +3825,9 @@
   <programme start="20250601000000 +0800" stop="20250601070000 +0800" channel="32">
     <title>福建新闻联播</title>
   </programme>
+  <channel id="33">
+    <display-name>福建新闻</display-name>
+  </channel>
   <programme start="20250531003000 +0800" stop="20250531012000 +0800" channel="33">
     <title>共享大医生</title>
   </programme>
@@ -4254,6 +3996,9 @@
   <programme start="20250531235500 +0800" stop="20250601000000 +0800" channel="33">
     <title>风物福建</title>
   </programme>
+  <channel id="34">
+    <display-name>福建电视剧</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531021000 +0800" channel="34">
     <title>午夜剧场</title>
   </programme>
@@ -4287,6 +4032,9 @@
   <programme start="20250531214500 +0800" stop="20250601000000 +0800" channel="34">
     <title>精英剧场</title>
   </programme>
+  <channel id="35">
+    <display-name>福建旅游</display-name>
+  </channel>
   <programme start="20250531000100 +0800" stop="20250531003100 +0800" channel="35">
     <title>享福游</title>
   </programme>
@@ -4446,6 +4194,9 @@
   <programme start="20250601000000 +0800" stop="20250601000100 +0800" channel="35">
     <title>海洋季风玩转海岸线</title>
   </programme>
+  <channel id="36">
+    <display-name>福建经济</display-name>
+  </channel>
   <programme start="20250531001000 +0800" stop="20250531012700 +0800" channel="36">
     <title>海洋季风向往的大海</title>
   </programme>
@@ -4563,6 +4314,9 @@
   <programme start="20250601000000 +0800" stop="20250601001000 +0800" channel="36">
     <title>快乐生活一点通</title>
   </programme>
+  <channel id="37">
+    <display-name>福建文体</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531005500 +0800" channel="37">
     <title>青春赛场</title>
   </programme>
@@ -4680,6 +4434,9 @@
   <programme start="20250531232600 +0800" stop="20250601000000 +0800" channel="37">
     <title>名医大健康</title>
   </programme>
+  <channel id="38">
+    <display-name>福建少儿</display-name>
+  </channel>
   <programme start="20250531070000 +0800" stop="20250531080500 +0800" channel="38">
     <title>动画片</title>
   </programme>
@@ -4782,6 +4539,9 @@
   <programme start="20250601000000 +0800" stop="20250601070000 +0800" channel="38">
     <title>欢乐家长群38</title>
   </programme>
+  <channel id="39">
+    <display-name>海峡卫视</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531004200 +0800" channel="39">
     <title>今日海峡</title>
   </programme>
@@ -4914,6 +4674,9 @@
   <programme start="20250531234500 +0800" stop="20250601000000 +0800" channel="39">
     <title>守护蔚蓝</title>
   </programme>
+  <channel id="40">
+    <display-name>福建教育</display-name>
+  </channel>
   <programme start="20250531003000 +0800" stop="20250531063000 +0800" channel="40">
     <title>电视台无节目</title>
   </programme>
@@ -4983,6 +4746,9 @@
   <programme start="20250601000000 +0800" stop="20250601003000 +0800" channel="40">
     <title>一职为你</title>
   </programme>
+  <channel id="41">
+    <display-name>厦门卫视</display-name>
+  </channel>
   <programme start="20250531010000 +0800" stop="20250531013000 +0800" channel="41">
     <title>印象中国(闽)</title>
   </programme>
@@ -5067,6 +4833,9 @@
   <programme start="20250601000000 +0800" stop="20250601001500 +0800" channel="41">
     <title>不可能完成的任务22-23</title>
   </programme>
+  <channel id="42">
+    <display-name>厦门1</display-name>
+  </channel>
   <programme start="20250531004500 +0800" stop="20250531013500 +0800" channel="42">
     <title>电视剧场</title>
   </programme>
@@ -5157,6 +4926,9 @@
   <programme start="20250601000000 +0800" stop="20250601004500 +0800" channel="42">
     <title>电视剧场</title>
   </programme>
+  <channel id="43">
+    <display-name>厦门2</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531063000 +0800" channel="43">
     <title>厦视新闻</title>
   </programme>
@@ -5211,6 +4983,9 @@
   <programme start="20250531234000 +0800" stop="20250601000000 +0800" channel="43">
     <title>厦视新闻</title>
   </programme>
+  <channel id="44">
+    <display-name>厦门3</display-name>
+  </channel>
   <programme start="20250531001500 +0800" stop="20250531063000 +0800" channel="44">
     <title>超人气影院</title>
   </programme>
@@ -5283,6 +5058,9 @@
   <programme start="20250601000000 +0800" stop="20250601001500 +0800" channel="44">
     <title>热血影院</title>
   </programme>
+  <channel id="45">
+    <display-name>北京卫视</display-name>
+  </channel>
   <programme start="20250531000800 +0800" stop="20250531004800 +0800" channel="45">
     <title>身边</title>
   </programme>
@@ -5394,6 +5172,9 @@
   <programme start="20250601000000 +0800" stop="20250601002500 +0800" channel="45">
     <title>晚间剧场:情满四合院43</title>
   </programme>
+  <channel id="46">
+    <display-name>天津卫视</display-name>
+  </channel>
   <programme start="20250531004100 +0800" stop="20250531010500 +0800" channel="46">
     <title>生活服务</title>
   </programme>
@@ -5538,6 +5319,9 @@
   <programme start="20250601000000 +0800" stop="20250601001900 +0800" channel="46">
     <title>生活服务</title>
   </programme>
+  <channel id="47">
+    <display-name>河北卫视</display-name>
+  </channel>
   <programme start="20250531001800 +0800" stop="20250531004400 +0800" channel="47">
     <title>生活服务</title>
   </programme>
@@ -5688,6 +5472,9 @@
   <programme start="20250601000000 +0800" stop="20250601003900 +0800" channel="47">
     <title>晚间剧场:西北岁月39</title>
   </programme>
+  <channel id="48">
+    <display-name>山西卫视</display-name>
+  </channel>
   <programme start="20250531000800 +0800" stop="20250531005500 +0800" channel="48">
     <title>电视剧:地雷战47</title>
   </programme>
@@ -5823,6 +5610,9 @@
   <programme start="20250601000000 +0800" stop="20250601004200 +0800" channel="48">
     <title>电视剧:地雷战50</title>
   </programme>
+  <channel id="49">
+    <display-name>内蒙古卫视</display-name>
+  </channel>
   <programme start="20250531003600 +0800" stop="20250531011700 +0800" channel="49">
     <title>星光剧场:锻刀之绝地重生13</title>
   </programme>
@@ -6000,6 +5790,9 @@
   <programme start="20250531231500 +0800" stop="20250601000000 +0800" channel="49">
     <title>星光剧场:锻刀之绝地重生15</title>
   </programme>
+  <channel id="50">
+    <display-name>辽宁卫视</display-name>
+  </channel>
   <programme start="20250531002100 +0800" stop="20250531011600 +0800" channel="50">
     <title>欢乐点点</title>
   </programme>
@@ -6153,6 +5946,9 @@
   <programme start="20250601000000 +0800" stop="20250601001500 +0800" channel="50">
     <title>纪录片:青海·我们的国家公园第一季</title>
   </programme>
+  <channel id="51">
+    <display-name>吉林卫视</display-name>
+  </channel>
   <programme start="20250531000600 +0800" stop="20250531003600 +0800" channel="51">
     <title>凌晨剧场:鹿鼎记9</title>
   </programme>
@@ -6300,6 +6096,9 @@
   <programme start="20250601000000 +0800" stop="20250601001200 +0800" channel="51">
     <title>凌晨剧场:鹿鼎记13</title>
   </programme>
+  <channel id="52">
+    <display-name>黑龙江卫视</display-name>
+  </channel>
   <programme start="20250531000500 +0800" stop="20250531002900 +0800" channel="52">
     <title>生活服务</title>
   </programme>
@@ -6441,6 +6240,9 @@
   <programme start="20250601000000 +0800" stop="20250601000600 +0800" channel="52">
     <title>午夜剧场</title>
   </programme>
+  <channel id="53">
+    <display-name>东方卫视</display-name>
+  </channel>
   <programme start="20250531001300 +0800" stop="20250531005400 +0800" channel="53">
     <title>梅花红桃21</title>
   </programme>
@@ -6558,6 +6360,9 @@
   <programme start="20250601000000 +0800" stop="20250601001400 +0800" channel="53">
     <title>梅花红桃31</title>
   </programme>
+  <channel id="54">
+    <display-name>江苏卫视</display-name>
+  </channel>
   <programme start="20250531000500 +0800" stop="20250531005400 +0800" channel="54">
     <title>午夜剧场:哈尔滨一九四四24</title>
   </programme>
@@ -6663,6 +6468,9 @@
   <programme start="20250601000000 +0800" stop="20250601002600 +0800" channel="54">
     <title>午夜剧场:哈尔滨一九四四27</title>
   </programme>
+  <channel id="55">
+    <display-name>浙江卫视</display-name>
+  </channel>
   <programme start="20250531001900 +0800" stop="20250531030300 +0800" channel="55">
     <title>奔跑吧第十三季</title>
   </programme>
@@ -6783,6 +6591,9 @@
   <programme start="20250601000000 +0800" stop="20250601011400 +0800" channel="55">
     <title>天赐的声音第六季</title>
   </programme>
+  <channel id="56">
+    <display-name>安徽卫视</display-name>
+  </channel>
   <programme start="20250531000500 +0800" stop="20250531003800 +0800" channel="56">
     <title>纪录片</title>
   </programme>
@@ -6897,6 +6708,9 @@
   <programme start="20250601000000 +0800" stop="20250601003800 +0800" channel="56">
     <title>闪耀吧!大运河</title>
   </programme>
+  <channel id="57">
+    <display-name>江西卫视</display-name>
+  </channel>
   <programme start="20250531001400 +0800" stop="20250531003800 +0800" channel="57">
     <title>生活服务</title>
   </programme>
@@ -7050,6 +6864,9 @@
   <programme start="20250601000000 +0800" stop="20250601002800 +0800" channel="57">
     <title>精品剧场:锻刀之绝地重生9</title>
   </programme>
+  <channel id="58">
+    <display-name>山东卫视</display-name>
+  </channel>
   <programme start="20250531000600 +0800" stop="20250531004100 +0800" channel="58">
     <title>晚间剧场:殊死七日19</title>
   </programme>
@@ -7164,6 +6981,9 @@
   <programme start="20250601000000 +0800" stop="20250601001200 +0800" channel="58">
     <title>午夜剧场:都挺好15</title>
   </programme>
+  <channel id="59">
+    <display-name>河南卫视</display-name>
+  </channel>
   <programme start="20250531004900 +0800" stop="20250531012200 +0800" channel="59">
     <title>纪录片:记住乡愁第四季18</title>
   </programme>
@@ -7299,6 +7119,9 @@
   <programme start="20250601000000 +0800" stop="20250601000300 +0800" channel="59">
     <title>万象剧场:五号特工组12</title>
   </programme>
+  <channel id="60">
+    <display-name>湖北卫视</display-name>
+  </channel>
   <programme start="20250531002700 +0800" stop="20250531012000 +0800" channel="60">
     <title>深夜剧场:激战</title>
   </programme>
@@ -7392,6 +7215,9 @@
   <programme start="20250601000000 +0800" stop="20250601003000 +0800" channel="60">
     <title>深夜剧场:激战</title>
   </programme>
+  <channel id="61">
+    <display-name>湖南卫视</display-name>
+  </channel>
   <programme start="20250531000900 +0800" stop="20250531002100 +0800" channel="61">
     <title>歌手2025上场倒计时</title>
   </programme>
@@ -7503,6 +7329,9 @@
   <programme start="20250601000000 +0800" stop="20250601005900 +0800" channel="61">
     <title>全员加速中2025</title>
   </programme>
+  <channel id="62">
+    <display-name>广东卫视</display-name>
+  </channel>
   <programme start="20250531002400 +0800" stop="20250531015500 +0800" channel="62">
     <title>活力影院</title>
   </programme>
@@ -7626,6 +7455,9 @@
   <programme start="20250601000000 +0800" stop="20250601001600 +0800" channel="62">
     <title>生活服务</title>
   </programme>
+  <channel id="63">
+    <display-name>广西卫视</display-name>
+  </channel>
   <programme start="20250531001600 +0800" stop="20250531005900 +0800" channel="63">
     <title>传奇剧场:飞虎队5</title>
   </programme>
@@ -7773,6 +7605,9 @@
   <programme start="20250601000000 +0800" stop="20250601002200 +0800" channel="63">
     <title>生活服务</title>
   </programme>
+  <channel id="64">
+    <display-name>海南卫视</display-name>
+  </channel>
   <programme start="20250531001000 +0800" stop="20250531001800 +0800" channel="64">
     <title>点赞海南</title>
   </programme>
@@ -7941,6 +7776,9 @@
   <programme start="20250601000000 +0800" stop="20250601001800 +0800" channel="64">
     <title>卫视高尔夫</title>
   </programme>
+  <channel id="65">
+    <display-name>重视卫视</display-name>
+  </channel>
   <programme start="20250531000700 +0800" stop="20250531001800 +0800" channel="65">
     <title>生活服务</title>
   </programme>
@@ -8097,6 +7935,9 @@
   <programme start="20250601000000 +0800" stop="20250601000300 +0800" channel="65">
     <title>深夜剧场</title>
   </programme>
+  <channel id="66">
+    <display-name>四川卫视</display-name>
+  </channel>
   <programme start="20250531001200 +0800" stop="20250531003800 +0800" channel="66">
     <title>生活服务</title>
   </programme>
@@ -8247,6 +8088,9 @@
   <programme start="20250601000000 +0800" stop="20250601000600 +0800" channel="66">
     <title>午夜剧场:武松40</title>
   </programme>
+  <channel id="67">
+    <display-name>贵州卫视</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531002500 +0800" channel="67">
     <title>贵州新闻联播</title>
   </programme>
@@ -8367,6 +8211,9 @@
   <programme start="20250531233300 +0800" stop="20250601000000 +0800" channel="67">
     <title>纪录片:来宵夜吧</title>
   </programme>
+  <channel id="68">
+    <display-name>云南卫视</display-name>
+  </channel>
   <programme start="20250531003200 +0800" stop="20250531010400 +0800" channel="68">
     <title>炫梦剧场:河山32</title>
   </programme>
@@ -8517,6 +8364,9 @@
   <programme start="20250601000000 +0800" stop="20250601003200 +0800" channel="68">
     <title>生活服务</title>
   </programme>
+  <channel id="69">
+    <display-name>西藏卫视</display-name>
+  </channel>
   <programme start="20250531001800 +0800" stop="20250531010200 +0800" channel="69">
     <title>午夜剧场:日光之城18</title>
   </programme>
@@ -8661,6 +8511,9 @@
   <programme start="20250601000000 +0800" stop="20250601002000 +0800" channel="69">
     <title>午夜剧场:日光之城19</title>
   </programme>
+  <channel id="70">
+    <display-name>陕西卫视</display-name>
+  </channel>
   <programme start="20250531003100 +0800" stop="20250531010100 +0800" channel="70">
     <title>纪录时间</title>
   </programme>
@@ -8793,6 +8646,9 @@
   <programme start="20250601000000 +0800" stop="20250601005100 +0800" channel="70">
     <title>电影</title>
   </programme>
+  <channel id="71">
+    <display-name>甘肃卫视</display-name>
+  </channel>
   <programme start="20250531000100 +0800" stop="20250531002500 +0800" channel="71">
     <title>生活服务</title>
   </programme>
@@ -8970,6 +8826,9 @@
   <programme start="20250601000000 +0800" stop="20250601000100 +0800" channel="71">
     <title>晚间剧场</title>
   </programme>
+  <channel id="72">
+    <display-name>青海卫视</display-name>
+  </channel>
   <programme start="20250531001300 +0800" stop="20250531011900 +0800" channel="72">
     <title>龙斗之UFC</title>
   </programme>
@@ -9093,6 +8952,9 @@
   <programme start="20250601000000 +0800" stop="20250601011800 +0800" channel="72">
     <title>龙斗之ONE冠军赛</title>
   </programme>
+  <channel id="73">
+    <display-name>宁夏卫视</display-name>
+  </channel>
   <programme start="20250531001700 +0800" stop="20250531005500 +0800" channel="73">
     <title>纪录片:百年巨匠第二季</title>
   </programme>
@@ -9279,6 +9141,9 @@
   <programme start="20250601000000 +0800" stop="20250601002600 +0800" channel="73">
     <title>纪录片:百年巨匠第二季</title>
   </programme>
+  <channel id="74">
+    <display-name>新疆卫视</display-name>
+  </channel>
   <programme start="20250531001200 +0800" stop="20250531003500 +0800" channel="74">
     <title>经典·诵读</title>
   </programme>
@@ -9429,6 +9294,9 @@
   <programme start="20250601000000 +0800" stop="20250601001200 +0800" channel="74">
     <title>生活服务</title>
   </programme>
+  <channel id="75">
+    <display-name>深圳卫视</display-name>
+  </channel>
   <programme start="20250531000500 +0800" stop="20250531002100 +0800" channel="75">
     <title>直财经</title>
   </programme>
@@ -9576,6 +9444,9 @@
   <programme start="20250601000000 +0800" stop="20250601000100 +0800" channel="75">
     <title>直财经</title>
   </programme>
+  <channel id="76">
+    <display-name>兵团卫视</display-name>
+  </channel>
   <programme start="20250531003000 +0800" stop="20250531010100 +0800" channel="76">
     <title>生活服务</title>
   </programme>
@@ -9717,6 +9588,9 @@
   <programme start="20250601000000 +0800" stop="20250601002800 +0800" channel="76">
     <title>午夜剧场:花儿与远方19</title>
   </programme>
+  <channel id="77">
+    <display-name>三沙卫视</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531004000 +0800" channel="77">
     <title>风尚潮</title>
   </programme>
@@ -9840,6 +9714,9 @@
   <programme start="20250531232000 +0800" stop="20250601000000 +0800" channel="77">
     <title>巡航祖宗海</title>
   </programme>
+  <channel id="78">
+    <display-name>康巴卫视</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531001500 +0800" channel="78">
     <title>康巴卫视新闻</title>
   </programme>
@@ -9969,6 +9846,9 @@
   <programme start="20250531233000 +0800" stop="20250601000000 +0800" channel="78">
     <title>央视新闻联播</title>
   </programme>
+  <channel id="79">
+    <display-name>延边卫视</display-name>
+  </channel>
   <programme start="20250531003000 +0800" stop="20250531012000 +0800" channel="79">
     <title>配音剧场</title>
   </programme>
@@ -10047,6 +9927,9 @@
   <programme start="20250601000000 +0800" stop="20250601003000 +0800" channel="79">
     <title>配音剧场</title>
   </programme>
+  <channel id="80">
+    <display-name>纪实科教</display-name>
+  </channel>
   <programme start="20250531003900 +0800" stop="20250531010500 +0800" channel="80">
     <title>纪录时间</title>
   </programme>
@@ -10158,6 +10041,15 @@
   <programme start="20250601000000 +0800" stop="20250601004400 +0800" channel="80">
     <title>探索</title>
   </programme>
+  <channel id="81">
+    <display-name>先锋乒羽</display-name>
+  </channel>
+  <channel id="82">
+    <display-name>快乐垂钓</display-name>
+  </channel>
+  <channel id="83">
+    <display-name>山东教育</display-name>
+  </channel>
   <programme start="20250531004900 +0800" stop="20250531013400 +0800" channel="83">
     <title>薛仁贵传奇</title>
   </programme>
@@ -10260,6 +10152,18 @@
   <programme start="20250601000000 +0800" stop="20250601004900 +0800" channel="83">
     <title>静屏</title>
   </programme>
+  <channel id="84">
+    <display-name>茶频道</display-name>
+  </channel>
+  <channel id="85">
+    <display-name>金鹰纪实</display-name>
+  </channel>
+  <channel id="86">
+    <display-name>金鹰卡通</display-name>
+  </channel>
+  <channel id="87">
+    <display-name>哈哈炫动</display-name>
+  </channel>
   <programme start="20250531000000 +0800" stop="20250531002700 +0800" channel="87">
     <title>新大头儿子和小头爸爸第五季33</title>
   </programme>
@@ -10425,6 +10329,9 @@
   <programme start="20250531233000 +0800" stop="20250601000000 +0800" channel="87">
     <title>哈哈地球人第二季2</title>
   </programme>
+  <channel id="88">
+    <display-name>卡酷少儿</display-name>
+  </channel>
   <programme start="20250531001300 +0800" stop="20250531003300 +0800" channel="88">
     <title>音乐公主爱美莉Ⅲ2</title>
   </programme>
@@ -10605,6 +10512,9 @@
   <programme start="20250601000000 +0800" stop="20250601001200 +0800" channel="88">
     <title>葫芦兄弟5</title>
   </programme>
+  <channel id="89">
+    <display-name>嘉佳卡通</display-name>
+  </channel>
   <programme start="20250531001200 +0800" stop="20250531002400 +0800" channel="89">
     <title>动画片</title>
   </programme>
@@ -10923,6 +10833,9 @@
   <programme start="20250601000000 +0800" stop="20250601010000 +0800" channel="89">
     <title>动画片</title>
   </programme>
+  <channel id="90">
+    <display-name>优漫卡通</display-name>
+  </channel>
   <programme start="20250531050000 +0800" stop="20250531060000 +0800" channel="90">
     <title>百变校巴</title>
   </programme>
@@ -11004,6 +10917,36 @@
   <programme start="20250601000000 +0800" stop="20250601050000 +0800" channel="90">
     <title>猪猪侠之超星五灵侠</title>
   </programme>
+  <channel id="91">
+    <display-name>精品大剧</display-name>
+  </channel>
+  <channel id="92">
+    <display-name>古装剧场</display-name>
+  </channel>
+  <channel id="93">
+    <display-name>军旅剧场</display-name>
+  </channel>
+  <channel id="94">
+    <display-name>家庭剧场</display-name>
+  </channel>
+  <channel id="95">
+    <display-name>热播精选</display-name>
+  </channel>
+  <channel id="96">
+    <display-name>爱情喜剧</display-name>
+  </channel>
+  <channel id="97">
+    <display-name>动作电影</display-name>
+  </channel>
+  <channel id="98">
+    <display-name>精品综合</display-name>
+  </channel>
+  <channel id="99">
+    <display-name>惊悚悬疑</display-name>
+  </channel>
+  <channel id="100">
+    <display-name>黑莓电影</display-name>
+  </channel>
   <programme start="20250531004949 +0800" stop="20250531021840 +0800" channel="100">
     <title>西游降魔篇之快活城</title>
   </programme>
@@ -11052,6 +10995,30 @@
   <programme start="20250601000000 +0800" stop="20250601011831 +0800" channel="100">
     <title>警察故事</title>
   </programme>
+  <channel id="101">
+    <display-name>金牌综艺</display-name>
+  </channel>
+  <channel id="102">
+    <display-name>精品体育</display-name>
+  </channel>
+  <channel id="103">
+    <display-name>精品萌宠</display-name>
+  </channel>
+  <channel id="104">
+    <display-name>中国功夫</display-name>
+  </channel>
+  <channel id="105">
+    <display-name>黑莓动画</display-name>
+  </channel>
+  <channel id="106">
+    <display-name>怡伴健康</display-name>
+  </channel>
+  <channel id="107">
+    <display-name>潮妈辣婆</display-name>
+  </channel>
+  <channel id="108">
+    <display-name>哒啵赛事</display-name>
+  </channel>
   <programme start="20250531000233 +0800" stop="20250531010215 +0800" channel="108">
     <title>哒啵-联手虎先锋【黑神话悟空】</title>
   </programme>
@@ -11115,6 +11082,9 @@
   <programme start="20250531224630 +0800" stop="20250601000006 +0800" channel="108">
     <title>豆豆小师弟-魔法领域生存【迷你世界】</title>
   </programme>
+  <channel id="109">
+    <display-name>哒啵电竞</display-name>
+  </channel>
   <programme start="20250531000059 +0800" stop="20250531015323 +0800" channel="109">
     <title>哒啵-搜捕者来袭4【元梦之星】</title>
   </programme>
@@ -11178,6 +11148,18 @@
   <programme start="20250601000000 +0800" stop="20250601000639 +0800" channel="109">
     <title>CH酷凡-贝爷生存2【我的世界】</title>
   </programme>
+  <channel id="110">
+    <display-name>精品纪录</display-name>
+  </channel>
+  <channel id="111">
+    <display-name>军事评论</display-name>
+  </channel>
+  <channel id="112">
+    <display-name>炫舞未来</display-name>
+  </channel>
+  <channel id="113">
+    <display-name>CCTV4K</display-name>
+  </channel>
   <programme start="20250531060100 +0800" stop="20250531064100 +0800" channel="113">
     <title>探索·发现</title>
   </programme>
@@ -11298,6 +11280,9 @@
   <programme start="20250601000000 +0800" stop="20250601060100 +0800" channel="113">
     <title>2021丝绸之旅</title>
   </programme>
+  <channel id="114">
+    <display-name>北京卫视4K</display-name>
+  </channel>
   <programme start="20250531000800 +0800" stop="20250531004800 +0800" channel="114">
     <title>身边</title>
   </programme>
@@ -11409,4 +11394,19 @@
   <programme start="20250601000000 +0800" stop="20250601002500 +0800" channel="114">
     <title>晚间剧场:情满四合院43</title>
   </programme>
+  <channel id="115">
+    <display-name>纯享4K</display-name>
+  </channel>
+  <channel id="116">
+    <display-name>睛彩青少</display-name>
+  </channel>
+  <channel id="117">
+    <display-name>睛彩竞技</display-name>
+  </channel>
+  <channel id="118">
+    <display-name>睛彩篮球</display-name>
+  </channel>
+  <channel id="119">
+    <display-name>睛彩广场舞</display-name>
+  </channel>
 </tv>
