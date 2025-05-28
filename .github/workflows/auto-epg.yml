@@ -2,10 +2,6 @@ name: auto update
 
 on:
   workflow_dispatch:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
   schedule:
   # auto update at 1 o'clock Beijing time
   # check at https://crontab.guru/
