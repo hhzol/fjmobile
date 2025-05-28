@@ -1,0 +1,360 @@
+<?xml version="1.0" ?>
+<tv>
+  <channel id="1">
+    <display-name>CCTV1</display-name>
+  </channel>
+  <channel id="2">
+    <display-name>CCTV2</display-name>
+  </channel>
+  <channel id="3">
+    <display-name>CCTV3</display-name>
+  </channel>
+  <channel id="4">
+    <display-name>CCTV4</display-name>
+  </channel>
+  <channel id="5">
+    <display-name>CCTV5</display-name>
+  </channel>
+  <channel id="6">
+    <display-name>CCTV5+</display-name>
+  </channel>
+  <channel id="7">
+    <display-name>CCTV6</display-name>
+  </channel>
+  <channel id="8">
+    <display-name>CCTV7</display-name>
+  </channel>
+  <channel id="9">
+    <display-name>CCTV8</display-name>
+  </channel>
+  <channel id="10">
+    <display-name>CCTV9</display-name>
+  </channel>
+  <channel id="11">
+    <display-name>CCTV10</display-name>
+  </channel>
+  <channel id="12">
+    <display-name>CCTV11</display-name>
+  </channel>
+  <channel id="13">
+    <display-name>CCTV12</display-name>
+  </channel>
+  <channel id="14">
+    <display-name>CCTV13</display-name>
+  </channel>
+  <channel id="15">
+    <display-name>CCTV14</display-name>
+  </channel>
+  <channel id="16">
+    <display-name>CCTV15</display-name>
+  </channel>
+  <channel id="17">
+    <display-name>CCTV16</display-name>
+  </channel>
+  <channel id="18">
+    <display-name>CCTV16 4K</display-name>
+  </channel>
+  <channel id="19">
+    <display-name>CCTV17</display-name>
+  </channel>
+  <channel id="20">
+    <display-name>CGTN纪录</display-name>
+  </channel>
+  <channel id="21">
+    <display-name>CGTN</display-name>
+  </channel>
+  <channel id="22">
+    <display-name>CGTN法语</display-name>
+  </channel>
+  <channel id="23">
+    <display-name>CGTN俄语</display-name>
+  </channel>
+  <channel id="24">
+    <display-name>CGTN西语</display-name>
+  </channel>
+  <channel id="25">
+    <display-name>CGTN阿语</display-name>
+  </channel>
+  <channel id="26">
+    <display-name>中国天气</display-name>
+  </channel>
+  <channel id="27">
+    <display-name>CETV1</display-name>
+  </channel>
+  <channel id="28">
+    <display-name>CETV2</display-name>
+  </channel>
+  <channel id="29">
+    <display-name>CETV4</display-name>
+  </channel>
+  <channel id="30">
+    <display-name>福建综合</display-name>
+  </channel>
+  <channel id="31">
+    <display-name>东南卫视</display-name>
+  </channel>
+  <channel id="32">
+    <display-name>福建乡村振兴</display-name>
+  </channel>
+  <channel id="33">
+    <display-name>福建新闻</display-name>
+  </channel>
+  <channel id="34">
+    <display-name>福建电视剧</display-name>
+  </channel>
+  <channel id="35">
+    <display-name>福建旅游</display-name>
+  </channel>
+  <channel id="36">
+    <display-name>福建经济</display-name>
+  </channel>
+  <channel id="37">
+    <display-name>福建文体</display-name>
+  </channel>
+  <channel id="38">
+    <display-name>福建少儿</display-name>
+  </channel>
+  <channel id="39">
+    <display-name>海峡卫视</display-name>
+  </channel>
+  <channel id="40">
+    <display-name>福建教育</display-name>
+  </channel>
+  <channel id="41">
+    <display-name>厦门卫视</display-name>
+  </channel>
+  <channel id="42">
+    <display-name>厦门1</display-name>
+  </channel>
+  <channel id="43">
+    <display-name>厦门2</display-name>
+  </channel>
+  <channel id="44">
+    <display-name>厦门3</display-name>
+  </channel>
+  <channel id="45">
+    <display-name>北京卫视</display-name>
+  </channel>
+  <channel id="46">
+    <display-name>天津卫视</display-name>
+  </channel>
+  <channel id="47">
+    <display-name>河北卫视</display-name>
+  </channel>
+  <channel id="48">
+    <display-name>山西卫视</display-name>
+  </channel>
+  <channel id="49">
+    <display-name>内蒙古卫视</display-name>
+  </channel>
+  <channel id="50">
+    <display-name>辽宁卫视</display-name>
+  </channel>
+  <channel id="51">
+    <display-name>吉林卫视</display-name>
+  </channel>
+  <channel id="52">
+    <display-name>黑龙江卫视</display-name>
+  </channel>
+  <channel id="53">
+    <display-name>东方卫视</display-name>
+  </channel>
+  <channel id="54">
+    <display-name>江苏卫视</display-name>
+  </channel>
+  <channel id="55">
+    <display-name>浙江卫视</display-name>
+  </channel>
+  <channel id="56">
+    <display-name>安徽卫视</display-name>
+  </channel>
+  <channel id="57">
+    <display-name>江西卫视</display-name>
+  </channel>
+  <channel id="58">
+    <display-name>山东卫视</display-name>
+  </channel>
+  <channel id="59">
+    <display-name>河南卫视</display-name>
+  </channel>
+  <channel id="60">
+    <display-name>湖北卫视</display-name>
+  </channel>
+  <channel id="61">
+    <display-name>湖南卫视</display-name>
+  </channel>
+  <channel id="62">
+    <display-name>广东卫视</display-name>
+  </channel>
+  <channel id="63">
+    <display-name>广西卫视</display-name>
+  </channel>
+  <channel id="64">
+    <display-name>海南卫视</display-name>
+  </channel>
+  <channel id="65">
+    <display-name>重视卫视</display-name>
+  </channel>
+  <channel id="66">
+    <display-name>四川卫视</display-name>
+  </channel>
+  <channel id="67">
+    <display-name>贵州卫视</display-name>
+  </channel>
+  <channel id="68">
+    <display-name>云南卫视</display-name>
+  </channel>
+  <channel id="69">
+    <display-name>西藏卫视</display-name>
+  </channel>
+  <channel id="70">
+    <display-name>陕西卫视</display-name>
+  </channel>
+  <channel id="71">
+    <display-name>甘肃卫视</display-name>
+  </channel>
+  <channel id="72">
+    <display-name>青海卫视</display-name>
+  </channel>
+  <channel id="73">
+    <display-name>宁夏卫视</display-name>
+  </channel>
+  <channel id="74">
+    <display-name>新疆卫视</display-name>
+  </channel>
+  <channel id="75">
+    <display-name>深圳卫视</display-name>
+  </channel>
+  <channel id="76">
+    <display-name>兵团卫视</display-name>
+  </channel>
+  <channel id="77">
+    <display-name>三沙卫视</display-name>
+  </channel>
+  <channel id="78">
+    <display-name>康巴卫视</display-name>
+  </channel>
+  <channel id="79">
+    <display-name>延边卫视</display-name>
+  </channel>
+  <channel id="80">
+    <display-name>纪实科教</display-name>
+  </channel>
+  <channel id="81">
+    <display-name>先锋乒羽</display-name>
+  </channel>
+  <channel id="82">
+    <display-name>快乐垂钓</display-name>
+  </channel>
+  <channel id="83">
+    <display-name>山东教育</display-name>
+  </channel>
+  <channel id="84">
+    <display-name>茶频道</display-name>
+  </channel>
+  <channel id="85">
+    <display-name>金鹰纪实</display-name>
+  </channel>
+  <channel id="86">
+    <display-name>金鹰卡通</display-name>
+  </channel>
+  <channel id="87">
+    <display-name>哈哈炫动</display-name>
+  </channel>
+  <channel id="88">
+    <display-name>卡酷少儿</display-name>
+  </channel>
+  <channel id="89">
+    <display-name>嘉佳卡通</display-name>
+  </channel>
+  <channel id="90">
+    <display-name>优漫卡通</display-name>
+  </channel>
+  <channel id="91">
+    <display-name>精品大剧</display-name>
+  </channel>
+  <channel id="92">
+    <display-name>古装剧场</display-name>
+  </channel>
+  <channel id="93">
+    <display-name>军旅剧场</display-name>
+  </channel>
+  <channel id="94">
+    <display-name>家庭剧场</display-name>
+  </channel>
+  <channel id="95">
+    <display-name>热播精选</display-name>
+  </channel>
+  <channel id="96">
+    <display-name>爱情喜剧</display-name>
+  </channel>
+  <channel id="97">
+    <display-name>动作电影</display-name>
+  </channel>
+  <channel id="98">
+    <display-name>精品综合</display-name>
+  </channel>
+  <channel id="99">
+    <display-name>惊悚悬疑</display-name>
+  </channel>
+  <channel id="100">
+    <display-name>黑莓电影</display-name>
+  </channel>
+  <channel id="101">
+    <display-name>金牌综艺</display-name>
+  </channel>
+  <channel id="102">
+    <display-name>精品体育</display-name>
+  </channel>
+  <channel id="103">
+    <display-name>精品萌宠</display-name>
+  </channel>
+  <channel id="104">
+    <display-name>中国功夫</display-name>
+  </channel>
+  <channel id="105">
+    <display-name>黑莓动画</display-name>
+  </channel>
+  <channel id="106">
+    <display-name>怡伴健康</display-name>
+  </channel>
+  <channel id="107">
+    <display-name>潮妈辣婆</display-name>
+  </channel>
+  <channel id="108">
+    <display-name>哒啵赛事</display-name>
+  </channel>
+  <channel id="109">
+    <display-name>哒啵电竞</display-name>
+  </channel>
+  <channel id="110">
+    <display-name>精品纪录</display-name>
+  </channel>
+  <channel id="111">
+    <display-name>军事评论</display-name>
+  </channel>
+  <channel id="112">
+    <display-name>炫舞未来</display-name>
+  </channel>
+  <channel id="113">
+    <display-name>CCTV4K</display-name>
+  </channel>
+  <channel id="114">
+    <display-name>北京卫视4K</display-name>
+  </channel>
+  <channel id="115">
+    <display-name>纯享4K</display-name>
+  </channel>
+  <channel id="116">
+    <display-name>睛彩青少</display-name>
+  </channel>
+  <channel id="117">
+    <display-name>睛彩竞技</display-name>
+  </channel>
+  <channel id="118">
+    <display-name>睛彩篮球</display-name>
+  </channel>
+  <channel id="119">
+    <display-name>睛彩广场舞</display-name>
+  </channel>
+</tv>
