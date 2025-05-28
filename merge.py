@@ -27,7 +27,8 @@ def merge_epg_files(output_file="all.xml"):
         print(f"处理文件: {file}")
         tree = ET.parse(file)
         root = tree.getroot()
-
+        programmes = root.findall("programme")
+        print(f"找到 {len(programmes)} 个 programme 节点")
         if idx == 0:
             merged_tree = tree
             merged_root = root
