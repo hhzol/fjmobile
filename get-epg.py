@@ -7,9 +7,10 @@ import xml.dom.minidom
 fixurl = "http://watchtv.fja.bcs.ottcn.com:8080/cms-lvp-epg/lvps/getAllProgramlist?abilityString=%257B%2522CITY_CODE%2522%253A%2522592%2522%252C%2522COUNTY_CODE%2522%253A%2522201%2522%252C%2522VILLAGE_CODE%2522%253A%2522000102091010000414404459%2522%252C%2522abilities%2522%253A%255B%2522Playable-YOUKU%257CPlayable-IQIYI%257CDL-3rd%2522%252C%25224K-1%257CtimeShift%257CNxM%2522%252C%25224K-1%257Ccp-TENCENT%2522%255D%252C%2522businessGroupIds%2522%253A%255B%255D%252C%2522deviceGroupIds%2522%253A%255B%25222081%2522%255D%252C%2522districtCode%2522%253A%2522350200%2522%252C%2522labelIds%2522%253A%255B%25223570%2522%255D%252C%2522userGroupIds%2522%253A%255B%2522350000%2522%255D%252C%2522userLabelIds%2522%253A%255B%25223570%2522%255D%257D"
 
 # 获取数据的起止日期：今明后三天
-base_date0 = datetime.today().date()
-startdate = (base_date0  - timedelta(days=0)).strftime("%Y%m%d")
-enddate = (base_date0  + timedelta(days=2)).strftime("%Y%m%d")
+tz = timezone(timedelta(hours=8))
+base_date = datetime.now(tz).replace(hour=0, minute=0, second=0, microsecond=0)
+startdate = (base_date  - timedelta(days=0)).strftime("%Y%m%d")
+enddate = (base_date  + timedelta(days=2)).strftime("%Y%m%d")
 
 # 从channels.txt中读取频道uuid
 channels = {}
@@ -30,25 +31,21 @@ for channel_id, info in channels.items():
     channel_data[channel_id] = data.get('content', [])
     print(f"已获取频道: {info['channel_name']}")
 
-# 获取今天时间，以确定生成的xml日期
-tz = timezone(timedelta(hours=8))
-base_date = datetime.now(tz).replace(hour=0, minute=0, second=0, microsecond=0)
-
-# 按日期生成XML
-for offset in range(2):  # 1=明天, 2=后天
+# 按指定的日期生成XML，offset的值为1=明天, 2=后天
+for offset in range(2):
     appoint_date = base_date + timedelta(days=(offset+1))
     target_playDate = int(appoint_date.timestamp())
     date_str = appoint_date.strftime('%Y%m%d')
 
     tv = ET.Element('tv')
 
-    # 添加channel节点
+    # 添加频道
     for channel_id, info in channels.items():
         channel_element = ET.SubElement(tv, 'channel', id=channel_id)
         display_name = ET.SubElement(channel_element, 'display-name')
         display_name.text = info['channel_name']
 
-    # 按频道顺序添加programme节点
+    # 按频道添加节目
     for channel_id, programs_by_day in channel_data.items():
         programs = []
         for day in programs_by_day:
