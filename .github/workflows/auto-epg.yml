@@ -95,6 +95,15 @@ jobs:
           gzip -c all.xml > all.xml.gz
           gzip -c more.xml > more.xml.gz
           rm -f sources.xml sources.xml.gz
+
+      - name: summary of file size
+        run: |
+          echo "$(stat -c "%s" e.xml)" > size.txt
+          echo "$(stat -c "%s" e.xml.gz)" >> size.txt
+          echo "$(stat -c "%s" all.xml)" >> size.txt
+          echo "$(stat -c "%s" all.xml.gz)" >> size.txt
+          echo "$(stat -c "%s" more.xml)" >> size.txt
+          echo "$(stat -c "%s" more.xml.gz)" >> size.txt
           
       - name: Commit changes
         run: |
