@@ -93,6 +93,7 @@ jobs:
       - name: Compress all.xml to all.xml.gz
         run: |
           gzip -c all.xml > all.xml.gz
+          gzip -c more.xml > more.xml.gz
 
       - name: Commit changes
         run: |
