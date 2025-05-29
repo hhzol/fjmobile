@@ -22,7 +22,6 @@ jobs:
 
       - name: Install dependencies
         run: |
-          sudo apt-get update && sudo apt-get install -y libxml2-utils
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - uses: actions/cache@v3
@@ -84,13 +83,12 @@ jobs:
           wget -O sources.xml.gz https://raw.githubusercontent.com/kuke31/xmlgz/refs/heads/main/all.xml.gz
           gunzip -c sources.xml.gz > sources.xml
           echo "已下载e.erw.cc节目单并解压为 sources.xml"
-          
+
       - name: Merge more files
         run: |
           pwd
           python extra.py
-          find . -name "more.xml" -exec xmllint --format --encode UTF-8 --output {} {} \;
-          
+
       - name: Compress epg files and delete interim files
         run: |
           gzip -c e.xml > e.xml.gz
