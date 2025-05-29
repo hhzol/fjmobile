@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>EPG 更新页面</title>
+  <style>
+    table { border-collapse: collapse; width: 80%; margin: 20px auto; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: center; }
+    th { background: #f0f0f0; }
+  </style>
+</head>
+<body>
+  <h1>EPG 更新页面</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>序号</th>
+        <th>文件名</th>
+        <th>上次更新</th>
+        <th>链接</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>e.xml</td>
+        <td class="update-time">-</td>
+        <td><a href="https://epg.136605.xyz/e.xml" target="_blank">https://epg.136605.xyz/e.xml</a></td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>all.xml</td>
+        <td class="update-time">-</td>
+        <td><a href="https://epg.136605.xyz/all.xml" target="_blank">https://epg.136605.xyz/all.xml</a></td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>more.xml</td>
+        <td class="update-time">-</td>
+        <td><a href="https://epg.136605.xyz/more.xml" target="_blank">https://epg.136605.xyz/more.xml</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const rows = document.querySelectorAll("tbody tr");
+
+      rows.forEach(row => {
+        const link = row.querySelector("a[href$='.xml']");
+        const updateCell = row.querySelector(".update-time");
+
+        if (link && updateCell) {
+          fetch(link.href, { method: 'HEAD' })
+            .then(response => {
+              const lastModified = response.headers.get("Last-Modified");
+              if (lastModified) {
+                const date = new Date(lastModified);
+                // 格式化日期时间为 yyyy-MM-dd HH:mm:ss
+                const formatted = date.getFullYear() + '-' +
+                                  String(date.getMonth() + 1).padStart(2, '0') + '-' +
+                                  String(date.getDate()).padStart(2, '0') + ' ' +
+                                  String(date.getHours()).padStart(2, '0') + ':' +
+                                  String(date.getMinutes()).padStart(2, '0') + ':' +
+                                  String(date.getSeconds()).padStart(2, '0');
+                updateCell.textContent = formatted;
+              } else {
+                updateCell.textContent = "未知";
+              }
+            })
+            .catch(err => {
+              console.error("获取失败:", err);
+              updateCell.textContent = "错误";
+            });
+        }
+      });
+    });
+  </script>
+</body>
+</html>
