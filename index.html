@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>免费电子节目单服务</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f9f9f9; }
+    header { background-color: #3498db; color: white; padding: 20px 0; text-align: center; }
+    nav { background-color: #2980b9; padding: 10px 0; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; }
+    main { padding: 20px; max-width: 800px; margin: auto; }
+    section { margin-bottom: 30px; }
+    h2 { color: #2c3e50; }
+    table { width: 100%; border-collapse: collapse; margin-top: 1em; }
+    th, td { padding: 0.75em; border: 1px solid #ccc; text-align: left; }
+    th { background: #f0f0f0; }
+    .guide { margin-top: 2em; background: #e0f7fa; padding: 1em; border-left: 4px solid #0097a7; }
+    .url { font-family: monospace; color: #00796b; }
+    footer { background-color: #ecf0f1; text-align: center; padding: 15px 0; color: #7f8c8d; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>免费电子节目单服务</h1>
+    <p>支持多种APP，永久免费，每日自动更新</p>
+  </header>
+  <nav>
+    <a href="index.html">首页</a>
+    <a href="download.html">订阅地址</a>
+    <a href="channels.html">频道列表</a>
+    <a href="mailto:hhz@136605.xyz">联系我们</a>
+  </nav>
+  <main>
+    <section>
+      <h2>📺 EPG下载</h2>
+      <p>欢迎下载最新的EPG（电子节目单）文件，用于播放器使用。</p>
+      <table>
+        <tr>
+          <th>EPG类型</th>
+          <th>文件名称(数据/压缩包)</th>
+          <th>数据时效</th>
+          <th>说明</th>
+        </tr>
+        <tr>
+          <td>基础频道 (当天数据)</td>
+          <td><a href="https://epg.136605.xyz/e.xml">e.xml</a> / <a href="https://epg.136605.xyz/e.xml.gz">e.xml.gz</a></td>
+          <td>当天</td>
+          <td>基础频道当天节目表</td>
+        </tr>
+        <tr>
+          <td>基础频道 (9天数据)</td>
+          <td><a href="https://epg.136605.xyz/all.xml">all.xml</a> / <a href="https://epg.136605.xyz/all.xml.gz">all.xml.gz</a></td>
+          <td>7天+明后天</td>
+          <td>基础频道9天完整节目表</td>
+        </tr>
+        <tr>
+          <td>基础频道 (9天)+扩展频道 (7天)</td>
+          <td><a href="https://epg.136605.xyz/more.xml">more.xml</a> / <a href="https://epg.136605.xyz/more.xml.gz">more.xml.gz</a></td>
+          <td>基础9天+扩展7天</td>
+          <td>包含基础频道与额外频道</td>
+        </tr>
+      </table>
+    </section>
+    <section class="guide">
+      <h2>📖 使用指南</h2>
+      <p>推荐使用 <strong>酷9</strong> 等播放器。</p>
+      <p>将EPG文件链接（如 <span class="url">https://epg.136605.xyz/more.xml.gz</span>）直接添加到“EPG订阅”中，保持自动更新。</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 免费电子节目单服务 | <a href="mailto:hhz@136605.xyz">hhz@136605.xyz</a></p>
+  </footer>
+</body>
+</html>
