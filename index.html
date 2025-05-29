@@ -13,7 +13,7 @@
     section { margin-bottom: 30px; }
     h2 { color: #2c3e50; }
     table { width: 100%; border-collapse: collapse; margin-top: 1em; }
-    th, td { padding: 0.75em; border: 1px solid #ccc; text-align: left; }
+    th, td { padding: 0.75em; border: 1px solid #ccc; text-align: center; }
     th { background: #f0f0f0; }
     .guide { margin-top: 2em; background: #e0f7fa; padding: 1em; border-left: 4px solid #0097a7; }
     .url { font-family: monospace; color: #00796b; }
@@ -39,26 +39,26 @@
         <tr>
           <th>EPG类型</th>
           <th>文件名称(数据/压缩包)</th>
+          <th>上次更新</th>
           <th>数据时效</th>
-          <th>说明</th>
         </tr>
         <tr>
-          <td>基础频道 (当天数据)</td>
+          <td>基础频道(当天数据)</td>
           <td><a href="https://epg.136605.xyz/e.xml">e.xml</a> / <a href="https://epg.136605.xyz/e.xml.gz">e.xml.gz</a></td>
-          <td>当天</td>
-          <td>基础频道当天节目表</td>
+          <td class="update-time">-</td>
+          <td id="today"></td>
         </tr>
         <tr>
-          <td>基础频道 (9天数据)</td>
+          <td>基础频道(9天数据)</td>
           <td><a href="https://epg.136605.xyz/all.xml">all.xml</a> / <a href="https://epg.136605.xyz/all.xml.gz">all.xml.gz</a></td>
-          <td>7天+明后天</td>
-          <td>基础频道9天完整节目表</td>
+          <td class="update-time">-</td>
+          <td id="range1"></td>
         </tr>
         <tr>
-          <td>基础频道 (9天)+扩展频道 (7天)</td>
+          <td>基础频道(9天)+扩展频道(7天)</td>
           <td><a href="https://epg.136605.xyz/more.xml">more.xml</a> / <a href="https://epg.136605.xyz/more.xml.gz">more.xml.gz</a></td>
-          <td>基础9天+扩展7天</td>
-          <td>包含基础频道与额外频道</td>
+          <td class="update-time">-</td>
+          <td id="range2"></td>
         </tr>
       </table>
     </section>
@@ -71,5 +71,62 @@
   <footer>
     <p>&copy; 2025 免费电子节目单服务 | <a href="mailto:hhz@136605.xyz">hhz@136605.xyz</a></p>
   </footer>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  function formatDateCompact(date) {
+    return date.getFullYear() +
+           String(date.getMonth() + 1).padStart(2, '0') +
+           String(date.getDate()).padStart(2, '0');
+  }
+
+  function formatDate(date) {
+    return date.getFullYear() + '-' +
+           String(date.getMonth() + 1).padStart(2, '0') + '-' +
+           String(date.getDate()).padStart(2, '0');
+  }
+
+  const today = new Date();
+  const todayStr = formatDateCompact(today);
+  document.getElementById("today").textContent = todayStr;
+
+  const sixDaysAgo = new Date(today);
+  sixDaysAgo.setDate(today.getDate() - 6);
+  const range1 = formatDateCompact(sixDaysAgo) + "~" + todayStr;
+  document.getElementById("range1").textContent = range1;
+
+  const dayAfterTomorrow = new Date(today);
+  dayAfterTomorrow.setDate(today.getDate() + 2);
+  const range2 = formatDateCompact(sixDaysAgo) + "~" + formatDateCompact(dayAfterTomorrow);
+  document.getElementById("range2").textContent = range2;
+
+  const rows = document.querySelectorAll("tbody tr");
+  rows.forEach(row => {
+    // 只选第一个 .xml 链接
+    const link = row.querySelector("a[href$='.xml']:not([href$='.xml.gz'])");
+    const updateCell = row.querySelector(".update-time");
+
+    if (link && updateCell) {
+      fetch(link.href, { method: 'HEAD' })
+        .then(response => {
+          const lastModified = response.headers.get("Last-Modified");
+          if (lastModified) {
+            const date = new Date(lastModified);
+            const formatted = formatDate(date) + ' ' +
+                              String(date.getHours()).padStart(2, '0') + ':' +
+                              String(date.getMinutes()).padStart(2, '0') + ':' +
+                              String(date.getSeconds()).padStart(2, '0');
+            updateCell.textContent = formatted;
+          } else {
+            updateCell.textContent = "未知";
+          }
+        })
+        .catch(err => {
+          console.error("获取失败:", err);
+          updateCell.textContent = "错误";
+        });
+    }
+  });
+});
+</script>
 </body>
 </html>
