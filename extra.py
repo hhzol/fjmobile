@@ -92,5 +92,5 @@ def merge_epg_restructured(e_file, e1_file, output_file):
 if __name__ == "__main__":
     e_file = "all.xml"
     e1_file = "sources.xml"
-    output_file = "extra.xml"
+    output_file = "more.xml"
     merge_epg_restructured(e_file, e1_file, output_file)
