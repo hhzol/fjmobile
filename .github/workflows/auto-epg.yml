@@ -89,11 +89,12 @@ jobs:
           pwd
           python extra.py
           
-      - name: Compress epg files
+      - name: Compress epg files and delete interim files
         run: |
           gzip -c e.xml > e.xml.gz
           gzip -c all.xml > all.xml.gz
           gzip -c more.xml > more.xml.gz
+          rm -f sources.xml sources.xml.gz
           
       - name: Commit changes
         run: |
