@@ -74,10 +74,16 @@ jobs:
           fi
           done
 
-      - name: Emergy EPG files
+      - name: Merge EPG files
         run: |
           pwd
           python merge.py
+
+      - name: Download and prepare all.xml.gz as EPG_sources
+        run: |
+          wget -O sources.xml.gz https://raw.githubusercontent.com/kuke31/xmlgz/refs/heads/main/all.xml.gz
+          gunzip -c sources.xml.gz > sources.xml
+          echo "已下载e.erw.cc节目单并解压为 sources.xml"
 
       - name: Compress all.xml to all.xml.gz
         run: |
@@ -95,15 +101,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.TV_TOKEN }}
-          
-#      - name: Git Commit and Push 
-#        run: |
-#          git config core.ignorecase false
-#          git config --local user.email "github-actions-bot@users.noreply.github.com"
-#          git config --local user.name "github-actions[bot]"
-#          git stash
-#          git pull
-#          git stash pop
-#          git add .
-#          git commit -m "🚀 update tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
-#          git push
+
