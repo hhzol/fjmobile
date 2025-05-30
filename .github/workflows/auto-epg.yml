@@ -13,13 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout public repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.TV_TOKEN }}    
       
-      - name: Checkout Private repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           repository: hhzol/epg-scripts
           token: ${{ secrets.PRIVATE_REPO_TOKEN }}
