@@ -45,8 +45,7 @@ jobs:
       - name: Get EPG by day
         run: |
           pwd
-          cd epg-scripts
-          python get-epg.py
+          python epg-scripts/get-epg.py
 
       - name: Copy today's epg_ file to e.xml
         run: |
