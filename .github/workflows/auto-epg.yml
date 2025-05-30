@@ -16,9 +16,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.TV_TOKEN }}    
-
-      - name: Clean old folder (if exists)
-        run: rm -rf epg-scripts
   
       - uses: actions/checkout@v4
         with:
