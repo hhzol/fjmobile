@@ -15,7 +15,7 @@
     ul { list-style: none; padding-left: 0; }
     li { margin: 10px 0; }
     .url { font-family: monospace; color: #00796b; background: #e0f2f1; padding: 2px 4px; border-radius: 4px; }
-    .file-size { color: #e74c3c; font-weight: bold; margin-left: 5px; }
+    .file-size, .download-count { color: #e74c3c; font-weight: bold; margin-left: 5px; }
     .comment { color: #7f8c8d; font-size: 0.9em; margin-left: 10px; }
     footer { background-color: #ecf0f1; text-align: center; padding: 15px 0; color: #7f8c8d; }
   </style>
@@ -37,20 +37,20 @@
 
       <h3>一、基础频道（当天数据）</h3>
       <ul>
-        <li><span class="url">https://epg.136605.xyz/e.xml</span><span class="file-size"></span></li>
-        <li><span class="url">https://epg.136605.xyz/e.xml.gz</span><span class="file-size"></span> <span class="comment">#压缩包</span></li>
+        <li><span class="url" data-path="/e.xml">https://epg.136605.xyz/e.xml</span><span class="file-size"></span><span class="download-count"></span></li>
+        <li><span class="url" data-path="/e.xml.gz">https://epg.136605.xyz/e.xml.gz</span><span class="file-size"></span><span class="download-count"></span> <span class="comment">#压缩包</span></li>
       </ul>
 
       <h3>二、基础频道（9天数据：7日+明后2天）</h3>
       <ul>
-        <li><span class="url">https://epg.136605.xyz/all.xml</span><span class="file-size"></span></li>
-        <li><span class="url">https://epg.136605.xyz/all.xml.gz</span><span class="file-size"></span> <span class="comment">#压缩包</span></li>
+        <li><span class="url" data-path="/all.xml">https://epg.136605.xyz/all.xml</span><span class="file-size"></span><span class="download-count"></span></li>
+        <li><span class="url" data-path="/all.xml.gz">https://epg.136605.xyz/all.xml.gz</span><span class="file-size"></span><span class="download-count"></span> <span class="comment">#压缩包</span></li>
       </ul>
 
       <h3>三、基础频道（9天数据）+ 扩展频道（7天数据）</h3>
       <ul>
-        <li><span class="url">https://epg.136605.xyz/more.xml</span><span class="file-size"></span></li>
-        <li><span class="url">https://epg.136605.xyz/more.xml.gz</span><span class="file-size"></span> <span class="comment">#压缩包</span></li>
+        <li><span class="url" data-path="/more.xml">https://epg.136605.xyz/more.xml</span><span class="file-size"></span><span class="download-count"></span></li>
+        <li><span class="url" data-path="/more.xml.gz">https://epg.136605.xyz/more.xml.gz</span><span class="file-size"></span><span class="download-count"></span> <span class="comment">#压缩包</span></li>
       </ul>
     </section>
   </main>
@@ -60,12 +60,12 @@
 
   <script>
     document.addEventListener("DOMContentLoaded", () => {
+      // 加载文件大小
       fetch("https://epg.136605.xyz/size.txt")
         .then(response => response.text())
         .then(text => {
-          const sizes = text.split("\n").map(size => parseInt(size.trim(), 10)); // 按行拆分，并转换为整数
+          const sizes = text.split("\n").map(size => parseInt(size.trim(), 10));
           const urls = document.querySelectorAll("span.url");
-
           urls.forEach((span, index) => {
             if (sizes[index]) {
               const formattedSize = (sizes[index] / (1024 * 1024)).toFixed(2) + " MB";
@@ -74,6 +74,19 @@
           });
         })
         .catch(err => console.error("读取 size.txt 失败:", err));
+
+      // 加载下载次数
+      fetch("https://epg.136605.xyz/stats.json")
+        .then(response => response.json())
+        .then(data => {
+          const urls = document.querySelectorAll("span.url");
+          urls.forEach(span => {
+            const path = span.getAttribute("data-path");
+            const count = data[path] || 0;
+            span.parentElement.querySelector(".download-count").textContent = ` | 已下载 ${count} 次`;
+          });
+        })
+        .catch(err => console.error("读取 stats.json 失败:", err));
     });
   </script>
 </body>
