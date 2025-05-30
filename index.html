@@ -110,7 +110,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const commitDate = new Date(data[0].commit.committer.date);
       const options = { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit', hour12: false };
-      const formattedDate = commitDate.toLocaleString("zh-CN", options).replace(' ', '').replace(/(\d+)\/(\d+)/, '$1月$2日');
+      const formattedDate = commitDate.toLocaleString("zh-CN", options).replace(' ', ' ').replace(/(\d+)\/(\d+)/, '$1月$2日');
       document.getElementById(file.elementId).textContent = formattedDate;
     } catch (error) {
       console.error(`获取 ${file.name} 出错:`, error);
