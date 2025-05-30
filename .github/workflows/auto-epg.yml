@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: hhzol/epg-scripts
-          token: ${{ secrets.PRIVATE_REPO_TOKEN }}
+          github_token: ${{ secrets.PRIVATE_REPO_TOKEN }}
           path: epg-scripts
 
       - name: Set up Python 3.8
