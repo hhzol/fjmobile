@@ -84,8 +84,7 @@ jobs:
       - name: Merge EPG files
         run: |
           pwd
-          cd epg-scripts
-          python merge.py
+          python epg-scripts/merge.py
 
       - name: Download e.erw.cc EPGs
         run: |
@@ -96,8 +95,7 @@ jobs:
       - name: Merge more files
         run: |
           pwd
-          cd epg-scripts
-          python extra.py
+          python epg-scripts/extra.py
 
       - name: Compress epg files and delete interim files
         run: |
