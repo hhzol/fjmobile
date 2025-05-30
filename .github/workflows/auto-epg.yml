@@ -22,14 +22,6 @@ jobs:
           repository: hhzol/epg-scripts
           token: ${{ secrets.PRIVATE_REPO_TOKEN }}
           path: epg-scripts
-          persist-credentials: true
-          clean: true
-          fetch-depth: 1
-          fetch-tags: false
-          show-progress: true
-          lfs: false
-          submodules: false
-          set-safe-directory: true
           
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
