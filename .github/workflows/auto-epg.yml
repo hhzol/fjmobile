@@ -90,8 +90,8 @@ jobs:
 
       - name: Download e.erw.cc EPGs
         run: |
-          wget -O sources.xml.gz https://raw.githubusercontent.com/kuke31/xmlgz/refs/heads/main/all.xml.gz
-          gunzip -c sources.xml.gz > sources.xml
+          wget -O epg-scripts/sources.xml.gz https://raw.githubusercontent.com/kuke31/xmlgz/refs/heads/main/all.xml.gz
+          gunzip -c epg-scripts/sources.xml.gz > epg-scripts/sources.xml
           echo "已下载e.erw.cc节目单并解压为 sources.xml"
 
       - name: Merge more files
