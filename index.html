@@ -45,19 +45,19 @@
         <tr>
           <td>基础频道(当天数据)</td>
           <td><a href="https://epg.136605.xyz/e.xml">e.xml</a> / <a href="https://epg.136605.xyz/e.xml.gz">e.xml.gz</a></td>
-          <td class="update-time">-</td>
+          <td><span class="update-time" id="e-xml">加载中...</span></td>
           <td id="today"></td>
         </tr>
         <tr>
           <td>基础频道(9天数据)</td>
           <td><a href="https://epg.136605.xyz/all.xml">all.xml</a> / <a href="https://epg.136605.xyz/all.xml.gz">all.xml.gz</a></td>
-          <td class="update-time">-</td>
+          <td><span class="update-time" id="all-xml">加载中...</span></td>
           <td id="range1"></td>
         </tr>
         <tr>
           <td>基础频道(9天)+扩展频道(7天)</td>
           <td><a href="https://epg.136605.xyz/more.xml">more.xml</a> / <a href="https://epg.136605.xyz/more.xml.gz">more.xml.gz</a></td>
-          <td class="update-time">-</td>
+          <td><span class="update-time" id="more-xml">加载中...</span></td>
           <td id="range2"></td>
         </tr>
       </table>
@@ -92,31 +92,32 @@ document.addEventListener("DOMContentLoaded", () => {
   const range2 = formatDate(sixDaysAgo) + " ~ " + formatDate(dayAfterTomorrow);
   document.getElementById("range2").textContent = range2;
 
-  const rows = document.querySelectorAll("tbody tr");
-  rows.forEach(row => {
-    // 只选第一个 .xml 链接
-    const link = row.querySelector("a[href$='.xml']:not([href$='.xml.gz'])");
-    const updateCell = row.querySelector(".update-time");
+  async function fetchUpdateTime(file) {
+  const apiUrl = `https://api.github.com/repos/hhzol/fjmobile/commits?path=${file.name}&per_page=1`;
 
-    if (link && updateCell) {
-      fetch(link.href, { method: 'HEAD' })
-        .then(response => {
-          const lastModified = response.headers.get("Last-Modified");
-          if (lastModified) {
-            const date = new Date(lastModified);
-            const formatted = formatDate(date) + ' ' +
-                              String(date.getHours()).padStart(2, '0') + ':' +
-                              String(date.getMinutes()).padStart(2, '0')
-            updateCell.textContent = formatted;
-          } else {
-            updateCell.textContent = "未知";
-          }
-        })
-        .catch(err => {
-          console.error("获取失败:", err);
-          updateCell.textContent = "错误";
-        });
+  try {
+    const response = await fetch(apiUrl);
+    if (!response.ok) {
+      document.getElementById(file.elementId).textContent = "无法获取";
+      return;
     }
+
+    const data = await response.json();
+    if (data.length === 0) {
+      document.getElementById(file.elementId).textContent = "未找到";
+      return;
+    }
+
+    const commitDate = new Date(data[0].commit.committer.date);
+    const options = { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit', hour12: false };
+    const formattedDate = commitDate.toLocaleString("zh-CN", options).replace(' ', '').replace(/(\d+)\/(\d+)/, '$1月$2日');
+    document.getElementById(file.elementId).textContent = formattedDate;
+  } catch (error) {
+    console.error(`获取 ${file.name} 出错:`, error);
+    document.getElementById(file.elementId).textContent = "获取失败";
+  }
+}
+  
   });
 });
 </script>
