@@ -18,7 +18,7 @@ jobs:
       - name: Checkout Private repo
         uses: actions/checkout@v4
         with:
-          repository: yourname/epg-scripts
+          repository: hhzol/epg-scripts
           token: ${{ secrets.top }}
           path: epg-scripts
 
