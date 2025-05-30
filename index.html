@@ -113,7 +113,7 @@ const files = [
 ];
 
 // 定义 fetchUpdateTime 函数
-async function fetchUpdateTime(file) {
+  async function fetchUpdateTime(file) {
     const apiUrl = https://api.github.com/repos/hhzol/fjmobile/commits?path=${file.name}&per_page=1;
     try {
       const response = await fetch(apiUrl);
@@ -134,7 +134,7 @@ async function fetchUpdateTime(file) {
       console.error(获取 ${file.name} 出错:, error);
       document.getElementById(file.elementId).textContent = "获取失败";
     }
-}
+  }
 
   fetchUpdateTime({ name: 'e.xml', elementId: 'e-xml' });
   fetchUpdateTime({ name: 'all.xml', elementId: 'all-xml' });
