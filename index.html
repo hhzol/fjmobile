@@ -71,30 +71,32 @@
   <footer>
     <p>&copy; 2025 免费电子节目单服务 | <a href="mailto:hhz@136605.xyz">hhz@136605.xyz</a></p>
   </footer>
-
 <script>
 document.addEventListener("DOMContentLoaded", () => {
   function formatDate(date) {
-    return date.getMonth() + 1 + "月" + date.getDate() + "日";
+    const month = date.getMonth() + 1;
+    const day = date.getDate();
+    const hour = String(date.getHours()).padStart(2, '0');
+    const minute = String(date.getMinutes()).padStart(2, '0');
+    return `${month}月${day}日 ${hour}:${minute}`;
   }
 
   const today = new Date();
-  const todayStr = formatDate(today);
+  const todayStr = formatDate(today).split(' ')[0]; // 只取日期部分
   document.getElementById("today").textContent = todayStr;
 
   const sixDaysAgo = new Date(today);
   sixDaysAgo.setDate(today.getDate() - 6);
-  const range1 = formatDate(sixDaysAgo) + " ~ " + todayStr;
+  const range1 = formatDate(sixDaysAgo).split(' ')[0] + " ~ " + todayStr;
   document.getElementById("range1").textContent = range1;
 
-  const sevenDaysLater = new Date(today);
-  sevenDaysLater.setDate(today.getDate() + 6);
-  const range2 = formatDate(sixDaysAgo) + " ~ " + formatDate(sevenDaysLater);
+  const dayAfterTomorrow = new Date(today);
+  dayAfterTomorrow.setDate(today.getDate() + 2);
+  const range2 = formatDate(sixDaysAgo).split(' ')[0] + " ~ " + formatDate(dayAfterTomorrow).split(' ')[0];
   document.getElementById("range2").textContent = range2;
 
   async function fetchUpdateTime(file) {
     const apiUrl = `https://api.github.com/repos/hhzol/fjmobile/commits?path=${file.name}&per_page=1`;
-
     try {
       const response = await fetch(apiUrl);
       if (!response.ok) {
@@ -109,22 +111,16 @@ document.addEventListener("DOMContentLoaded", () => {
       }
 
       const commitDate = new Date(data[0].commit.committer.date);
-      const options = { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit', hour12: false };
-      const formattedDate = commitDate.toLocaleString("zh-CN", options).replace(' ', ' ').replace(/(\d+)\/(\d+)/, '$1月$2日');
-      document.getElementById(file.elementId).textContent = formattedDate;
+      document.getElementById(file.elementId).textContent = formatDate(commitDate);
     } catch (error) {
       console.error(`获取 ${file.name} 出错:`, error);
       document.getElementById(file.elementId).textContent = "获取失败";
     }
   }
 
-  const files = [
-    { name: 'e.xml', elementId: 'e-xml' },
-    { name: 'all.xml', elementId: 'all-xml' },
-    { name: 'more.xml', elementId: 'more-xml' }
-  ];
-
-  files.forEach(file => fetchUpdateTime(file));
+  fetchUpdateTime({ name: 'e.xml', elementId: 'e-xml' });
+  fetchUpdateTime({ name: 'all.xml', elementId: 'all-xml' });
+  fetchUpdateTime({ name: 'more.xml', elementId: 'more-xml' });
 });
 </script>
 </body>
