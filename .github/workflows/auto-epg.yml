@@ -22,7 +22,6 @@ jobs:
           repository: hhzol/epg-scripts
           token: ${{ secrets.PRIVATE_REPO_TOKEN }}
           path: epg-scripts
-          submodules: false
           
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
@@ -116,6 +115,7 @@ jobs:
           echo "$(stat -c "%s" all.xml.gz)" >> size.txt
           echo "$(stat -c "%s" more.xml)" >> size.txt
           echo "$(stat -c "%s" more.xml.gz)" >> size.txt
+          rm -rf epg-scripts
           
       - name: Commit changes
         run: |
