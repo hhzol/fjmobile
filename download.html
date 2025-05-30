@@ -77,7 +77,7 @@
         .catch(err => console.error("读取 size.txt 失败:", err));
 
       // 加载下载次数
-      fetch("https://e.136605.xyz/stats.json")
+      fetch("https://e.136605.xyz/api/stats.json")
         .then(response => response.json())
         .then(data => {
           const elements = document.querySelectorAll(".downloads");
