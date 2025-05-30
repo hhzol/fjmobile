@@ -14,7 +14,14 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-        
+      
+      - name: Checkout Private repo
+        uses: actions/checkout@v4
+        with:
+          repository: yourname/epg-scripts
+          token: ${{ secrets.top }}
+          path: epg-scripts
+
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
         with:
@@ -37,6 +44,7 @@ jobs:
       - name: Get EPG by day
         run: |
           pwd
+          cd epg-scripts
           python get-epg.py
 
       - name: Copy today's epg_ file to e.xml
@@ -76,6 +84,7 @@ jobs:
       - name: Merge EPG files
         run: |
           pwd
+          cd epg-scripts
           python merge.py
 
       - name: Download e.erw.cc EPGs
@@ -87,6 +96,7 @@ jobs:
       - name: Merge more files
         run: |
           pwd
+          cd epg-scripts
           python extra.py
 
       - name: Compress epg files and delete interim files
