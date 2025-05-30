@@ -95,33 +95,61 @@ document.addEventListener("DOMContentLoaded", () => {
   const range2 = formatDate(sixDaysAgo).split(' ')[0] + " ~ " + formatDate(dayAfterTomorrow).split(' ')[0];
   document.getElementById("range2").textContent = range2;
 
-  async function fetchUpdateTime(file) {
-    const apiUrl = `https://api.github.com/repos/hhzol/fjmobile/commits?path=${file.name}&per_page=1`;
-    try {
-      const response = await fetch(apiUrl);
-      if (!response.ok) {
-        document.getElementById(file.elementId).textContent = "无法获取";
-        return;
-      }
+// 获取当天日期，格式为YYYYMMDD
+function getTodayDateString() {
+  const now = new Date();
+  const year = now.getFullYear();
+  const month = String(now.getMonth() + 1).padStart(2, '0');
+  const day = String(now.getDate()).padStart(2, '0');
+  return `${year}${month}${day}`;
+}
 
-      const data = await response.json();
-      if (data.length === 0) {
-        document.getElementById(file.elementId).textContent = "未找到";
-        return;
-      }
+// 定义文件列表
+const todayDate = getTodayDateString();
+const files = [
+  { name: `epg_${todayDate}.xml`, elementId: 'e-xml' },
+  { name: 'all.xml', elementId: 'all-xml' },
+  { name: 'more.xml', elementId: 'more-xml' }
+];
 
-      const commitDate = new Date(data[0].commit.committer.date);
-      document.getElementById(file.elementId).textContent = formatDate(commitDate);
-    } catch (error) {
-      console.error(`获取 ${file.name} 出错:`, error);
-      document.getElementById(file.elementId).textContent = "获取失败";
+// 定义 fetchUpdateTime 函数
+async function fetchUpdateTime(file) {
+  const apiUrl = `https://api.github.com/repos/hhzol/fjmobile/commits?path=${file.name}&per_page=1`;
+  try {
+    const response = await fetch(apiUrl);
+    if (!response.ok) {
+      document.getElementById(file.elementId).textContent = "无法获取";
+      return;
     }
-  }
 
-  fetchUpdateTime({ name: 'e.xml', elementId: 'e-xml' });
-  fetchUpdateTime({ name: 'all.xml', elementId: 'all-xml' });
-  fetchUpdateTime({ name: 'more.xml', elementId: 'more-xml' });
-});
+    const data = await response.json();
+    if (data.length === 0) {
+      document.getElementById(file.elementId).textContent = "未找到";
+      return;
+    }
+
+    const commitDate = new Date(data[0].commit.committer.date);
+    document.getElementById(file.elementId).textContent = formatDate(commitDate);
+  } catch (error) {
+    console.error(`获取 ${file.name} 出错:`, error);
+    document.getElementById(file.elementId).textContent = "获取失败";
+  }
+}
+
+// 执行 fetchUpdateTime
+files.forEach(fetchUpdateTime);
+
+// 日期格式化函数（可复用你的，也可以用这个）
+function formatDate(date) {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const day = String(date.getDate()).padStart(2, '0');
+  const hours = String(date.getHours()).padStart(2, '0');
+  const minutes = String(date.getMinutes()).padStart(2, '0');
+  const seconds = String(date.getSeconds()).padStart(2, '0');
+  return `${year}-${month}-${day} ${hours}:${minutes}:${seconds}`;
+}
+);
 </script>
 </body>
 </html>
