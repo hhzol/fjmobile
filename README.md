@@ -6,7 +6,7 @@ https://epg.136605.xyz/e.xml
 
 https://epg.136605.xyz/e.xml.gz		#压缩包
 
-二、9天数据（前6日+今明后3天）
+二、9天数据（7天+明后2天）
 
 https://epg.136605.xyz/all.xml
 
