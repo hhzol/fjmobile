@@ -58,25 +58,44 @@ channel_name_2,url_2
     const lines = txtInput.split('\n');
     let m3uOutput = '#EXTM3U x-tvg-url="https://e.136605.xyz/1.xml"\n';
 
+    let currentGroup = '';
+
     const channelMap = {};
 
     for (const line of lines) {
       const trimmedLine = line.trim();
-      if (trimmedLine !== '' && !trimmedLine.includes('#genre#')) {
-        const [channelName, channelLink] = trimmedLine.split(',').map(item => item.trim());
-        if (channelName && channelLink) {
-          if (!channelMap[channelName]) {
-            channelMap[channelName] = [];
-          }
-          channelMap[channelName].push(channelLink);
+      if (trimmedLine === '') continue;
+
+      // 处理分组标识
+      if (trimmedLine.includes('#genre#')) {
+        const parts = trimmedLine.split(',');
+        currentGroup = parts[0].trim();
+        continue;
+      }
+
+      // 处理频道行
+      const parts = trimmedLine.split(',').map(item => item.trim());
+      if (parts.length >= 2) {
+        const channelName = parts[0];
+        const channelLink = parts[1];
+
+        const key = currentGroup + '|' + channelName;
+        if (!channelMap[key]) {
+          channelMap[key] = {
+            group: currentGroup,
+            channel: channelName,
+            links: []
+          };
         }
+        channelMap[key].links.push(channelLink);
       }
     }
 
-    for (const channelName in channelMap) {
-      const processedChannelName = channelName.replace(/(CCTV|CETV)-(\d+).*/, '$1$2');
-      m3uOutput += `#EXTINF:-1 tvg-name="${processedChannelName}" tvg-logo="https://epg.136605.xyz/tvg-logo/${processedChannelName}.png",${channelName}\n`;
-      for (const link of channelMap[channelName]) {
+    for (const key in channelMap) {
+      const { group, channel, links } = channelMap[key];
+      const processedChannelName = channel.replace(/(CCTV|CETV)-(\d+).*/, '$1$2');
+      m3uOutput += `#EXTINF:-1 tvg-name="${processedChannelName}" tvg-logo="https://epg.136605.xyz/tvg-logo/${processedChannelName}.png" group-title="${group}",${channel}\n`;
+      for (const link of links) {
         m3uOutput += `${link}\n`;
       }
     }
