@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>免费电子节目单服务 - 频道列表</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f9f9f9; }
+    header { background-color: #3498db; color: white; padding: 20px 0; text-align: center; }
+    nav { background-color: #2980b9; padding: 10px 0; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; }
+    main { padding: 20px; max-width: 900px; margin: auto; }
+    section { margin-bottom: 30px; }
+    h2 { color: #2c3e50; border-bottom: 2px solid #2980b9; padding-bottom: 5px; }
+    .channel-list { white-space: pre-wrap; line-height: 1.5em; background: #fff; border: 1px solid #ddd; padding: 15px; border-radius: 5px; max-height: 400px; overflow-y: auto; }
+    footer { background-color: #ecf0f1; text-align: center; padding: 15px 0; color: #7f8c8d; }
+    textarea, #m3uOutput { width: 800px; height: 368px; box-sizing: border-box; padding: 10px; margin-top: 5px; border: 1px solid #ccc; border-radius: 5px; font-size: 12px; }
+    button { margin-top: 10px; padding: 10px 10px; font-size: 14px; cursor: pointer; background-color: #4CAF50; color: white; border: none; border-radius: 5px; }
+    button:hover { background-color: #45a049; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>免费电子节目单服务</h1>
+    <p>支持多种APP，永久免费，每日自动更新</p>
+  </header>
+  <nav>
+    <a href="index.html">首页</a>
+    <a href="download.html">订阅地址</a>
+    <a href="channels.html">频道列表</a>
+    <a href="convert.html">TXT转M3U</a>
+    <a href="mailto:hhz@136605.xyz">联系我们</a>
+  </nav>
+  <main>
+  <h2>在线TXT转M3U格式</h2>
+     <h3>TXT格式源:</h3>
+  <div id="inputContainer">
+    <textarea id="txtInput" rows="10" cols="80"></textarea>
+  </div>
+  <button onclick="convertToM3U()">转换格式</button>
+  <button onclick="clearScreen()">清除屏幕</button>
+  <button onclick="copyContent()">拷贝结果</button>
+  <button onclick="saveAsM3U()">保存m3u</button>
+  <h2>M3U格式转换结果:</h2>
+  <textarea id="m3uOutput" rows="10" cols="80" readonly></textarea>
+  </main>
+  <footer>
+    <p>&copy; 2025 免费电子节目单服务 | <a href="mailto:hhz@136605.xyz">hhz@136605.xyz</a></p>
+  </footer>
+  <script>
+    function convertToM3U() {
+      const txtInput = document.getElementById('txtInput').value;
+      const lines = txtInput.split('\n');
+      let m3uOutput = '#EXTM3U x-tvg-url="https://epg.136605.xyz/e.xml"\n';
+      let currentGroup = null;
+      for (const line of lines) {
+        const trimmedLine = line.trim();
+        if (trimmedLine !== '') {
+          if (trimmedLine.includes('#genre#')) {
+            currentGroup = trimmedLine.replace(/,#genre#/, '').trim();
+          } else {
+            const [originalChannelName, channelLink] = trimmedLine.split(',').map(item => item.trim());
+            const processedChannelName = originalChannelName.replace(/(CCTV|CETV)-(\d+).*/, '$1$2');
+            m3uOutput += `#EXTINF:-1 tvg-name="${processedChannelName}" tvg-logo="https://epg.136605.xyz/tvg-logo/${processedChannelName}.png"`;
+            if (currentGroup) {
+              m3uOutput += ` group-title="${currentGroup}"`;
+            }
+            m3uOutput += `,${originalChannelName}\n${channelLink}\n`;
+          }
+        }
+      }
+      document.getElementById('m3uOutput').value = m3uOutput;
+    }
+    function clearScreen() {
+      document.getElementById('txtInput').value = '';
+      document.getElementById('m3uOutput').value = '';
+    }
+    function copyContent() {
+      const m3uOutput = document.getElementById('m3uOutput');
+      m3uOutput.select();
+      document.execCommand('copy');
+      alert('内容已复制到剪贴板！');
+    }
+    function saveAsM3U() {
+      const m3uContent = document.getElementById('m3uOutput').value;
+      const blob = new Blob([m3uContent], { type: 'text/plain' });
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = 'mychannels.m3u';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+    }
+  </script>
+</body>
+</html>
