@@ -3766,13 +3766,13 @@
     <title>东南晚报</title>
   </programme>
   <programme start="20250607231500 +0800" stop="20250607235800 +0800" channel="31">
-    <title>深夜剧场:哈尔滨一九四四36</title>
+    <title>深夜剧场:哈尔滨一九四四33</title>
   </programme>
   <programme start="20250607235800 +0800" stop="20250607235959 +0800" channel="31">
-    <title>深夜剧场:哈尔滨一九四四37</title>
+    <title>深夜剧场:哈尔滨一九四四34</title>
   </programme>
   <programme start="20250608000000 +0800" stop="20250608005200 +0800" channel="31">
-    <title>深夜剧场:哈尔滨一九四四37</title>
+    <title>深夜剧场:哈尔滨一九四四34</title>
   </programme>
   <channel id="32">
     <display-name>福建乡村振兴</display-name>
@@ -6988,16 +6988,16 @@
     <title>山东新闻联播</title>
   </programme>
   <programme start="20250607225600 +0800" stop="20250607232600 +0800" channel="58">
-    <title>午夜剧场:都挺好27</title>
+    <title>午夜剧场:都挺好29</title>
   </programme>
   <programme start="20250607232600 +0800" stop="20250607235800 +0800" channel="58">
     <title>生活服务</title>
   </programme>
   <programme start="20250607235800 +0800" stop="20250607235959 +0800" channel="58">
-    <title>午夜剧场:都挺好28</title>
+    <title>午夜剧场:都挺好30</title>
   </programme>
   <programme start="20250608000000 +0800" stop="20250608003000 +0800" channel="58">
-    <title>午夜剧场:都挺好28</title>
+    <title>午夜剧场:都挺好30</title>
   </programme>
   <channel id="59">
     <display-name>河南卫视</display-name>
@@ -9379,34 +9379,34 @@
     <title>直财经</title>
   </programme>
   <programme start="20250607125900 +0800" stop="20250607134600 +0800" channel="75">
-    <title>热播剧场</title>
+    <title>热播剧场:野山鹰6</title>
   </programme>
   <programme start="20250607134600 +0800" stop="20250607142800 +0800" channel="75">
-    <title>热播剧场</title>
+    <title>热播剧场:野山鹰7</title>
   </programme>
   <programme start="20250607142800 +0800" stop="20250607144300 +0800" channel="75">
     <title>生活服务</title>
   </programme>
   <programme start="20250607144300 +0800" stop="20250607152600 +0800" channel="75">
-    <title>热播剧场</title>
+    <title>热播剧场:野山鹰8</title>
   </programme>
   <programme start="20250607152600 +0800" stop="20250607154300 +0800" channel="75">
     <title>生活服务</title>
   </programme>
   <programme start="20250607154300 +0800" stop="20250607162500 +0800" channel="75">
-    <title>热播剧场</title>
+    <title>热播剧场:野山鹰9</title>
   </programme>
   <programme start="20250607162500 +0800" stop="20250607164200 +0800" channel="75">
     <title>生活服务</title>
   </programme>
   <programme start="20250607164200 +0800" stop="20250607172500 +0800" channel="75">
-    <title>热播剧场</title>
+    <title>热播剧场:野山鹰10</title>
   </programme>
   <programme start="20250607172500 +0800" stop="20250607173900 +0800" channel="75">
     <title>生活服务</title>
   </programme>
   <programme start="20250607173900 +0800" stop="20250607183000 +0800" channel="75">
-    <title>热播剧场</title>
+    <title>热播剧场:野山鹰11</title>
   </programme>
   <programme start="20250607183000 +0800" stop="20250607190000 +0800" channel="75">
     <title>深视新闻</title>
@@ -11046,6 +11046,93 @@
   <channel id="95">
     <display-name>热播精选</display-name>
   </channel>
+  <programme start="20250607003523 +0800" stop="20250607022651 +0800" channel="95">
+    <title>独立日大电影</title>
+  </programme>
+  <programme start="20250607022651 +0800" stop="20250607031215 +0800" channel="95">
+    <title>30_新居之约</title>
+  </programme>
+  <programme start="20250607031215 +0800" stop="20250607041737 +0800" channel="95">
+    <title>31_新居之约</title>
+  </programme>
+  <programme start="20250607041737 +0800" stop="20250607050301 +0800" channel="95">
+    <title>32_新居之约</title>
+  </programme>
+  <programme start="20250607050301 +0800" stop="20250607060823 +0800" channel="95">
+    <title>33_新居之约</title>
+  </programme>
+  <programme start="20250607060823 +0800" stop="20250607065353 +0800" channel="95">
+    <title>34_新居之约</title>
+  </programme>
+  <programme start="20250607065353 +0800" stop="20250607073755 +0800" channel="95">
+    <title>古代战场第3季</title>
+  </programme>
+  <programme start="20250607073755 +0800" stop="20250607084316 +0800" channel="95">
+    <title>18_永夜星河</title>
+  </programme>
+  <programme start="20250607084316 +0800" stop="20250607092834 +0800" channel="95">
+    <title>19_永夜星河</title>
+  </programme>
+  <programme start="20250607092834 +0800" stop="20250607101733 +0800" channel="95">
+    <title>美国Doctor Santon端粒酶胶囊-渠道（右）</title>
+  </programme>
+  <programme start="20250607101733 +0800" stop="20250607105726 +0800" channel="95">
+    <title>20_永夜星河</title>
+  </programme>
+  <programme start="20250607105726 +0800" stop="20250607114039 +0800" channel="95">
+    <title>21_永夜星河</title>
+  </programme>
+  <programme start="20250607114039 +0800" stop="20250607120938 +0800" channel="95">
+    <title>百年鑫堂西洋参粉滋补组-渠道（右）</title>
+  </programme>
+  <programme start="20250607120938 +0800" stop="20250607133855 +0800" channel="95">
+    <title>斗战苍穹</title>
+  </programme>
+  <programme start="20250607133855 +0800" stop="20250607142419 +0800" channel="95">
+    <title>12_绝密使命</title>
+  </programme>
+  <programme start="20250607142419 +0800" stop="20250607151218 +0800" channel="95">
+    <title>POKONDA智能四轮电动代步车-渠道（右）</title>
+  </programme>
+  <programme start="20250607151218 +0800" stop="20250607161740 +0800" channel="95">
+    <title>13_绝密使命</title>
+  </programme>
+  <programme start="20250607161740 +0800" stop="20250607170254 +0800" channel="95">
+    <title>14_绝密使命</title>
+  </programme>
+  <programme start="20250607170254 +0800" stop="20250607175153 +0800" channel="95">
+    <title>KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+  </programme>
+  <programme start="20250607175153 +0800" stop="20250607183633 +0800" channel="95">
+    <title>老广的味道第五季</title>
+  </programme>
+  <programme start="20250607183633 +0800" stop="20250607192233 +0800" channel="95">
+    <title>09_好团圆</title>
+  </programme>
+  <programme start="20250607192233 +0800" stop="20250607195232 +0800" channel="95">
+    <title>《八段锦》推荐第25期</title>
+  </programme>
+  <programme start="20250607195232 +0800" stop="20250607203832 +0800" channel="95">
+    <title>10_好团圆</title>
+  </programme>
+  <programme start="20250607203832 +0800" stop="20250607212427 +0800" channel="95">
+    <title>11_好团圆</title>
+  </programme>
+  <programme start="20250607212427 +0800" stop="20250607215426 +0800" channel="95">
+    <title>美好人生推荐第二期</title>
+  </programme>
+  <programme start="20250607215426 +0800" stop="20250607224011 +0800" channel="95">
+    <title>12_好团圆</title>
+  </programme>
+  <programme start="20250607224011 +0800" stop="20250607234206 +0800" channel="95">
+    <title>恰好是少年</title>
+  </programme>
+  <programme start="20250607234206 +0800" stop="20250607235959 +0800" channel="95">
+    <title>超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+  </programme>
+  <programme start="20250608000000 +0800" stop="20250608003105 +0800" channel="95">
+    <title>超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+  </programme>
   <channel id="96">
     <display-name>爱情喜剧</display-name>
   </channel>
@@ -11073,6 +11160,90 @@
   <channel id="104">
     <display-name>中国功夫</display-name>
   </channel>
+  <programme start="20250607003232 +0800" stop="20250607020935 +0800" channel="104">
+    <title>神都蜜探</title>
+  </programme>
+  <programme start="20250607020935 +0800" stop="20250607035356 +0800" channel="104">
+    <title>飞鱼服</title>
+  </programme>
+  <programme start="20250607035356 +0800" stop="20250607045428 +0800" channel="104">
+    <title>男子长拳决赛</title>
+  </programme>
+  <programme start="20250607045428 +0800" stop="20250607062230 +0800" channel="104">
+    <title>男子南拳决赛</title>
+  </programme>
+  <programme start="20250607062230 +0800" stop="20250607072348 +0800" channel="104">
+    <title>10回合排位赛：巴尔博萨VS佩德拉萨</title>
+  </programme>
+  <programme start="20250607072348 +0800" stop="20250607082833 +0800" channel="104">
+    <title>18_大武当</title>
+  </programme>
+  <programme start="20250607082833 +0800" stop="20250607091331 +0800" channel="104">
+    <title>19_大武当</title>
+  </programme>
+  <programme start="20250607091331 +0800" stop="20250607100230 +0800" channel="104">
+    <title>KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+  </programme>
+  <programme start="20250607100230 +0800" stop="20250607104728 +0800" channel="104">
+    <title>20_大武当</title>
+  </programme>
+  <programme start="20250607104728 +0800" stop="20250607113226 +0800" channel="104">
+    <title>21_大武当</title>
+  </programme>
+  <programme start="20250607113226 +0800" stop="20250607122125 +0800" channel="104">
+    <title>BEYONPAN钛锅升级款-渠道（右）</title>
+  </programme>
+  <programme start="20250607122125 +0800" stop="20250607135033 +0800" channel="104">
+    <title>侠义神捕之诡影</title>
+  </programme>
+  <programme start="20250607135033 +0800" stop="20250607143832 +0800" channel="104">
+    <title>贝卡罗莱L-a-甘磷酸胆碱复合粉-渠道（右）</title>
+  </programme>
+  <programme start="20250607143832 +0800" stop="20250607151220 +0800" channel="104">
+    <title>03_墓王之王</title>
+  </programme>
+  <programme start="20250607151220 +0800" stop="20250607160545 +0800" channel="104">
+    <title>04_墓王之王</title>
+  </programme>
+  <programme start="20250607160545 +0800" stop="20250607163716 +0800" channel="104">
+    <title>05_墓王之王</title>
+  </programme>
+  <programme start="20250607163716 +0800" stop="20250607171222 +0800" channel="104">
+    <title>06_墓王之王</title>
+  </programme>
+  <programme start="20250607171222 +0800" stop="20250607174622 +0800" channel="104">
+    <title>07_墓王之王</title>
+  </programme>
+  <programme start="20250607174622 +0800" stop="20250607181621 +0800" channel="104">
+    <title>《八段锦》推荐第25期</title>
+  </programme>
+  <programme start="20250607181621 +0800" stop="20250607190152 +0800" channel="104">
+    <title>31_天龙八部</title>
+  </programme>
+  <programme start="20250607190152 +0800" stop="20250607193151 +0800" channel="104">
+    <title>《八段锦》推荐第25期</title>
+  </programme>
+  <programme start="20250607193151 +0800" stop="20250607201722 +0800" channel="104">
+    <title>32_天龙八部</title>
+  </programme>
+  <programme start="20250607201722 +0800" stop="20250607210253 +0800" channel="104">
+    <title>33_天龙八部</title>
+  </programme>
+  <programme start="20250607210253 +0800" stop="20250607213252 +0800" channel="104">
+    <title>《时尚小咖秀》推荐第36期</title>
+  </programme>
+  <programme start="20250607213252 +0800" stop="20250607221823 +0800" channel="104">
+    <title>34_天龙八部</title>
+  </programme>
+  <programme start="20250607221823 +0800" stop="20250607232419 +0800" channel="104">
+    <title>出招吧！看不剑！</title>
+  </programme>
+  <programme start="20250607232419 +0800" stop="20250607235959 +0800" channel="104">
+    <title>光子能量半导体激光治疗仪-渠道（右）</title>
+  </programme>
+  <programme start="20250608000000 +0800" stop="20250608000918 +0800" channel="104">
+    <title>光子能量半导体激光治疗仪-渠道（右）</title>
+  </programme>
   <channel id="105">
     <display-name>黑莓动画</display-name>
   </channel>
