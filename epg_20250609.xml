@@ -1,0 +1,759 @@
+<?xml version="1.0" ?>
+<tv>
+  <channel id="1">
+    <display-name>CCTV1</display-name>
+  </channel>
+  <channel id="2">
+    <display-name>CCTV2</display-name>
+  </channel>
+  <channel id="3">
+    <display-name>CCTV3</display-name>
+  </channel>
+  <channel id="4">
+    <display-name>CCTV4</display-name>
+  </channel>
+  <channel id="5">
+    <display-name>CCTV5</display-name>
+  </channel>
+  <channel id="6">
+    <display-name>CCTV5+</display-name>
+  </channel>
+  <channel id="7">
+    <display-name>CCTV6</display-name>
+  </channel>
+  <channel id="8">
+    <display-name>CCTV7</display-name>
+  </channel>
+  <channel id="9">
+    <display-name>CCTV8</display-name>
+  </channel>
+  <channel id="10">
+    <display-name>CCTV9</display-name>
+  </channel>
+  <channel id="11">
+    <display-name>CCTV10</display-name>
+  </channel>
+  <channel id="12">
+    <display-name>CCTV11</display-name>
+  </channel>
+  <channel id="13">
+    <display-name>CCTV12</display-name>
+  </channel>
+  <channel id="14">
+    <display-name>CCTV13</display-name>
+  </channel>
+  <channel id="15">
+    <display-name>CCTV14</display-name>
+  </channel>
+  <channel id="16">
+    <display-name>CCTV15</display-name>
+  </channel>
+  <channel id="17">
+    <display-name>CCTV16</display-name>
+  </channel>
+  <channel id="18">
+    <display-name>CCTV16 4K</display-name>
+  </channel>
+  <channel id="19">
+    <display-name>CCTV17</display-name>
+  </channel>
+  <channel id="20">
+    <display-name>CGTN纪录</display-name>
+  </channel>
+  <channel id="21">
+    <display-name>CGTN</display-name>
+  </channel>
+  <channel id="22">
+    <display-name>CGTN法语</display-name>
+  </channel>
+  <channel id="23">
+    <display-name>CGTN俄语</display-name>
+  </channel>
+  <channel id="24">
+    <display-name>CGTN西语</display-name>
+  </channel>
+  <channel id="25">
+    <display-name>CGTN阿语</display-name>
+  </channel>
+  <channel id="26">
+    <display-name>中国天气</display-name>
+  </channel>
+  <channel id="27">
+    <display-name>CETV1</display-name>
+  </channel>
+  <channel id="28">
+    <display-name>CETV2</display-name>
+  </channel>
+  <channel id="29">
+    <display-name>CETV4</display-name>
+  </channel>
+  <channel id="30">
+    <display-name>福建综合</display-name>
+  </channel>
+  <channel id="31">
+    <display-name>东南卫视</display-name>
+  </channel>
+  <channel id="32">
+    <display-name>福建乡村振兴</display-name>
+  </channel>
+  <channel id="33">
+    <display-name>福建新闻</display-name>
+  </channel>
+  <channel id="34">
+    <display-name>福建电视剧</display-name>
+  </channel>
+  <channel id="35">
+    <display-name>福建旅游</display-name>
+  </channel>
+  <channel id="36">
+    <display-name>福建经济</display-name>
+  </channel>
+  <channel id="37">
+    <display-name>福建文体</display-name>
+  </channel>
+  <channel id="38">
+    <display-name>福建少儿</display-name>
+  </channel>
+  <channel id="39">
+    <display-name>海峡卫视</display-name>
+  </channel>
+  <channel id="40">
+    <display-name>福建教育</display-name>
+  </channel>
+  <channel id="41">
+    <display-name>厦门卫视</display-name>
+  </channel>
+  <channel id="42">
+    <display-name>厦门1</display-name>
+  </channel>
+  <channel id="43">
+    <display-name>厦门2</display-name>
+  </channel>
+  <channel id="44">
+    <display-name>厦门3</display-name>
+  </channel>
+  <channel id="45">
+    <display-name>北京卫视</display-name>
+  </channel>
+  <channel id="46">
+    <display-name>天津卫视</display-name>
+  </channel>
+  <channel id="47">
+    <display-name>河北卫视</display-name>
+  </channel>
+  <channel id="48">
+    <display-name>山西卫视</display-name>
+  </channel>
+  <channel id="49">
+    <display-name>内蒙古卫视</display-name>
+  </channel>
+  <channel id="50">
+    <display-name>辽宁卫视</display-name>
+  </channel>
+  <channel id="51">
+    <display-name>吉林卫视</display-name>
+  </channel>
+  <channel id="52">
+    <display-name>黑龙江卫视</display-name>
+  </channel>
+  <channel id="53">
+    <display-name>东方卫视</display-name>
+  </channel>
+  <channel id="54">
+    <display-name>江苏卫视</display-name>
+  </channel>
+  <channel id="55">
+    <display-name>浙江卫视</display-name>
+  </channel>
+  <channel id="56">
+    <display-name>安徽卫视</display-name>
+  </channel>
+  <channel id="57">
+    <display-name>江西卫视</display-name>
+  </channel>
+  <channel id="58">
+    <display-name>山东卫视</display-name>
+  </channel>
+  <channel id="59">
+    <display-name>河南卫视</display-name>
+  </channel>
+  <channel id="60">
+    <display-name>湖北卫视</display-name>
+  </channel>
+  <channel id="61">
+    <display-name>湖南卫视</display-name>
+  </channel>
+  <channel id="62">
+    <display-name>广东卫视</display-name>
+  </channel>
+  <channel id="63">
+    <display-name>广西卫视</display-name>
+  </channel>
+  <channel id="64">
+    <display-name>海南卫视</display-name>
+  </channel>
+  <channel id="65">
+    <display-name>重庆卫视</display-name>
+  </channel>
+  <channel id="66">
+    <display-name>四川卫视</display-name>
+  </channel>
+  <channel id="67">
+    <display-name>贵州卫视</display-name>
+  </channel>
+  <channel id="68">
+    <display-name>云南卫视</display-name>
+  </channel>
+  <channel id="69">
+    <display-name>西藏卫视</display-name>
+  </channel>
+  <channel id="70">
+    <display-name>陕西卫视</display-name>
+  </channel>
+  <channel id="71">
+    <display-name>甘肃卫视</display-name>
+  </channel>
+  <channel id="72">
+    <display-name>青海卫视</display-name>
+  </channel>
+  <channel id="73">
+    <display-name>宁夏卫视</display-name>
+  </channel>
+  <channel id="74">
+    <display-name>新疆卫视</display-name>
+  </channel>
+  <channel id="75">
+    <display-name>深圳卫视</display-name>
+  </channel>
+  <channel id="76">
+    <display-name>兵团卫视</display-name>
+  </channel>
+  <channel id="77">
+    <display-name>三沙卫视</display-name>
+  </channel>
+  <channel id="78">
+    <display-name>康巴卫视</display-name>
+  </channel>
+  <channel id="79">
+    <display-name>延边卫视</display-name>
+  </channel>
+  <channel id="80">
+    <display-name>纪实科教</display-name>
+  </channel>
+  <channel id="81">
+    <display-name>先锋乒羽</display-name>
+  </channel>
+  <channel id="82">
+    <display-name>快乐垂钓</display-name>
+  </channel>
+  <channel id="83">
+    <display-name>山东教育</display-name>
+  </channel>
+  <channel id="84">
+    <display-name>茶频道</display-name>
+  </channel>
+  <channel id="85">
+    <display-name>金鹰纪实</display-name>
+  </channel>
+  <channel id="86">
+    <display-name>金鹰卡通</display-name>
+  </channel>
+  <channel id="87">
+    <display-name>哈哈炫动</display-name>
+  </channel>
+  <channel id="88">
+    <display-name>卡酷少儿</display-name>
+  </channel>
+  <channel id="89">
+    <display-name>嘉佳卡通</display-name>
+  </channel>
+  <channel id="90">
+    <display-name>优漫卡通</display-name>
+  </channel>
+  <channel id="91">
+    <display-name>精品大剧</display-name>
+  </channel>
+  <channel id="92">
+    <display-name>古装剧场</display-name>
+  </channel>
+  <programme start="20250609002742 +0800" stop="20250609014308 +0800" channel="92">
+    <title>28_大秦帝国之纵横</title>
+  </programme>
+  <programme start="20250609014308 +0800" stop="20250609025835 +0800" channel="92">
+    <title>29_大秦帝国之纵横</title>
+  </programme>
+  <programme start="20250609025835 +0800" stop="20250609041401 +0800" channel="92">
+    <title>30_大秦帝国之纵横</title>
+  </programme>
+  <programme start="20250609041401 +0800" stop="20250609052927 +0800" channel="92">
+    <title>31_大秦帝国之纵横</title>
+  </programme>
+  <programme start="20250609052927 +0800" stop="20250609064407 +0800" channel="92">
+    <title>31_灼灼风流</title>
+  </programme>
+  <programme start="20250609064407 +0800" stop="20250609075821 +0800" channel="92">
+    <title>32_灼灼风流</title>
+  </programme>
+  <programme start="20250609075821 +0800" stop="20250609084342 +0800" channel="92">
+    <title>33_灼灼风流</title>
+  </programme>
+  <programme start="20250609084342 +0800" stop="20250609093241 +0800" channel="92">
+    <title>超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+  </programme>
+  <programme start="20250609093241 +0800" stop="20250609101816 +0800" channel="92">
+    <title>34_灼灼风流</title>
+  </programme>
+  <programme start="20250609101816 +0800" stop="20250609110445 +0800" channel="92">
+    <title>02_美人心计</title>
+  </programme>
+  <programme start="20250609110445 +0800" stop="20250609115059 +0800" channel="92">
+    <title>03_美人心计</title>
+  </programme>
+  <programme start="20250609115059 +0800" stop="20250609123058 +0800" channel="92">
+    <title>艾美特新风智能空气扇-渠道（右）</title>
+  </programme>
+  <programme start="20250609123058 +0800" stop="20250609131705 +0800" channel="92">
+    <title>04_美人心计</title>
+  </programme>
+  <programme start="20250609131705 +0800" stop="20250609140319 +0800" channel="92">
+    <title>05_美人心计</title>
+  </programme>
+  <programme start="20250609140319 +0800" stop="20250609144018 +0800" channel="92">
+    <title>艾美特半导体塔式空调扇-渠道（右）</title>
+  </programme>
+  <programme start="20250609144018 +0800" stop="20250609152800 +0800" channel="92">
+    <title>04_大奉打更人</title>
+  </programme>
+  <programme start="20250609152800 +0800" stop="20250609161643 +0800" channel="92">
+    <title>05_大奉打更人</title>
+  </programme>
+  <programme start="20250609161643 +0800" stop="20250609170408 +0800" channel="92">
+    <title>06_大奉打更人</title>
+  </programme>
+  <programme start="20250609170408 +0800" stop="20250609174907 +0800" channel="92">
+    <title>光子能量半导体激光治疗仪-渠道（右）</title>
+  </programme>
+  <programme start="20250609174907 +0800" stop="20250609183519 +0800" channel="92">
+    <title>07_大奉打更人</title>
+  </programme>
+  <programme start="20250609183519 +0800" stop="20250609192145 +0800" channel="92">
+    <title>29_柳舟记</title>
+  </programme>
+  <programme start="20250609192145 +0800" stop="20250609195144 +0800" channel="92">
+    <title>《时尚小咖秀》推荐第35期</title>
+  </programme>
+  <programme start="20250609195144 +0800" stop="20250609203814 +0800" channel="92">
+    <title>30_柳舟记</title>
+  </programme>
+  <programme start="20250609203814 +0800" stop="20250609212451 +0800" channel="92">
+    <title>31_柳舟记</title>
+  </programme>
+  <programme start="20250609212451 +0800" stop="20250609215450 +0800" channel="92">
+    <title>美好人生推荐第二期</title>
+  </programme>
+  <programme start="20250609215450 +0800" stop="20250609223954 +0800" channel="92">
+    <title>32_永夜星河</title>
+  </programme>
+  <programme start="20250609223954 +0800" stop="20250609232313 +0800" channel="92">
+    <title>01_天行健</title>
+  </programme>
+  <programme start="20250609232313 +0800" stop="20250609235959 +0800" channel="92">
+    <title>02_天行健</title>
+  </programme>
+  <programme start="20250610000000 +0800" stop="20250610001021 +0800" channel="92">
+    <title>02_天行健</title>
+  </programme>
+  <channel id="93">
+    <display-name>军旅剧场</display-name>
+  </channel>
+  <channel id="94">
+    <display-name>家庭剧场</display-name>
+  </channel>
+  <channel id="95">
+    <display-name>热播精选</display-name>
+  </channel>
+  <programme start="20250609001526 +0800" stop="20250609015042 +0800" channel="95">
+    <title>重装机甲</title>
+  </programme>
+  <programme start="20250609015042 +0800" stop="20250609023603 +0800" channel="95">
+    <title>01_狮子山下的故事（粤语版）</title>
+  </programme>
+  <programme start="20250609023603 +0800" stop="20250609034120 +0800" channel="95">
+    <title>02_狮子山下的故事（粤语版）</title>
+  </programme>
+  <programme start="20250609034120 +0800" stop="20250609042639 +0800" channel="95">
+    <title>03_狮子山下的故事（粤语版）</title>
+  </programme>
+  <programme start="20250609042639 +0800" stop="20250609053156 +0800" channel="95">
+    <title>04_狮子山下的故事（粤语版）</title>
+  </programme>
+  <programme start="20250609053156 +0800" stop="20250609061715 +0800" channel="95">
+    <title>05_狮子山下的故事（粤语版）</title>
+  </programme>
+  <programme start="20250609061715 +0800" stop="20250609070102 +0800" channel="95">
+    <title>古代战场第3季</title>
+  </programme>
+  <programme start="20250609070102 +0800" stop="20250609080845 +0800" channel="95">
+    <title>26_永夜星河</title>
+  </programme>
+  <programme start="20250609080845 +0800" stop="20250609085518 +0800" channel="95">
+    <title>27_永夜星河</title>
+  </programme>
+  <programme start="20250609085518 +0800" stop="20250609094417 +0800" channel="95">
+    <title>美国Doctor Santon端粒酶胶囊-渠道（右）</title>
+  </programme>
+  <programme start="20250609094417 +0800" stop="20250609102831 +0800" channel="95">
+    <title>28_永夜星河</title>
+  </programme>
+  <programme start="20250609102831 +0800" stop="20250609111743 +0800" channel="95">
+    <title>29_永夜星河</title>
+  </programme>
+  <programme start="20250609111743 +0800" stop="20250609114642 +0800" channel="95">
+    <title>百年鑫堂西洋参粉滋补组-渠道（右）</title>
+  </programme>
+  <programme start="20250609114642 +0800" stop="20250609131343 +0800" channel="95">
+    <title>圆环行动</title>
+  </programme>
+  <programme start="20250609131343 +0800" stop="20250609135907 +0800" channel="95">
+    <title>18_绝密使命</title>
+  </programme>
+  <programme start="20250609135907 +0800" stop="20250609144706 +0800" channel="95">
+    <title>POKONDA智能四轮电动代步车-渠道（右）</title>
+  </programme>
+  <programme start="20250609144706 +0800" stop="20250609155228 +0800" channel="95">
+    <title>19_绝密使命</title>
+  </programme>
+  <programme start="20250609155228 +0800" stop="20250609163752 +0800" channel="95">
+    <title>20_绝密使命</title>
+  </programme>
+  <programme start="20250609163752 +0800" stop="20250609172651 +0800" channel="95">
+    <title>KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+  </programme>
+  <programme start="20250609172651 +0800" stop="20250609181131 +0800" channel="95">
+    <title>老广的味道第五季</title>
+  </programme>
+  <programme start="20250609181131 +0800" stop="20250609185701 +0800" channel="95">
+    <title>17_好团圆</title>
+  </programme>
+  <programme start="20250609185701 +0800" stop="20250609192700 +0800" channel="95">
+    <title>《八段锦》推荐第25期</title>
+  </programme>
+  <programme start="20250609192700 +0800" stop="20250609201230 +0800" channel="95">
+    <title>18_好团圆</title>
+  </programme>
+  <programme start="20250609201230 +0800" stop="20250609205815 +0800" channel="95">
+    <title>19_好团圆</title>
+  </programme>
+  <programme start="20250609205815 +0800" stop="20250609212814 +0800" channel="95">
+    <title>美好人生推荐第二期</title>
+  </programme>
+  <programme start="20250609212814 +0800" stop="20250609221359 +0800" channel="95">
+    <title>20_好团圆</title>
+  </programme>
+  <programme start="20250609221359 +0800" stop="20250609234840 +0800" channel="95">
+    <title>半熟恋人第3季</title>
+  </programme>
+  <programme start="20250609234840 +0800" stop="20250609235959 +0800" channel="95">
+    <title>超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+  </programme>
+  <programme start="20250610000000 +0800" stop="20250610003739 +0800" channel="95">
+    <title>超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+  </programme>
+  <channel id="96">
+    <display-name>爱情喜剧</display-name>
+  </channel>
+  <channel id="97">
+    <display-name>动作电影</display-name>
+  </channel>
+  <channel id="98">
+    <display-name>精品综合</display-name>
+  </channel>
+  <channel id="99">
+    <display-name>惊悚悬疑</display-name>
+  </channel>
+  <channel id="100">
+    <display-name>黑莓电影</display-name>
+  </channel>
+  <channel id="101">
+    <display-name>金牌综艺</display-name>
+  </channel>
+  <channel id="102">
+    <display-name>精品体育</display-name>
+  </channel>
+  <channel id="103">
+    <display-name>精品萌宠</display-name>
+  </channel>
+  <channel id="104">
+    <display-name>中国功夫</display-name>
+  </channel>
+  <programme start="20250609000325 +0800" stop="20250609015001 +0800" channel="104">
+    <title>侠探锦毛鼠之鹧鸪天</title>
+  </programme>
+  <programme start="20250609015001 +0800" stop="20250609034323 +0800" channel="104">
+    <title>侠捕之夺命红莲</title>
+  </programme>
+  <programme start="20250609034323 +0800" stop="20250609044355 +0800" channel="104">
+    <title>男子长拳决赛</title>
+  </programme>
+  <programme start="20250609044355 +0800" stop="20250609061157 +0800" channel="104">
+    <title>男子南拳决赛</title>
+  </programme>
+  <programme start="20250609061157 +0800" stop="20250609071934 +0800" channel="104">
+    <title>拳王争霸赛：达尔顿-史密斯VS比利-阿灵顿</title>
+  </programme>
+  <programme start="20250609071934 +0800" stop="20250609082355 +0800" channel="104">
+    <title>01_千古玦尘</title>
+  </programme>
+  <programme start="20250609082355 +0800" stop="20250609090826 +0800" channel="104">
+    <title>02_千古玦尘</title>
+  </programme>
+  <programme start="20250609090826 +0800" stop="20250609095725 +0800" channel="104">
+    <title>KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+  </programme>
+  <programme start="20250609095725 +0800" stop="20250609104127 +0800" channel="104">
+    <title>03_千古玦尘</title>
+  </programme>
+  <programme start="20250609104127 +0800" stop="20250609112543 +0800" channel="104">
+    <title>04_千古玦尘</title>
+  </programme>
+  <programme start="20250609112543 +0800" stop="20250609121442 +0800" channel="104">
+    <title>BEYONPAN钛锅升级款-渠道（右）</title>
+  </programme>
+  <programme start="20250609121442 +0800" stop="20250609135210 +0800" channel="104">
+    <title>八卦掌之潜龙勿用</title>
+  </programme>
+  <programme start="20250609135210 +0800" stop="20250609144009 +0800" channel="104">
+    <title>贝卡罗莱L-a-甘磷酸胆碱复合粉-渠道（右）</title>
+  </programme>
+  <programme start="20250609144009 +0800" stop="20250609151436 +0800" channel="104">
+    <title>12_墓王之王</title>
+  </programme>
+  <programme start="20250609151436 +0800" stop="20250609161140 +0800" channel="104">
+    <title>13_墓王之王</title>
+  </programme>
+  <programme start="20250609161140 +0800" stop="20250609164941 +0800" channel="104">
+    <title>14_墓王之王</title>
+  </programme>
+  <programme start="20250609164941 +0800" stop="20250609172656 +0800" channel="104">
+    <title>15_墓王之王</title>
+  </programme>
+  <programme start="20250609172656 +0800" stop="20250609175655 +0800" channel="104">
+    <title>《八段锦》推荐第25期</title>
+  </programme>
+  <programme start="20250609175655 +0800" stop="20250609184227 +0800" channel="104">
+    <title>39_天龙八部</title>
+  </programme>
+  <programme start="20250609184227 +0800" stop="20250609191226 +0800" channel="104">
+    <title>《时尚小咖秀》推荐第35期</title>
+  </programme>
+  <programme start="20250609191226 +0800" stop="20250609195757 +0800" channel="104">
+    <title>40_天龙八部</title>
+  </programme>
+  <programme start="20250609195757 +0800" stop="20250609204328 +0800" channel="104">
+    <title>41_天龙八部</title>
+  </programme>
+  <programme start="20250609204328 +0800" stop="20250609211327 +0800" channel="104">
+    <title>《时尚小咖秀》推荐第38期</title>
+  </programme>
+  <programme start="20250609211327 +0800" stop="20250609215858 +0800" channel="104">
+    <title>42_天龙八部</title>
+  </programme>
+  <programme start="20250609215858 +0800" stop="20250609232222 +0800" channel="104">
+    <title>锦鼠御猫之九幽血狼</title>
+  </programme>
+  <programme start="20250609232222 +0800" stop="20250609235959 +0800" channel="104">
+    <title>光子能量半导体激光治疗仪-渠道（右）</title>
+  </programme>
+  <programme start="20250610000000 +0800" stop="20250610000721 +0800" channel="104">
+    <title>光子能量半导体激光治疗仪-渠道（右）</title>
+  </programme>
+  <channel id="105">
+    <display-name>黑莓动画</display-name>
+  </channel>
+  <channel id="106">
+    <display-name>怡伴健康</display-name>
+  </channel>
+  <channel id="107">
+    <display-name>潮妈辣婆</display-name>
+  </channel>
+  <channel id="108">
+    <display-name>哒啵赛事</display-name>
+  </channel>
+  <programme start="20250609000002 +0800" stop="20250609014034 +0800" channel="108">
+    <title>桃子姐姐-挑战赛【全面战争】</title>
+  </programme>
+  <programme start="20250609014034 +0800" stop="20250609030441 +0800" channel="108">
+    <title>豆豆小师弟-炸药桶生存【迷你世界】</title>
+  </programme>
+  <programme start="20250609030441 +0800" stop="20250609042847 +0800" channel="108">
+    <title>辉哥-机甲失灵3【蛋仔派对】</title>
+  </programme>
+  <programme start="20250609042847 +0800" stop="20250609044847 +0800" channel="108">
+    <title>云飞游戏-怪物大作战【迷你世界】</title>
+  </programme>
+  <programme start="20250609044847 +0800" stop="20250609051830 +0800" channel="108">
+    <title>地瓜小表妹-荒野寻宝【迷你世界】</title>
+  </programme>
+  <programme start="20250609051830 +0800" stop="20250609060308 +0800" channel="108">
+    <title>老帅侃游戏-冰火传说【我的世界】</title>
+  </programme>
+  <programme start="20250609060308 +0800" stop="20250609063650 +0800" channel="108">
+    <title>兔八哥-带粉生存【迷你世界】</title>
+  </programme>
+  <programme start="20250609063650 +0800" stop="20250609071608 +0800" channel="108">
+    <title>西红柿-筑巢季【光遇】</title>
+  </programme>
+  <programme start="20250609071608 +0800" stop="20250609082059 +0800" channel="108">
+    <title>豆豆小师弟-虚空果生存【迷你世界】</title>
+  </programme>
+  <programme start="20250609082059 +0800" stop="20250609094516 +0800" channel="108">
+    <title>一生-挑战测试【植物大战僵尸】</title>
+  </programme>
+  <programme start="20250609094516 +0800" stop="20250609100744 +0800" channel="108">
+    <title>小猴子-地铁逃生【和平精英】</title>
+  </programme>
+  <programme start="20250609100744 +0800" stop="20250609103402 +0800" channel="108">
+    <title>熊猫聊游戏-好用攻略【三角洲行动】</title>
+  </programme>
+  <programme start="20250609103402 +0800" stop="20250609123050 +0800" channel="108">
+    <title>哒啵-速通挑战【植物大战僵尸】</title>
+  </programme>
+  <programme start="20250609123050 +0800" stop="20250609131837 +0800" channel="108">
+    <title>天成-疯狂爆笑吃鸡【和平精英】</title>
+  </programme>
+  <programme start="20250609131837 +0800" stop="20250609143435 +0800" channel="108">
+    <title>哒啵-默契配合【猛兽派对】</title>
+  </programme>
+  <programme start="20250609143435 +0800" stop="20250609154622 +0800" channel="108">
+    <title>真人版迷斯拉-勇闯金字塔【迷你世界】</title>
+  </programme>
+  <programme start="20250609154622 +0800" stop="20250609170235 +0800" channel="108">
+    <title>哒啵-空降奇兵【猛兽派对】</title>
+  </programme>
+  <programme start="20250609170235 +0800" stop="20250609185220 +0800" channel="108">
+    <title>玩甲-萌仔来啦【元梦之星】</title>
+  </programme>
+  <programme start="20250609185220 +0800" stop="20250609192930 +0800" channel="108">
+    <title>小贤菌-科技空岛3【我的世界】</title>
+  </programme>
+  <programme start="20250609192930 +0800" stop="20250609201036 +0800" channel="108">
+    <title>二嘉-独门秘籍【植物大战僵尸】</title>
+  </programme>
+  <programme start="20250609201036 +0800" stop="20250609214409 +0800" channel="108">
+    <title>哥斯拉-默契大挑战【蛋仔派对】</title>
+  </programme>
+  <programme start="20250609214409 +0800" stop="20250609224002 +0800" channel="108">
+    <title>二嘉-武功秘籍【蛋仔派对】</title>
+  </programme>
+  <programme start="20250609224002 +0800" stop="20250609235959 +0800" channel="108">
+    <title>哒啵-搜捕者来袭4【元梦之星】</title>
+  </programme>
+  <programme start="20250610000000 +0800" stop="20250610000506 +0800" channel="108">
+    <title>哒啵-搜捕者来袭4【元梦之星】</title>
+  </programme>
+  <channel id="109">
+    <display-name>哒啵电竞</display-name>
+  </channel>
+  <programme start="20250609000217 +0800" stop="20250609030146 +0800" channel="109">
+    <title>克里思D囻-柠檬茶生存【我的世界】</title>
+  </programme>
+  <programme start="20250609030146 +0800" stop="20250609051618 +0800" channel="109">
+    <title>香草-干货实况【王者荣耀】</title>
+  </programme>
+  <programme start="20250609051618 +0800" stop="20250609060016 +0800" channel="109">
+    <title>老帅侃游戏-冰火传说【我的世界】</title>
+  </programme>
+  <programme start="20250609060016 +0800" stop="20250609070900 +0800" channel="109">
+    <title>兔八哥-带粉生存【迷你世界】</title>
+  </programme>
+  <programme start="20250609070900 +0800" stop="20250609075530 +0800" channel="109">
+    <title>西红柿-我不是萌新【光遇】</title>
+  </programme>
+  <programme start="20250609075530 +0800" stop="20250609095042 +0800" channel="109">
+    <title>王不畏-闯关打怪3【迷你世界】</title>
+  </programme>
+  <programme start="20250609095042 +0800" stop="20250609105115 +0800" channel="109">
+    <title>小猴子-地铁逃生【和平精英】</title>
+  </programme>
+  <programme start="20250609105115 +0800" stop="20250609120554 +0800" channel="109">
+    <title>哒啵-潜艇大作战【猛兽派对】</title>
+  </programme>
+  <programme start="20250609120554 +0800" stop="20250609143458 +0800" channel="109">
+    <title>叮当猫-跑酷地图【蛋仔派对】</title>
+  </programme>
+  <programme start="20250609143458 +0800" stop="20250609154644 +0800" channel="109">
+    <title>CH酷凡-雾中人【我的世界】</title>
+  </programme>
+  <programme start="20250609154644 +0800" stop="20250609162123 +0800" channel="109">
+    <title>游戏人生-化身天命人【黑神话悟空】</title>
+  </programme>
+  <programme start="20250609162123 +0800" stop="20250609164944 +0800" channel="109">
+    <title>游百道-回到水帘洞【黑神话悟空】</title>
+  </programme>
+  <programme start="20250609164944 +0800" stop="20250609165940 +0800" channel="109">
+    <title>百度-社交秘籍【蛋仔派对】</title>
+  </programme>
+  <programme start="20250609165940 +0800" stop="20250609174949 +0800" channel="109">
+    <title>表锅-蛋宝日常【蛋仔派对】</title>
+  </programme>
+  <programme start="20250609174949 +0800" stop="20250609175802 +0800" channel="109">
+    <title>呆呆-奇幻金秋【蛋仔派对】</title>
+  </programme>
+  <programme start="20250609175802 +0800" stop="20250609194953 +0800" channel="109">
+    <title>哒啵-城堡搜捕者4【元梦之星】</title>
+  </programme>
+  <programme start="20250609194953 +0800" stop="20250609195445 +0800" channel="109">
+    <title>村花解说-趣味建造师【我的世界】</title>
+  </programme>
+  <programme start="20250609195445 +0800" stop="20250609202849 +0800" channel="109">
+    <title>飞熊-怪物学院【我的世界】</title>
+  </programme>
+  <programme start="20250609202849 +0800" stop="20250609205426 +0800" channel="109">
+    <title>芒果文化-怪物学院【我的世界】</title>
+  </programme>
+  <programme start="20250609205426 +0800" stop="20250609214154 +0800" channel="109">
+    <title>村花解说-奇葩建造【我的世界】</title>
+  </programme>
+  <programme start="20250609214154 +0800" stop="20250609215309 +0800" channel="109">
+    <title>修梦-峡谷训练营【王者荣耀】</title>
+  </programme>
+  <programme start="20250609215309 +0800" stop="20250609233127 +0800" channel="109">
+    <title>桃子姐姐-英雄之路【王者荣耀】</title>
+  </programme>
+  <programme start="20250609233127 +0800" stop="20250609235959 +0800" channel="109">
+    <title>WE-CHAT【王者荣耀】</title>
+  </programme>
+  <programme start="20250610000000 +0800" stop="20250610000824 +0800" channel="109">
+    <title>WE-CHAT【王者荣耀】</title>
+  </programme>
+  <channel id="110">
+    <display-name>精品纪录</display-name>
+  </channel>
+  <channel id="111">
+    <display-name>军事评论</display-name>
+  </channel>
+  <channel id="112">
+    <display-name>炫舞未来</display-name>
+  </channel>
+  <channel id="113">
+    <display-name>CCTV4K</display-name>
+  </channel>
+  <channel id="114">
+    <display-name>北京卫视4K</display-name>
+  </channel>
+  <channel id="115">
+    <display-name>纯享4K</display-name>
+  </channel>
+  <channel id="116">
+    <display-name>睛彩青少</display-name>
+  </channel>
+  <channel id="117">
+    <display-name>睛彩竞技</display-name>
+  </channel>
+  <channel id="118">
+    <display-name>睛彩篮球</display-name>
+  </channel>
+  <channel id="119">
+    <display-name>睛彩广场舞</display-name>
+  </channel>
+</tv>

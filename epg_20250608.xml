@@ -3774,10 +3774,7 @@
   <programme start="20250608231500 +0800" stop="20250608235800 +0800" channel="31">
     <title>深夜剧场</title>
   </programme>
-  <programme start="20250608235800 +0800" stop="20250608235959 +0800" channel="31">
-    <title>深夜剧场</title>
-  </programme>
-  <programme start="20250609000000 +0800" stop="20250609005800 +0800" channel="31">
+  <programme start="20250608235800 +0800" stop="20250609000000 +0800" channel="31">
     <title>深夜剧场</title>
   </programme>
   <channel id="32">
@@ -6660,7 +6657,7 @@
   <programme start="20250608235900 +0800" stop="20250608235959 +0800" channel="56">
     <title>旅游景区天气预报</title>
   </programme>
-  <programme start="20250609000000 +0800" stop="20250609001700 +0800" channel="56">
+  <programme start="20250609000000 +0800" stop="20250609000500 +0800" channel="56">
     <title>旅游景区天气预报</title>
   </programme>
   <channel id="57">
@@ -10791,12 +10788,147 @@
   <channel id="98">
     <display-name>精品综合</display-name>
   </channel>
+  <programme start="20250608000109 +0800" stop="20250608020157 +0800" channel="98">
+    <title>一个好人</title>
+  </programme>
+  <programme start="20250608020157 +0800" stop="20250608033653 +0800" channel="98">
+    <title>十三邀第7季</title>
+  </programme>
+  <programme start="20250608033653 +0800" stop="20250608045225 +0800" channel="98">
+    <title>21_亮剑</title>
+  </programme>
+  <programme start="20250608045225 +0800" stop="20250608060757 +0800" channel="98">
+    <title>22_亮剑</title>
+  </programme>
+  <programme start="20250608060757 +0800" stop="20250608072329 +0800" channel="98">
+    <title>23_亮剑</title>
+  </programme>
+  <programme start="20250608072329 +0800" stop="20250608080904 +0800" channel="98">
+    <title>24_亮剑</title>
+  </programme>
+  <programme start="20250608080904 +0800" stop="20250608085803 +0800" channel="98">
+    <title>BEYONPAN钛锅升级款-渠道（右）</title>
+  </programme>
+  <programme start="20250608085803 +0800" stop="20250608091302 +0800" channel="98">
+    <title>02_喜羊羊与灰太狼之发明大作战之二</title>
+  </programme>
+  <programme start="20250608091302 +0800" stop="20250608092801 +0800" channel="98">
+    <title>03_喜羊羊与灰太狼之发明大作战之二</title>
+  </programme>
+  <programme start="20250608092801 +0800" stop="20250608101245 +0800" channel="98">
+    <title>41_三生三世枕上书</title>
+  </programme>
+  <programme start="20250608101245 +0800" stop="20250608105719 +0800" channel="98">
+    <title>42_三生三世枕上书</title>
+  </programme>
+  <programme start="20250608105719 +0800" stop="20250608114518 +0800" channel="98">
+    <title>贝卡罗莱L-a-甘磷酸胆碱复合粉-渠道（右）</title>
+  </programme>
+  <programme start="20250608114518 +0800" stop="20250608122959 +0800" channel="98">
+    <title>43_三生三世枕上书</title>
+  </programme>
+  <programme start="20250608122959 +0800" stop="20250608134537 +0800" channel="98">
+    <title>控梦师</title>
+  </programme>
+  <programme start="20250608134537 +0800" stop="20250608135921 +0800" channel="98">
+    <title>06_龙战士星源</title>
+  </programme>
+  <programme start="20250608135921 +0800" stop="20250608144820 +0800" channel="98">
+    <title>超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+  </programme>
+  <programme start="20250608144820 +0800" stop="20250608150204 +0800" channel="98">
+    <title>07_龙战士星源</title>
+  </programme>
+  <programme start="20250608150204 +0800" stop="20250608161200 +0800" channel="98">
+    <title>艾美特新风智能空气扇-渠道（右）</title>
+  </programme>
+  <programme start="20250608161200 +0800" stop="20250608165535 +0800" channel="98">
+    <title>10_最好的时代</title>
+  </programme>
+  <programme start="20250608165535 +0800" stop="20250608173914 +0800" channel="98">
+    <title>11_最好的时代</title>
+  </programme>
+  <programme start="20250608173914 +0800" stop="20250608182231 +0800" channel="98">
+    <title>12_最好的时代</title>
+  </programme>
+  <programme start="20250608182231 +0800" stop="20250608190240 +0800" channel="98">
+    <title>邻家诗话第4季</title>
+  </programme>
+  <programme start="20250608190240 +0800" stop="20250608193939 +0800" channel="98">
+    <title>艾美特半导体塔式空调扇-渠道（右）</title>
+  </programme>
+  <programme start="20250608193939 +0800" stop="20250608202429 +0800" channel="98">
+    <title>15_公主小妹</title>
+  </programme>
+  <programme start="20250608202429 +0800" stop="20250608210928 +0800" channel="98">
+    <title>光子能量半导体激光治疗仪-渠道（右）</title>
+  </programme>
+  <programme start="20250608210928 +0800" stop="20250608215359 +0800" channel="98">
+    <title>16_公主小妹</title>
+  </programme>
+  <programme start="20250608215359 +0800" stop="20250608223849 +0800" channel="98">
+    <title>17_公主小妹</title>
+  </programme>
+  <programme start="20250608223849 +0800" stop="20250608235959 +0800" channel="98">
+    <title>咏春女孩</title>
+  </programme>
+  <programme start="20250609000000 +0800" stop="20250609000959 +0800" channel="98">
+    <title>咏春女孩</title>
+  </programme>
   <channel id="99">
     <display-name>惊悚悬疑</display-name>
   </channel>
   <channel id="100">
     <display-name>黑莓电影</display-name>
   </channel>
+  <programme start="20250608002735 +0800" stop="20250608020946 +0800" channel="100">
+    <title>雨天的妖怪</title>
+  </programme>
+  <programme start="20250608020946 +0800" stop="20250608034400 +0800" channel="100">
+    <title>至爱梵高</title>
+  </programme>
+  <programme start="20250608034400 +0800" stop="20250608051510 +0800" channel="100">
+    <title>咏春女孩</title>
+  </programme>
+  <programme start="20250608051510 +0800" stop="20250608070359 +0800" channel="100">
+    <title>新步步惊心</title>
+  </programme>
+  <programme start="20250608070359 +0800" stop="20250608083042 +0800" channel="100">
+    <title>警花火龙驹</title>
+  </programme>
+  <programme start="20250608083042 +0800" stop="20250608100825 +0800" channel="100">
+    <title>银魂最终篇</title>
+  </programme>
+  <programme start="20250608100825 +0800" stop="20250608113814 +0800" channel="100">
+    <title>雷霆行动</title>
+  </programme>
+  <programme start="20250608113814 +0800" stop="20250608125834 +0800" channel="100">
+    <title>金牌河东狮吼 </title>
+  </programme>
+  <programme start="20250608125834 +0800" stop="20250608144642 +0800" channel="100">
+    <title>谁的青春不迷茫</title>
+  </programme>
+  <programme start="20250608144642 +0800" stop="20250608161614 +0800" channel="100">
+    <title>蜀山之万剑封魔</title>
+  </programme>
+  <programme start="20250608161614 +0800" stop="20250608174511 +0800" channel="100">
+    <title>西游记之七十二变</title>
+  </programme>
+  <programme start="20250608174511 +0800" stop="20250608195928 +0800" channel="100">
+    <title>龙与地下城：侠盗荣耀</title>
+  </programme>
+  <programme start="20250608195928 +0800" stop="20250608215852 +0800" channel="100">
+    <title>非诚勿扰3</title>
+  </programme>
+  <programme start="20250608215852 +0800" stop="20250608235849 +0800" channel="100">
+    <title>绣春刀·修罗战场</title>
+  </programme>
+  <programme start="20250608235849 +0800" stop="20250608235959 +0800" channel="100">
+    <title>最后的旗帜</title>
+  </programme>
+  <programme start="20250609000000 +0800" stop="20250609015714 +0800" channel="100">
+    <title>最后的旗帜</title>
+  </programme>
   <channel id="101">
     <display-name>金牌综艺</display-name>
   </channel>
