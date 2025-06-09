@@ -91,13 +91,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const dayAfterTomorrow = new Date(today);
   dayAfterTomorrow.setDate(today.getDate() + 2);
-  const range2 = todayStr + " ~ " + formatDate(dayAfterTomorrow).split(' ')[0];
+  const range1 = todayStr + " ~ " + formatDate(dayAfterTomorrow).split(' ')[0];
   document.getElementById("range1").textContent = range1;
 
 
   const sixDaysAgo = new Date(today);
   sixDaysAgo.setDate(today.getDate() - 6);
-  const range1 = formatDate(sixDaysAgo).split(' ')[0] + " ~ " + formatDate(dayAfterTomorrow).split(' ')[0];
+  const range2 = formatDate(sixDaysAgo).split(' ')[0] + " ~ " + formatDate(dayAfterTomorrow).split(' ')[0];
   document.getElementById("range2").textContent = range2;
 
   // 定义文件列表
