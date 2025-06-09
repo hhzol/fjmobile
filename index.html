@@ -55,13 +55,13 @@
           <td>3天(今天、明天、后天)</td>
           <td><a href="https://e.136605.xyz/3.xml">3.xml</a> / <a href="https://e.136605.xyz/3.xml.gz">3.xml.gz</a></td>
           <td><span class="update-time" id="3-xml">加载中...</span></td>
-          <td id="range2"></td>
+          <td id="range1"></td>
         </tr>
         <tr>
           <td>9天(前6天、今天、明天、后天)</td>
           <td><a href="https://e.136605.xyz/9.xml">9.xml</a> / <a href="https://e.136605.xyz/9.xml.gz">9.xml.gz</a></td>
           <td><span class="update-time" id="9-xml">加载中...</span></td>
-          <td id="range1"></td>
+          <td id="range2"></td>
         </tr>
       </table>
     </section>
@@ -86,27 +86,19 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   const today = new Date();
-  const todayStr = formatDate(today).split(' ')[0]; // 只取日期部分
+  const todayStr = formatDate(today).split(' ')[0];
   document.getElementById("today").textContent = todayStr;
-
-  const sixDaysAgo = new Date(today);
-  sixDaysAgo.setDate(today.getDate() - 6);
-  const range1 = formatDate(sixDaysAgo).split(' ')[0] + " ~ " + todayStr;
-  document.getElementById("range1").textContent = range1;
 
   const dayAfterTomorrow = new Date(today);
   dayAfterTomorrow.setDate(today.getDate() + 2);
-  const range2 = formatDate(sixDaysAgo).split(' ')[0] + " ~ " + formatDate(dayAfterTomorrow).split(' ')[0];
-  document.getElementById("range2").textContent = range2;
+  const range2 = todayStr + " ~ " + formatDate(dayAfterTomorrow).split(' ')[0];
+  document.getElementById("range1").textContent = range1;
 
-  // 获取当天日期，格式为YYYYMMDD
-  function getTodayDateString() {
-    const now = new Date();
-    const year = now.getFullYear();
-    const month = String(now.getMonth() + 1).padStart(2, '0');
-    const day = String(now.getDate()).padStart(2, '0');
-    return `${year}${month}${day}`;
-  }
+
+  const sixDaysAgo = new Date(today);
+  sixDaysAgo.setDate(today.getDate() - 6);
+  const range1 = formatDate(sixDaysAgo).split(' ')[0] + " ~ " + formatDate(dayAfterTomorrow).split(' ')[0];
+  document.getElementById("range2").textContent = range2;
 
   // 定义文件列表
   const todayDate = getTodayDateString();
