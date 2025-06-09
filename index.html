@@ -100,6 +100,14 @@ document.addEventListener("DOMContentLoaded", () => {
   const range2 = formatDate(sixDaysAgo).split(' ')[0] + " ~ " + formatDate(dayAfterTomorrow).split(' ')[0];
   document.getElementById("range2").textContent = range2;
 
+    // 获取当天日期，格式为YYYYMMDD
+  function getTodayDateString() {
+    const now = new Date();
+    const year = now.getFullYear();
+    const month = String(now.getMonth() + 1).padStart(2, '0');
+    const day = String(now.getDate()).padStart(2, '0');
+    return `${year}${month}${day}`;
+  }
   // 定义文件列表
   const todayDate = getTodayDateString();
   const files = [
