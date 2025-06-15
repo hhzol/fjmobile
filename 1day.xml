@@ -54867,7 +54867,7 @@
     <title>尼克前進南美洲:3</title>
   </programme>
   <channel id="521">
-    <display-name>Bloomberg</display-name>
+    <display-name>BBC News</display-name>
   </channel>
   <programme start="20250615000000  +0800" stop="20250615010000  +0800" channel="521">
     <title>BBC News</title>
@@ -55002,7 +55002,7 @@
     <title>The Interview (r)</title>
   </programme>
   <channel id="522">
-    <display-name>BBC Earth</display-name>
+    <display-name>Bloomberg</display-name>
   </channel>
   <programme start="20250615000000  +0800" stop="20250615003000  +0800" channel="522">
     <title>Bloomberg Studio 1.0(普)</title>
@@ -55136,8 +55136,110 @@
   <programme start="20250615233000  +0800" stop="20250616000000  +0800" channel="522">
     <title>Bloomberg Green(普)</title>
   </programme>
+  <channel id="523">
+    <display-name>CNN</display-name>
+  </channel>
+  <programme start="20250615000000  +0800" stop="20250615003000  +0800" channel="523">
+    <title>World Sport</title>
+  </programme>
+  <programme start="20250615003000  +0800" stop="20250615010000  +0800" channel="523">
+    <title>Elite Escapes</title>
+  </programme>
+  <programme start="20250615010000  +0800" stop="20250615020000  +0800" channel="523">
+    <title>CNN Newsroom (CNN/US)</title>
+  </programme>
+  <programme start="20250615020000  +0800" stop="20250615030000  +0800" channel="523">
+    <title>CNN Newsroom (CNN/US)</title>
+  </programme>
+  <programme start="20250615030000  +0800" stop="20250615040000  +0800" channel="523">
+    <title>The Whole Story with Anderson Cooper</title>
+  </programme>
+  <programme start="20250615040000  +0800" stop="20250615050000  +0800" channel="523">
+    <title>CNN Newsroom (CNN/US)</title>
+  </programme>
+  <programme start="20250615050000  +0800" stop="20250615053000  +0800" channel="523">
+    <title>World Sport</title>
+  </programme>
+  <programme start="20250615053000  +0800" stop="20250615060000  +0800" channel="523">
+    <title>Inside Africa</title>
+  </programme>
+  <programme start="20250615060000  +0800" stop="20250615070000  +0800" channel="523">
+    <title>CNN Newsroom (CNN/US)</title>
+  </programme>
+  <programme start="20250615070000  +0800" stop="20250615080000  +0800" channel="523">
+    <title>CNN Newsroom (CNN/US)</title>
+  </programme>
+  <programme start="20250615080000  +0800" stop="20250615090000  +0800" channel="523">
+    <title>Smerconish</title>
+  </programme>
+  <programme start="20250615090000  +0800" stop="20250615093000  +0800" channel="523">
+    <title>World Sport</title>
+  </programme>
+  <programme start="20250615093000  +0800" stop="20250615100000  +0800" channel="523">
+    <title>Connecting Africa</title>
+  </programme>
+  <programme start="20250615100000  +0800" stop="20250615103000  +0800" channel="523">
+    <title>Inside Africa</title>
+  </programme>
+  <programme start="20250615103000  +0800" stop="20250615110000  +0800" channel="523">
+    <title>African Voices Playmakers</title>
+  </programme>
+  <programme start="20250615110000  +0800" stop="20250615113000  +0800" channel="523">
+    <title>Elite Escapes</title>
+  </programme>
+  <programme start="20250615113000  +0800" stop="20250615120000  +0800" channel="523">
+    <title>Marketplace Asia</title>
+  </programme>
+  <programme start="20250615120000  +0800" stop="20250615123000  +0800" channel="523">
+    <title>CNN Newsroom</title>
+  </programme>
+  <programme start="20250615123000  +0800" stop="20250615130000  +0800" channel="523">
+    <title>World Sport</title>
+  </programme>
+  <programme start="20250615130000  +0800" stop="20250615133000  +0800" channel="523">
+    <title>CNN Newsroom</title>
+  </programme>
+  <programme start="20250615133000  +0800" stop="20250615140000  +0800" channel="523">
+    <title>Inside Africa</title>
+  </programme>
+  <programme start="20250615140000  +0800" stop="20250615143000  +0800" channel="523">
+    <title>CNN Newsroom</title>
+  </programme>
+  <programme start="20250615143000  +0800" stop="20250615150000  +0800" channel="523">
+    <title>Marketplace Asia</title>
+  </programme>
+  <programme start="20250615150000  +0800" stop="20250615160000  +0800" channel="523">
+    <title>CNN Newsroom</title>
+  </programme>
+  <programme start="20250615160000  +0800" stop="20250615170000  +0800" channel="523">
+    <title>CNN Newsroom</title>
+  </programme>
+  <programme start="20250615170000  +0800" stop="20250615180000  +0800" channel="523">
+    <title>CNN Newsroom</title>
+  </programme>
+  <programme start="20250615180000  +0800" stop="20250615183000  +0800" channel="523">
+    <title>Marketplace Asia</title>
+  </programme>
+  <programme start="20250615183000  +0800" stop="20250615190000  +0800" channel="523">
+    <title>Inside Africa</title>
+  </programme>
+  <programme start="20250615190000  +0800" stop="20250615200000  +0800" channel="523">
+    <title>CNN This Morning Weekend</title>
+  </programme>
+  <programme start="20250615200000  +0800" stop="20250615210000  +0800" channel="523">
+    <title>Inside Politics</title>
+  </programme>
+  <programme start="20250615210000  +0800" stop="20250615220000  +0800" channel="523">
+    <title>State of the Union</title>
+  </programme>
+  <programme start="20250615220000  +0800" stop="20250615230000  +0800" channel="523">
+    <title>Fareed Zakaria GPS</title>
+  </programme>
+  <programme start="20250615230000  +0800" stop="20250616000000  +0800" channel="523">
+    <title>Inside Politics</title>
+  </programme>
   <channel id="524">
-    <display-name>動物星球</display-name>
+    <display-name>DW德國之聲</display-name>
   </channel>
   <programme start="20250615000000  +0800" stop="20250615001500  +0800" channel="524">
     <title>德國之聲新聞(普)</title>
@@ -55341,7 +55443,7 @@
     <title>藝術揭幕(普)</title>
   </programme>
   <channel id="525">
-    <display-name>BBC News</display-name>
+    <display-name>Discovery</display-name>
   </channel>
   <programme start="20250615000000  +0800" stop="20250615010000  +0800" channel="525">
     <title>翻新中古車第12季:9</title>
@@ -55545,7 +55647,7 @@
     <title>印度詐財黑幫:2</title>
   </programme>
   <channel id="527">
-    <display-name>CNN</display-name>
+    <display-name>NHK WORLD-JAPAN</display-name>
   </channel>
   <programme start="20250615000000  +0800" stop="20250615001000  +0800" channel="527">
     <title>NHK Newsline(普)</title>
@@ -55791,7 +55893,7 @@
     <title>A Cats-Eye View of Japan(普)</title>
   </programme>
   <channel id="528">
-    <display-name>DW德國之聲</display-name>
+    <display-name>動物星球</display-name>
   </channel>
   <programme start="20250615000000  +0800" stop="20250615010000  +0800" channel="528">
     <title>野生動物求生錄:1</title>
@@ -55869,7 +55971,7 @@
     <title>百變爬蟲箱:5</title>
   </programme>
   <channel id="529">
-    <display-name>NHK WORLD-JAPAN</display-name>
+    <display-name>CNA (HD)</display-name>
   </channel>
   <programme start="20250615000000  +0800" stop="20250615000300  +0800" channel="529">
     <title>Headline News</title>
