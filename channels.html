@@ -46,7 +46,7 @@ fetch("context.txt")
     document.getElementById("channelList").textContent = data;
     
     // 统计频道数量（按英文逗号分割）
-    const count = data.split(",").filter(item => item.trim() !== "").length;
+    const count = data.split("，").filter(item => item.trim() !== "").length;
     document.getElementById("channelCount").textContent = `共 ${count} 个频道，准确的频道名称如下，供对照使用：`;
   })
   .catch(() => {
