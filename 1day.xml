@@ -32397,14 +32397,14 @@
   <programme start="20250717000000 +0800" stop="20250717000001 +0800" channel="460">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20250717000001 +0800" stop="20250717031900 +0800" channel="460">
-    <title>结束</title>
+  <programme start="20250717000001 +0800" stop="20250717032000 +0800" channel="460">
+    <title>开始</title>
     </programme>
-  <programme start="20250717031900 +0800" stop="20250717040000 +0800" channel="460">
-    <title>结束</title>
+  <programme start="20250717032000 +0800" stop="20250717040000 +0800" channel="460">
+    <title>开始</title>
     </programme>
   <programme start="20250717040000 +0800" stop="20250717060000 +0800" channel="460">
-    <title>结束</title>
+    <title>开始</title>
     </programme>
   <programme start="20250717060000 +0800" stop="20250717062900 +0800" channel="460">
     <title>小龙人46</title>
@@ -35420,6 +35420,69 @@
     </programme>
   <programme start="20250717235900 +0800" stop="20250717235900 +0800" channel="533">
     <title>都市午夜场</title>
+    </programme>
+  <channel id="534">
+    <display-name>仙游电视</display-name>
+    </channel>
+  <programme start="20250717000000 +0800" stop="20250717120000 +0800" channel="534">
+    <title>由https://epg.136605.xyz提供节目单服务</title>
+    </programme>
+  <programme start="20250717120000 +0800" stop="20250717121000 +0800" channel="534">
+    <title>广告</title>
+    </programme>
+  <programme start="20250717121000 +0800" stop="20250717122500 +0800" channel="534">
+    <title>仙游新闻（重播周二）</title>
+    </programme>
+  <programme start="20250717122500 +0800" stop="20250717123000 +0800" channel="534">
+    <title>广告</title>
+    </programme>
+  <programme start="20250717123000 +0800" stop="20250717124500 +0800" channel="534">
+    <title>秋生讲古</title>
+    </programme>
+  <programme start="20250717124500 +0800" stop="20250717130000 +0800" channel="534">
+    <title>公益广告、请您欣赏</title>
+    </programme>
+  <programme start="20250717130000 +0800" stop="20250717155500 +0800" channel="534">
+    <title>莆仙戏</title>
+    </programme>
+  <programme start="20250717155500 +0800" stop="20250717190000 +0800" channel="534">
+    <title>连续剧</title>
+    </programme>
+  <programme start="20250717190000 +0800" stop="20250717200000 +0800" channel="534">
+    <title>转播莆田一套（含中央新闻、福建新闻）</title>
+    </programme>
+  <programme start="20250717200000 +0800" stop="20250717201000 +0800" channel="534">
+    <title>广告</title>
+    </programme>
+  <programme start="20250717201000 +0800" stop="20250717202500 +0800" channel="534">
+    <title>仙游新闻</title>
+    </programme>
+  <programme start="20250717202500 +0800" stop="20250717203500 +0800" channel="534">
+    <title>广告</title>
+    </programme>
+  <programme start="20250717203500 +0800" stop="20250717205000 +0800" channel="534">
+    <title>有味有醋</title>
+    </programme>
+  <programme start="20250717205000 +0800" stop="20250717210000 +0800" channel="534">
+    <title>公益广告、请您欣赏</title>
+    </programme>
+  <programme start="20250717210000 +0800" stop="20250717211500 +0800" channel="534">
+    <title>秋生讲古</title>
+    </programme>
+  <programme start="20250717211500 +0800" stop="20250717213000 +0800" channel="534">
+    <title>公益广告、请您欣赏</title>
+    </programme>
+  <programme start="20250717213000 +0800" stop="20250717214500 +0800" channel="534">
+    <title>有味有醋</title>
+    </programme>
+  <programme start="20250717214500 +0800" stop="20250717220000 +0800" channel="534">
+    <title>广告</title>
+    </programme>
+  <programme start="20250717220000 +0800" stop="20250717221500 +0800" channel="534">
+    <title>仙游新闻</title>
+    </programme>
+  <programme start="20250717221500 +0800" stop="20250717235900 +0800" channel="534">
+    <title>公益广告、请您欣赏</title>
     </programme>
   <channel id="535">
     <display-name>佛山公共</display-name>
@@ -44452,25 +44515,25 @@
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
   <programme start="20250717000001 +0800" stop="20250717014000 +0800" channel="662">
-    <title>玉面桃花总相逢2829</title>
+    <title>经典剧场：36集：玉面桃花总相逢 28-29</title>
     </programme>
   <programme start="20250717014000 +0800" stop="20250717021000 +0800" channel="662">
     <title>遇见好书</title>
     </programme>
   <programme start="20250717021000 +0800" stop="20250717043000 +0800" channel="662">
-    <title>长乐曲810</title>
+    <title>时光剧场：40集：长乐曲 8-10</title>
     </programme>
   <programme start="20250717043000 +0800" stop="20250717050000 +0800" channel="662">
     <title>乡村振兴新农人</title>
     </programme>
   <programme start="20250717050000 +0800" stop="20250717073000 +0800" channel="662">
-    <title>大山的女儿2729</title>
+    <title>天下剧场：40集：大山的女儿 27-29</title>
     </programme>
   <programme start="20250717073000 +0800" stop="20250717082000 +0800" channel="662">
     <title>中外纪录片展播</title>
     </programme>
   <programme start="20250717082000 +0800" stop="20250717100000 +0800" channel="662">
-    <title>玉面桃花总相逢3031</title>
+    <title>经典剧场：36集：玉面桃花总相逢 30-31</title>
     </programme>
   <programme start="20250717100000 +0800" stop="20250717103000 +0800" channel="662">
     <title>广西新闻</title>
@@ -44479,10 +44542,10 @@
     <title>海丝路</title>
     </programme>
   <programme start="20250717110000 +0800" stop="20250717133000 +0800" channel="662">
-    <title>长乐曲1113</title>
+    <title>时光剧场：40集：长乐曲 11-13</title>
     </programme>
   <programme start="20250717133000 +0800" stop="20250717160000 +0800" channel="662">
-    <title>大山的女儿3032</title>
+    <title>天下剧场：40集：大山的女儿 30-32</title>
     </programme>
   <programme start="20250717160000 +0800" stop="20250717163000 +0800" channel="662">
     <title>广西新闻</title>
@@ -44491,16 +44554,16 @@
     <title>海丝路</title>
     </programme>
   <programme start="20250717170000 +0800" stop="20250717183000 +0800" channel="662">
-    <title>玉面桃花总相逢3233</title>
+    <title>经典剧场：36集：玉面桃花总相逢 32-33</title>
     </programme>
   <programme start="20250717183000 +0800" stop="20250717210000 +0800" channel="662">
-    <title>长乐曲1416</title>
+    <title>时光剧场：40集：长乐曲 14-16</title>
     </programme>
   <programme start="20250717210000 +0800" stop="20250717213000 +0800" channel="662">
-    <title>并蒂花开（上集）</title>
+    <title>《并蒂花开》（上集）</title>
     </programme>
   <programme start="20250717213000 +0800" stop="20250717235900 +0800" channel="662">
-    <title>大山的女儿3335</title>
+    <title>天下剧场：40集：大山的女儿 33-35</title>
     </programme>
   <channel id="663">
     <display-name>广西影视</display-name>
@@ -44512,7 +44575,7 @@
     <title>温馨剧场 43集 浴血青春(26)</title>
     </programme>
   <programme start="20250717005000 +0800" stop="20250717013000 +0800" channel="663">
-    <title>老友一家亲(精选)</title>
+    <title>老友一家亲（精选）</title>
     </programme>
   <programme start="20250717013000 +0800" stop="20250717060000 +0800" channel="663">
     <title>午夜剧场</title>
@@ -44577,7 +44640,7 @@
   <programme start="20250717225000 +0800" stop="20250717233000 +0800" channel="663">
     <title>温馨剧场 43集 浴血青春(28)</title>
     </programme>
-  <programme start="20250717233000 +0800" stop="20250717000000 +0800" channel="663">
+  <programme start="20250717233000 +0800" stop="20250717235900 +0800" channel="663">
     <title>专题</title>
     </programme>
   <channel id="664">
@@ -44596,7 +44659,7 @@
     <title>海丝路(重播)</title>
     </programme>
   <programme start="20250717011500 +0800" stop="20250717021500 +0800" channel="664">
-    <title>在线大搜索(重播)</title>
+    <title>在线大搜索（重播）</title>
     </programme>
   <programme start="20250717021500 +0800" stop="20250717031500 +0800" channel="664">
     <title>新闻在线(重播)</title>
@@ -44611,7 +44674,7 @@
     <title>新闻在线(重播)</title>
     </programme>
   <programme start="20250717051500 +0800" stop="20250717060000 +0800" channel="664">
-    <title>在线大搜索(重播)</title>
+    <title>在线大搜索（重播）</title>
     </programme>
   <programme start="20250717060000 +0800" stop="20250717063000 +0800" channel="664">
     <title>准点直播间(重播)</title>
@@ -44671,7 +44734,7 @@
     <title>经济新观察(重播)</title>
     </programme>
   <programme start="20250717180000 +0800" stop="20250717183000 +0800" channel="664">
-    <title>准点直播间(直播)</title>
+    <title>准点直播间（直播）</title>
     </programme>
   <programme start="20250717183000 +0800" stop="20250717193000 +0800" channel="664">
     <title>在线大搜索(直播)</title>
@@ -44686,12 +44749,12 @@
     <title>经济新观察</title>
     </programme>
   <programme start="20250717213000 +0800" stop="20250717223000 +0800" channel="664">
-    <title>在线大搜索(重播)</title>
+    <title>在线大搜索（重播）</title>
     </programme>
   <programme start="20250717223000 +0800" stop="20250717233000 +0800" channel="664">
     <title>新闻在线(重播)</title>
     </programme>
-  <programme start="20250717233000 +0800" stop="20250717000000 +0800" channel="664">
+  <programme start="20250717233000 +0800" stop="20250717235900 +0800" channel="664">
     <title>广西新闻(重播)</title>
     </programme>
   <channel id="665">
@@ -44710,16 +44773,37 @@
     <title>法治最前线(7月16日)</title>
     </programme>
   <programme start="20250717072500 +0800" stop="20250717074000 +0800" channel="665">
-    <title>走读广西(7月17日)</title>
+    <title>走读广西（7月17日）</title>
     </programme>
-  <programme start="20250717074000 +0800" stop="20250717104000 +0800" channel="665">
-    <title>上午剧场:38集电视剧:红色女特工(3-6)</title>
+  <programme start="20250717074000 +0800" stop="20250717080000 +0800" channel="665">
+    <title>院长版八段锦</title>
+    </programme>
+  <programme start="20250717080000 +0800" stop="20250717102000 +0800" channel="665">
+    <title>上午剧场:38集电视剧:红色女特工（3-5）</title>
+    </programme>
+  <programme start="20250717102000 +0800" stop="20250717104000 +0800" channel="665">
+    <title>院长版八段锦</title>
     </programme>
   <programme start="20250717104000 +0800" stop="20250717115000 +0800" channel="665">
     <title>法治最前线(7月16日)</title>
     </programme>
-  <programme start="20250717115000 +0800" stop="20250717180000 +0800" channel="665">
-    <title>下午剧场:23集电视剧:无敌枪王2(14-21)</title>
+  <programme start="20250717115000 +0800" stop="20250717132500 +0800" channel="665">
+    <title>下午剧场:23集电视剧:无敌枪王2(14-15)</title>
+    </programme>
+  <programme start="20250717132500 +0800" stop="20250717135000 +0800" channel="665">
+    <title>院长版八段锦</title>
+    </programme>
+  <programme start="20250717135000 +0800" stop="20250717160000 +0800" channel="665">
+    <title>下午剧场:23集电视剧:无敌枪王2(16-18)</title>
+    </programme>
+  <programme start="20250717160000 +0800" stop="20250717162000 +0800" channel="665">
+    <title>院长版八段锦</title>
+    </programme>
+  <programme start="20250717162000 +0800" stop="20250717173500 +0800" channel="665">
+    <title>下午剧场:23集电视剧:无敌枪王2(19-20)</title>
+    </programme>
+  <programme start="20250717173500 +0800" stop="20250717180000 +0800" channel="665">
+    <title>院长版八段锦</title>
     </programme>
   <programme start="20250717180000 +0800" stop="20250717185700 +0800" channel="665">
     <title>法治最前线(7月17日)</title>
@@ -44733,7 +44817,7 @@
   <programme start="20250717214500 +0800" stop="20250717221000 +0800" channel="665">
     <title>一键游广西(7月17日)</title>
     </programme>
-  <programme start="20250717221000 +0800" stop="20250717010000 +0800" channel="665">
+  <programme start="20250717221000 +0800" stop="20250717235900 +0800" channel="665">
     <title>经典剧场:38集电视剧:红色女特工(36-38)</title>
     </programme>
   <channel id="666">
@@ -44743,31 +44827,31 @@
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
   <programme start="20250717004000 +0800" stop="20250717011500 +0800" channel="666">
-    <title>重播:都市情缘</title>
+    <title>重播：都市情缘</title>
     </programme>
   <programme start="20250717011500 +0800" stop="20250717014000 +0800" channel="666">
-    <title>重播:一起向未来</title>
+    <title>重播：一起向未来</title>
     </programme>
   <programme start="20250717014000 +0800" stop="20250717060000 +0800" channel="666">
     <title>通宵剧场:35集电视剧:红日(11-16)</title>
     </programme>
   <programme start="20250717060000 +0800" stop="20250717063500 +0800" channel="666">
-    <title>重播:都市情缘</title>
+    <title>重播：都市情缘</title>
     </programme>
   <programme start="20250717063500 +0800" stop="20250717070000 +0800" channel="666">
-    <title>重播:一起向未来</title>
+    <title>重播：一起向未来</title>
     </programme>
   <programme start="20250717070000 +0800" stop="20250717115000 +0800" channel="666">
     <title>阳光剧场:79集电视剧:热血秧歌(25-30)</title>
     </programme>
   <programme start="20250717115000 +0800" stop="20250717121000 +0800" channel="666">
-    <title>重播:一起向未来</title>
+    <title>重播：一起向未来</title>
     </programme>
   <programme start="20250717121000 +0800" stop="20250717150000 +0800" channel="666">
     <title>午间剧场:35集电视剧:红日(32-35)</title>
     </programme>
   <programme start="20250717150000 +0800" stop="20250717161000 +0800" channel="666">
-    <title>重播:都市情缘</title>
+    <title>重播：都市情缘</title>
     </programme>
   <programme start="20250717161000 +0800" stop="20250717180500 +0800" channel="666">
     <title>生活剧场:60集电视剧:烽烟桃花烬(48-50)</title>
@@ -44785,7 +44869,7 @@
     <title>情感剧场:60集电视剧:烽烟桃花烬(51-53)</title>
     </programme>
   <programme start="20250717220500 +0800" stop="20250717221000 +0800" channel="666">
-    <title>重播:天气，点点看</title>
+    <title>重播：天气，点点看</title>
     </programme>
   <programme start="20250717221000 +0800" stop="20250717230000 +0800" channel="666">
     <title>幸福剧场:43集电视剧:血色救赎(10)</title>
@@ -44793,7 +44877,7 @@
   <programme start="20250717230000 +0800" stop="20250717235000 +0800" channel="666">
     <title>幸福剧场:43集电视剧:血色救赎(11)</title>
     </programme>
-  <programme start="20250717235000 +0800" stop="20250717004000 +0800" channel="666">
+  <programme start="20250717235000 +0800" stop="20250717235900 +0800" channel="666">
     <title>幸福剧场:43集电视剧:血色救赎(12)</title>
     </programme>
   <channel id="667">
@@ -48900,50 +48984,122 @@
   <channel id="728">
     <display-name>河南公共</display-name>
     </channel>
-  <programme start="20250717000000 +0800" stop="20250717001100 +0800" channel="728">
+  <programme start="20250717000000 +0800" stop="20250717000001 +0800" channel="728">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20250717001100 +0800" stop="20250717062900 +0800" channel="728">
-    <title>百姓·调解</title>
+  <programme start="20250717000001 +0800" stop="20250717010500 +0800" channel="728">
+    <title>幸福密码凌晨版</title>
     </programme>
-  <programme start="20250717062900 +0800" stop="20250717071100 +0800" channel="728">
-    <title>医生说</title>
+  <programme start="20250717010500 +0800" stop="20250717020000 +0800" channel="728">
+    <title>一拍即合凌晨版</title>
     </programme>
-  <programme start="20250717071100 +0800" stop="20250717150000 +0800" channel="728">
-    <title>百姓·调解</title>
+  <programme start="20250717020000 +0800" stop="20250717025500 +0800" channel="728">
+    <title>百姓调解凌晨版</title>
     </programme>
-  <programme start="20250717150000 +0800" stop="20250717150100 +0800" channel="728">
-    <title>导视</title>
+  <programme start="20250717025500 +0800" stop="20250717035500 +0800" channel="728">
+    <title>百姓夜事凌晨版</title>
     </programme>
-  <programme start="20250717150100 +0800" stop="20250717154100 +0800" channel="728">
-    <title>健康家园</title>
+  <programme start="20250717035500 +0800" stop="20250717045000 +0800" channel="728">
+    <title>一拍即合早间版</title>
     </programme>
-  <programme start="20250717154100 +0800" stop="20250717155600 +0800" channel="728">
-    <title>百姓·调解</title>
+  <programme start="20250717045000 +0800" stop="20250717064000 +0800" channel="728">
+    <title>幸福密码凌晨版</title>
     </programme>
-  <programme start="20250717155600 +0800" stop="20250717162600 +0800" channel="728">
-    <title>正说家装</title>
+  <programme start="20250717064000 +0800" stop="20250717070000 +0800" channel="728">
+    <title>健康家园凌晨版</title>
     </programme>
-  <programme start="20250717162600 +0800" stop="20250717182500 +0800" channel="728">
-    <title>百姓·调解</title>
+  <programme start="20250717070000 +0800" stop="20250717080000 +0800" channel="728">
+    <title>百姓调解早间版</title>
     </programme>
-  <programme start="20250717182500 +0800" stop="20250717192500 +0800" channel="728">
-    <title>一拍即合</title>
+  <programme start="20250717080000 +0800" stop="20250717082000 +0800" channel="728">
+    <title>健康家园上午版</title>
     </programme>
-  <programme start="20250717192500 +0800" stop="20250717205000 +0800" channel="728">
-    <title>百姓·调解</title>
+  <programme start="20250717082000 +0800" stop="20250717085000 +0800" channel="728">
+    <title>幸福密码上午版</title>
     </programme>
-  <programme start="20250717205000 +0800" stop="20250717211500 +0800" channel="728">
-    <title>百姓315</title>
+  <programme start="20250717085000 +0800" stop="20250717091000 +0800" channel="728">
+    <title>健康家园上午版</title>
     </programme>
-  <programme start="20250717211500 +0800" stop="20250717214500 +0800" channel="728">
-    <title>百姓观察</title>
+  <programme start="20250717091000 +0800" stop="20250717093000 +0800" channel="728">
+    <title>幸福密码上午版</title>
     </programme>
-  <programme start="20250717214500 +0800" stop="20250717233000 +0800" channel="728">
-    <title>调解夜事</title>
+  <programme start="20250717093000 +0800" stop="20250717095000 +0800" channel="728">
+    <title>健康家园上午版</title>
     </programme>
-  <programme start="20250717233000 +0800" stop="20250717235900 +0800" channel="728">
-    <title>中国扑克牌王擂台赛</title>
+  <programme start="20250717095000 +0800" stop="20250717101000 +0800" channel="728">
+    <title>幸福密码上午版</title>
+    </programme>
+  <programme start="20250717101000 +0800" stop="20250717104000 +0800" channel="728">
+    <title>健康家园上午版</title>
+    </programme>
+  <programme start="20250717104000 +0800" stop="20250717110000 +0800" channel="728">
+    <title>幸福密码上午版</title>
+    </programme>
+  <programme start="20250717110000 +0800" stop="20250717112000 +0800" channel="728">
+    <title>健康家园上午版</title>
+    </programme>
+  <programme start="20250717112000 +0800" stop="20250717115000 +0800" channel="728">
+    <title>幸福密码上午版</title>
+    </programme>
+  <programme start="20250717115000 +0800" stop="20250717120000 +0800" channel="728">
+    <title>健康家园上午版</title>
+    </programme>
+  <programme start="20250717120000 +0800" stop="20250717130000 +0800" channel="728">
+    <title>百姓调解午间版</title>
+    </programme>
+  <programme start="20250717130000 +0800" stop="20250717140000 +0800" channel="728">
+    <title>幸福密码午间版</title>
+    </programme>
+  <programme start="20250717140000 +0800" stop="20250717142000 +0800" channel="728">
+    <title>健康家园下午版</title>
+    </programme>
+  <programme start="20250717142000 +0800" stop="20250717145000 +0800" channel="728">
+    <title>幸福密码下午版</title>
+    </programme>
+  <programme start="20250717145000 +0800" stop="20250717152000 +0800" channel="728">
+    <title>健康家园下午版</title>
+    </programme>
+  <programme start="20250717152000 +0800" stop="20250717162000 +0800" channel="728">
+    <title>幸福密码下午版</title>
+    </programme>
+  <programme start="20250717162000 +0800" stop="20250717165000 +0800" channel="728">
+    <title>健康家园下午版</title>
+    </programme>
+  <programme start="20250717165000 +0800" stop="20250717172000 +0800" channel="728">
+    <title>幸福密码下午版</title>
+    </programme>
+  <programme start="20250717172000 +0800" stop="20250717174000 +0800" channel="728">
+    <title>健康家园下午版</title>
+    </programme>
+  <programme start="20250717174000 +0800" stop="20250717184000 +0800" channel="728">
+    <title>幸福密码下午版</title>
+    </programme>
+  <programme start="20250717184000 +0800" stop="20250717194000 +0800" channel="728">
+    <title>百姓调解首播版</title>
+    </programme>
+  <programme start="20250717194000 +0800" stop="20250717201000 +0800" channel="728">
+    <title>百姓315首播版</title>
+    </programme>
+  <programme start="20250717201000 +0800" stop="20250717211000 +0800" channel="728">
+    <title>一拍即合重播版</title>
+    </programme>
+  <programme start="20250717211000 +0800" stop="20250717214000 +0800" channel="728">
+    <title>百姓问诊首播版</title>
+    </programme>
+  <programme start="20250717214000 +0800" stop="20250717221000 +0800" channel="728">
+    <title>百姓夜事</title>
+    </programme>
+  <programme start="20250717221000 +0800" stop="20250717223000 +0800" channel="728">
+    <title>健康家园晚间版</title>
+    </programme>
+  <programme start="20250717223000 +0800" stop="20250717232000 +0800" channel="728">
+    <title>幸福密码晚间版</title>
+    </programme>
+  <programme start="20250717232000 +0800" stop="20250717234000 +0800" channel="728">
+    <title>健康家园晚间版</title>
+    </programme>
+  <programme start="20250717234000 +0800" stop="20250717235900 +0800" channel="728">
+    <title>幸福密码晚间版</title>
     </programme>
   <channel id="729">
     <display-name>河南新农村</display-name>
@@ -48984,293 +49140,314 @@
   <channel id="730">
     <display-name>河南新闻</display-name>
     </channel>
-  <programme start="20250717000000 +0800" stop="20250717001800 +0800" channel="730">
+  <programme start="20250717000000 +0800" stop="20250717001100 +0800" channel="730">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20250717001800 +0800" stop="20250717004800 +0800" channel="730">
-    <title>新闻365</title>
+  <programme start="20250717001100 +0800" stop="20250717060000 +0800" channel="730">
+    <title>梦里老家 大美中国</title>
     </programme>
-  <programme start="20250717004800 +0800" stop="20250717060000 +0800" channel="730">
-    <title>探秘天下</title>
+  <programme start="20250717060000 +0800" stop="20250717070000 +0800" channel="730">
+    <title>新闻进行时（下午档）重播</title>
     </programme>
-  <programme start="20250717060000 +0800" stop="20250717062800 +0800" channel="730">
-    <title>探秘天下</title>
+  <programme start="20250717070000 +0800" stop="20250717073000 +0800" channel="730">
+    <title>河南午间报道</title>
     </programme>
-  <programme start="20250717062800 +0800" stop="20250717065900 +0800" channel="730">
-    <title>新闻365</title>
-    </programme>
-  <programme start="20250717065900 +0800" stop="20250717080000 +0800" channel="730">
-    <title>新闻60分</title>
-    </programme>
-  <programme start="20250717080000 +0800" stop="20250717083000 +0800" channel="730">
+  <programme start="20250717073000 +0800" stop="20250717080000 +0800" channel="730">
     <title>河南新闻联播</title>
     </programme>
-  <programme start="20250717083000 +0800" stop="20250717100000 +0800" channel="730">
-    <title>探秘天下</title>
+  <programme start="20250717080000 +0800" stop="20250717090000 +0800" channel="730">
+    <title>新闻进行时（下午档）重播</title>
     </programme>
-  <programme start="20250717100000 +0800" stop="20250717110200 +0800" channel="730">
-    <title>豫动起来</title>
+  <programme start="20250717090000 +0800" stop="20250717093000 +0800" channel="730">
+    <title>河南午间报道</title>
     </programme>
-  <programme start="20250717110200 +0800" stop="20250717113000 +0800" channel="730">
-    <title>聚焦</title>
+  <programme start="20250717093000 +0800" stop="20250717113000 +0800" channel="730">
+    <title>新闻进行时（上午档）</title>
     </programme>
-  <programme start="20250717113000 +0800" stop="20250717115900 +0800" channel="730">
-    <title>探秘天下</title>
+  <programme start="20250717113000 +0800" stop="20250717114500 +0800" channel="730">
+    <title>健康中原</title>
     </programme>
-  <programme start="20250717115900 +0800" stop="20250717123000 +0800" channel="730">
-    <title>新闻365</title>
+  <programme start="20250717114500 +0800" stop="20250717121000 +0800" channel="730">
+    <title>美丽河南美好家</title>
     </programme>
-  <programme start="20250717123000 +0800" stop="20250717133000 +0800" channel="730">
-    <title>新闻60分</title>
+  <programme start="20250717121000 +0800" stop="20250717123000 +0800" channel="730">
+    <title>河南午间报道</title>
     </programme>
-  <programme start="20250717133000 +0800" stop="20250717134600 +0800" channel="730">
-    <title>传承</title>
+  <programme start="20250717123000 +0800" stop="20250717124500 +0800" channel="730">
+    <title>科技瞭望塔</title>
     </programme>
-  <programme start="20250717134600 +0800" stop="20250717141000 +0800" channel="730">
-    <title>探秘天下</title>
+  <programme start="20250717124500 +0800" stop="20250717140000 +0800" channel="730">
+    <title>新闻进行时（下午档）重播</title>
     </programme>
-  <programme start="20250717141000 +0800" stop="20250717151000 +0800" channel="730">
-    <title>探秘天下</title>
-    </programme>
-  <programme start="20250717151000 +0800" stop="20250717161200 +0800" channel="730">
-    <title>天天养生</title>
-    </programme>
-  <programme start="20250717161200 +0800" stop="20250717171500 +0800" channel="730">
-    <title>精彩回顾</title>
-    </programme>
-  <programme start="20250717171500 +0800" stop="20250717173700 +0800" channel="730">
-    <title>探秘天下</title>
-    </programme>
-  <programme start="20250717173700 +0800" stop="20250717175300 +0800" channel="730">
-    <title>传承</title>
-    </programme>
-  <programme start="20250717175300 +0800" stop="20250717185500 +0800" channel="730">
-    <title>天天养生</title>
-    </programme>
-  <programme start="20250717185500 +0800" stop="20250717192500 +0800" channel="730">
-    <title>聚焦</title>
-    </programme>
-  <programme start="20250717192500 +0800" stop="20250717200000 +0800" channel="730">
-    <title>新闻365</title>
-    </programme>
-  <programme start="20250717200000 +0800" stop="20250717203000 +0800" channel="730">
-    <title>探秘天下</title>
-    </programme>
-  <programme start="20250717203000 +0800" stop="20250717210000 +0800" channel="730">
+  <programme start="20250717140000 +0800" stop="20250717143000 +0800" channel="730">
     <title>河南新闻联播</title>
     </programme>
-  <programme start="20250717210000 +0800" stop="20250717220100 +0800" channel="730">
-    <title>新闻60分</title>
+  <programme start="20250717143000 +0800" stop="20250717161000 +0800" channel="730">
+    <title>新闻进行时（下午档）</title>
     </programme>
-  <programme start="20250717220100 +0800" stop="20250717223200 +0800" channel="730">
-    <title>新闻365</title>
+  <programme start="20250717161000 +0800" stop="20250717163000 +0800" channel="730">
+    <title>河南午间报道</title>
     </programme>
-  <programme start="20250717223200 +0800" stop="20250717232200 +0800" channel="730">
-    <title>精彩英超</title>
+  <programme start="20250717163000 +0800" stop="20250717173000 +0800" channel="730">
+    <title>新闻进行时（上午档）重播</title>
     </programme>
-  <programme start="20250717232200 +0800" stop="20250717235900 +0800" channel="730">
-    <title>探秘天下</title>
+  <programme start="20250717173000 +0800" stop="20250717183700 +0800" channel="730">
+    <title>嗨聊</title>
+    </programme>
+  <programme start="20250717183700 +0800" stop="20250717185200 +0800" channel="730">
+    <title>健康中原</title>
+    </programme>
+  <programme start="20250717185200 +0800" stop="20250717190700 +0800" channel="730">
+    <title>美丽河南美好家</title>
+    </programme>
+  <programme start="20250717190700 +0800" stop="20250717193000 +0800" channel="730">
+    <title>河南午间报道</title>
+    </programme>
+  <programme start="20250717193000 +0800" stop="20250717200000 +0800" channel="730">
+    <title>大象会客厅</title>
+    </programme>
+  <programme start="20250717200000 +0800" stop="20250717210000 +0800" channel="730">
+    <title>嗨聊</title>
+    </programme>
+  <programme start="20250717210000 +0800" stop="20250717213000 +0800" channel="730">
+    <title>河南体育报道</title>
+    </programme>
+  <programme start="20250717213000 +0800" stop="20250717223000 +0800" channel="730">
+    <title>新闻进行时（上午档）重播</title>
+    </programme>
+  <programme start="20250717223000 +0800" stop="20250717224100 +0800" channel="730">
+    <title>河南晚间报道</title>
+    </programme>
+  <programme start="20250717224100 +0800" stop="20250717231100 +0800" channel="730">
+    <title>河南新闻联播</title>
+    </programme>
+  <programme start="20250717231100 +0800" stop="20250717235900 +0800" channel="730">
+    <title>新闻进行时（下午档）重播</title>
+    </programme>
+  <channel id="731">
+    <display-name>河南梨园</display-name>
+    </channel>
+  <programme start="20250717000000 +0800" stop="20250717000001 +0800" channel="731">
+    <title>由https://epg.136605.xyz提供节目单服务</title>
+    </programme>
+  <programme start="20250717000001 +0800" stop="20250717021500 +0800" channel="731">
+    <title>南腔北调</title>
+    </programme>
+  <programme start="20250717021500 +0800" stop="20250717031000 +0800" channel="731">
+    <title>梨园荟萃</title>
+    </programme>
+  <programme start="20250717031000 +0800" stop="20250717053000 +0800" channel="731">
+    <title>看大戏</title>
+    </programme>
+  <programme start="20250717053000 +0800" stop="20250717062000 +0800" channel="731">
+    <title>梨园荟萃</title>
+    </programme>
+  <programme start="20250717062000 +0800" stop="20250717083400 +0800" channel="731">
+    <title>戏说经典</title>
+    </programme>
+  <programme start="20250717083400 +0800" stop="20250717104800 +0800" channel="731">
+    <title>看大戏</title>
+    </programme>
+  <programme start="20250717104800 +0800" stop="20250717130300 +0800" channel="731">
+    <title>南腔北调</title>
+    </programme>
+  <programme start="20250717130300 +0800" stop="20250717135300 +0800" channel="731">
+    <title>梨园荟萃</title>
+    </programme>
+  <programme start="20250717135300 +0800" stop="20250717141300 +0800" channel="731">
+    <title>唱段欣赏</title>
+    </programme>
+  <programme start="20250717141300 +0800" stop="20250717162700 +0800" channel="731">
+    <title>戏说经典</title>
+    </programme>
+  <programme start="20250717162700 +0800" stop="20250717184200 +0800" channel="731">
+    <title>南腔北调</title>
+    </programme>
+  <programme start="20250717184200 +0800" stop="20250717205600 +0800" channel="731">
+    <title>看大戏</title>
+    </programme>
+  <programme start="20250717205600 +0800" stop="20250717231000 +0800" channel="731">
+    <title>戏说经典</title>
+    </programme>
+  <programme start="20250717231000 +0800" stop="20250717235900 +0800" channel="731">
+    <title>梨园荟萃</title>
     </programme>
   <channel id="732">
     <display-name>河南民生</display-name>
     </channel>
-  <programme start="20250717000000 +0800" stop="20250717001500 +0800" channel="732">
+  <programme start="20250717000000 +0800" stop="20250717001600 +0800" channel="732">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20250717001500 +0800" stop="20250717061200 +0800" channel="732">
-    <title>剧场</title>
+  <programme start="20250717001600 +0800" stop="20250717064000 +0800" channel="732">
+    <title>睡不着剧场：利箭纵横</title>
     </programme>
-  <programme start="20250717061200 +0800" stop="20250717073000 +0800" channel="732">
-    <title>小莉帮忙大参考</title>
+  <programme start="20250717064000 +0800" stop="20250717074000 +0800" channel="732">
+    <title>小莉帮忙大参考（重播）</title>
     </programme>
-  <programme start="20250717073000 +0800" stop="20250717080000 +0800" channel="732">
+  <programme start="20250717074000 +0800" stop="20250717081500 +0800" channel="732">
+    <title>上午剧场：搭错车</title>
+    </programme>
+  <programme start="20250717081500 +0800" stop="20250717084500 +0800" channel="732">
     <title>乐淘天下</title>
     </programme>
-  <programme start="20250717080000 +0800" stop="20250717092000 +0800" channel="732">
-    <title>上午剧场</title>
+  <programme start="20250717084500 +0800" stop="20250717092000 +0800" channel="732">
+    <title>上午剧场：搭错车</title>
     </programme>
-  <programme start="20250717092000 +0800" stop="20250717094000 +0800" channel="732">
-    <title>乐淘天下</title>
+  <programme start="20250717092000 +0800" stop="20250717102500 +0800" channel="732">
+    <title>上午剧场：搭错车</title>
     </programme>
-  <programme start="20250717094000 +0800" stop="20250717101500 +0800" channel="732">
-    <title>上午剧场</title>
-    </programme>
-  <programme start="20250717101500 +0800" stop="20250717104500 +0800" channel="732">
+  <programme start="20250717102500 +0800" stop="20250717104500 +0800" channel="732">
     <title>乐淘天下</title>
     </programme>
   <programme start="20250717104500 +0800" stop="20250717131000 +0800" channel="732">
-    <title>大象直播间</title>
+    <title>大象直播间（午间）</title>
     </programme>
-  <programme start="20250717131000 +0800" stop="20250717133000 +0800" channel="732">
+  <programme start="20250717131000 +0800" stop="20250717134000 +0800" channel="732">
     <title>乐淘天下</title>
     </programme>
-  <programme start="20250717133000 +0800" stop="20250717140000 +0800" channel="732">
-    <title>下午剧场</title>
+  <programme start="20250717134000 +0800" stop="20250717142000 +0800" channel="732">
+    <title>下午剧场：左手劈刀</title>
     </programme>
-  <programme start="20250717140000 +0800" stop="20250717144000 +0800" channel="732">
-    <title>下午剧场</title>
-    </programme>
-  <programme start="20250717144000 +0800" stop="20250717145000 +0800" channel="732">
+  <programme start="20250717142000 +0800" stop="20250717145000 +0800" channel="732">
     <title>乐淘天下</title>
     </programme>
   <programme start="20250717145000 +0800" stop="20250717153000 +0800" channel="732">
-    <title>下午剧场</title>
+    <title>下午剧场：左手劈刀</title>
     </programme>
   <programme start="20250717153000 +0800" stop="20250717155000 +0800" channel="732">
     <title>乐淘天下</title>
     </programme>
-  <programme start="20250717155000 +0800" stop="20250717164000 +0800" channel="732">
-    <title>下午剧场</title>
+  <programme start="20250717155000 +0800" stop="20250717165400 +0800" channel="732">
+    <title>下午剧场：左手劈刀</title>
     </programme>
-  <programme start="20250717164000 +0800" stop="20250717170000 +0800" channel="732">
+  <programme start="20250717165400 +0800" stop="20250717165500 +0800" channel="732">
+    <title>节目预告</title>
+    </programme>
+  <programme start="20250717165500 +0800" stop="20250717172500 +0800" channel="732">
     <title>乐淘天下</title>
     </programme>
-  <programme start="20250717170000 +0800" stop="20250717174000 +0800" channel="732">
-    <title>下午剧场</title>
+  <programme start="20250717172500 +0800" stop="20250717180500 +0800" channel="732">
+    <title>大象直播间（下午）</title>
     </programme>
-  <programme start="20250717174000 +0800" stop="20250717182000 +0800" channel="732">
-    <title>香香美食精华版</title>
-    </programme>
-  <programme start="20250717182000 +0800" stop="20250717201000 +0800" channel="732">
+  <programme start="20250717180500 +0800" stop="20250717193500 +0800" channel="732">
     <title>小莉帮忙大参考</title>
     </programme>
-  <programme start="20250717201000 +0800" stop="20250717211000 +0800" channel="732">
+  <programme start="20250717193500 +0800" stop="20250717200500 +0800" channel="732">
+    <title>民生精华版</title>
+    </programme>
+  <programme start="20250717200500 +0800" stop="20250717205500 +0800" channel="732">
     <title>香香美食</title>
     </programme>
-  <programme start="20250717211000 +0800" stop="20250717233000 +0800" channel="732">
+  <programme start="20250717205500 +0800" stop="20250717210300 +0800" channel="732">
+    <title>乐淘天下</title>
+    </programme>
+  <programme start="20250717210300 +0800" stop="20250717215100 +0800" channel="732">
+    <title>棋牌汇</title>
+    </programme>
+  <programme start="20250717215100 +0800" stop="20250717225100 +0800" channel="732">
     <title>双升英雄会</title>
     </programme>
-  <programme start="20250717233000 +0800" stop="20250717235900 +0800" channel="732">
-    <title>剧场</title>
+  <programme start="20250717225100 +0800" stop="20250717234100 +0800" channel="732">
+    <title>棋牌汇扩大版</title>
+    </programme>
+  <programme start="20250717234100 +0800" stop="20250717235900 +0800" channel="732">
+    <title>睡不着剧场：利箭纵横</title>
     </programme>
   <channel id="733">
     <display-name>河南法治</display-name>
     </channel>
-  <programme start="20250717000000 +0800" stop="20250717053000 +0800" channel="733">
+  <programme start="20250717000000 +0800" stop="20250717000500 +0800" channel="733">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20250717053000 +0800" stop="20250717060000 +0800" channel="733">
-    <title>安全+</title>
+  <programme start="20250717000500 +0800" stop="20250717052500 +0800" channel="733">
+    <title>好剧连连看  你是我的生命</title>
     </programme>
-  <programme start="20250717060000 +0800" stop="20250717062000 +0800" channel="733">
-    <title>晓辉在路上</title>
+  <programme start="20250717052500 +0800" stop="20250717060500 +0800" channel="733">
+    <title>拜托啦律师集锦版</title>
     </programme>
-  <programme start="20250717062000 +0800" stop="20250717064000 +0800" channel="733">
-    <title>生活帮</title>
+  <programme start="20250717060500 +0800" stop="20250717062500 +0800" channel="733">
+    <title>晓辉在路上集锦版</title>
+    </programme>
+  <programme start="20250717062500 +0800" stop="20250717064000 +0800" channel="733">
+    <title>河南法治报道</title>
     </programme>
   <programme start="20250717064000 +0800" stop="20250717071000 +0800" channel="733">
-    <title>法治现场</title>
+    <title>拜托啦律师精编版重播</title>
     </programme>
   <programme start="20250717071000 +0800" stop="20250717073000 +0800" channel="733">
-    <title>生活帮</title>
+    <title>晓辉在路上精编版重播</title>
     </programme>
-  <programme start="20250717073000 +0800" stop="20250717104000 +0800" channel="733">
-    <title>剧场</title>
+  <programme start="20250717073000 +0800" stop="20250717115000 +0800" channel="733">
+    <title>经典剧场  对手</title>
     </programme>
-  <programme start="20250717104000 +0800" stop="20250717114000 +0800" channel="733">
-    <title>生活帮</title>
+  <programme start="20250717115000 +0800" stop="20250717121000 +0800" channel="733">
+    <title>平安河南</title>
     </programme>
-  <programme start="20250717114000 +0800" stop="20250717122000 +0800" channel="733">
-    <title>法治现场</title>
+  <programme start="20250717121000 +0800" stop="20250717123000 +0800" channel="733">
+    <title>晓辉在路上精编版</title>
     </programme>
-  <programme start="20250717122000 +0800" stop="20250717124000 +0800" channel="733">
-    <title>生活帮</title>
+  <programme start="20250717123000 +0800" stop="20250717130000 +0800" channel="733">
+    <title>拜托啦律师精编版</title>
     </programme>
-  <programme start="20250717124000 +0800" stop="20250717162000 +0800" channel="733">
-    <title>程云说事</title>
+  <programme start="20250717130000 +0800" stop="20250717131500 +0800" channel="733">
+    <title>河南法治报道</title>
     </programme>
-  <programme start="20250717162000 +0800" stop="20250717172000 +0800" channel="733">
-    <title>生活帮</title>
+  <programme start="20250717131500 +0800" stop="20250717181000 +0800" channel="733">
+    <title>经典剧场  国门英雄</title>
     </programme>
-  <programme start="20250717172000 +0800" stop="20250717180000 +0800" channel="733">
-    <title>晓华探案</title>
+  <programme start="20250717181000 +0800" stop="20250717184000 +0800" channel="733">
+    <title>拜托啦律师精编版2</title>
     </programme>
-  <programme start="20250717180000 +0800" stop="20250717182000 +0800" channel="733">
-    <title>生活帮</title>
+  <programme start="20250717184000 +0800" stop="20250717190000 +0800" channel="733">
+    <title>晓辉在路上精编版2</title>
     </programme>
-  <programme start="20250717182000 +0800" stop="20250717185000 +0800" channel="733">
-    <title>安全+</title>
-    </programme>
-  <programme start="20250717185000 +0800" stop="20250717192000 +0800" channel="733">
+  <programme start="20250717190000 +0800" stop="20250717192000 +0800" channel="733">
     <title>晓辉在路上</title>
     </programme>
   <programme start="20250717192000 +0800" stop="20250717200000 +0800" channel="733">
-    <title>法治现场</title>
+    <title>拜托啦律师</title>
     </programme>
-  <programme start="20250717200000 +0800" stop="20250717221500 +0800" channel="733">
-    <title>剧场</title>
+  <programme start="20250717200000 +0800" stop="20250717225000 +0800" channel="733">
+    <title>黄金剧场  光荣时代</title>
     </programme>
-  <programme start="20250717221500 +0800" stop="20250717224500 +0800" channel="733">
-    <title>安全+</title>
+  <programme start="20250717225000 +0800" stop="20250717230500 +0800" channel="733">
+    <title>河南法治报道晚间版</title>
     </programme>
-  <programme start="20250717224500 +0800" stop="20250717234500 +0800" channel="733">
-    <title>生活帮</title>
+  <programme start="20250717230500 +0800" stop="20250717232500 +0800" channel="733">
+    <title>晓辉在路上集锦版</title>
     </programme>
-  <programme start="20250717234500 +0800" stop="20250717235900 +0800" channel="733">
-    <title>程云说事</title>
+  <programme start="20250717232500 +0800" stop="20250717235900 +0800" channel="733">
+    <title>拜托啦律师集锦版</title>
     </programme>
   <channel id="734">
     <display-name>河南电视剧</display-name>
     </channel>
-  <programme start="20250717000000 +0800" stop="20250717000001 +0800" channel="734">
+  <programme start="20250717000000 +0800" stop="20250717002000 +0800" channel="734">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20250717000001 +0800" stop="20250717020000 +0800" channel="734">
-    <title>惊险剧场</title>
+  <programme start="20250717002000 +0800" stop="20250717060000 +0800" channel="734">
+    <title>惊险剧场：川军团血战到底</title>
     </programme>
-  <programme start="20250717020000 +0800" stop="20250717041800 +0800" channel="734">
-    <title>惊险剧场</title>
+  <programme start="20250717060000 +0800" stop="20250717113500 +0800" channel="734">
+    <title>时光剧场：大客栈</title>
     </programme>
-  <programme start="20250717041800 +0800" stop="20250717061600 +0800" channel="734">
-    <title>惊险剧场</title>
+  <programme start="20250717113500 +0800" stop="20250717132000 +0800" channel="734">
+    <title>等着我</title>
     </programme>
-  <programme start="20250717061600 +0800" stop="20250717142700 +0800" channel="734">
-    <title>时光剧场</title>
+  <programme start="20250717132000 +0800" stop="20250717163000 +0800" channel="734">
+    <title>浓情剧场：大客栈</title>
     </programme>
-  <programme start="20250717142700 +0800" stop="20250717150200 +0800" channel="734">
-    <title>下午剧场</title>
+  <programme start="20250717163000 +0800" stop="20250717170000 +0800" channel="734">
+    <title>都市大医生</title>
     </programme>
-  <programme start="20250717150200 +0800" stop="20250717154200 +0800" channel="734">
-    <title>下午剧场</title>
+  <programme start="20250717170000 +0800" stop="20250717183000 +0800" channel="734">
+    <title>等着我</title>
     </programme>
-  <programme start="20250717154200 +0800" stop="20250717161600 +0800" channel="734">
-    <title>下午剧场</title>
+  <programme start="20250717183000 +0800" stop="20250717224000 +0800" channel="734">
+    <title>真好剧场：我的抗战</title>
     </programme>
-  <programme start="20250717161600 +0800" stop="20250717165000 +0800" channel="734">
-    <title>下午剧场</title>
-    </programme>
-  <programme start="20250717165000 +0800" stop="20250717172000 +0800" channel="734">
-    <title>专题栏目</title>
-    </programme>
-  <programme start="20250717172000 +0800" stop="20250717175100 +0800" channel="734">
-    <title>下午剧场</title>
-    </programme>
-  <programme start="20250717175100 +0800" stop="20250717182200 +0800" channel="734">
-    <title>下午剧场</title>
-    </programme>
-  <programme start="20250717182200 +0800" stop="20250717185800 +0800" channel="734">
-    <title>下午剧场</title>
-    </programme>
-  <programme start="20250717185800 +0800" stop="20250717194000 +0800" channel="734">
-    <title>黄金剧场</title>
-    </programme>
-  <programme start="20250717194000 +0800" stop="20250717202500 +0800" channel="734">
-    <title>黄金剧场</title>
-    </programme>
-  <programme start="20250717202500 +0800" stop="20250717210500 +0800" channel="734">
-    <title>黄金剧场</title>
-    </programme>
-  <programme start="20250717210500 +0800" stop="20250717214500 +0800" channel="734">
-    <title>黄金剧场</title>
-    </programme>
-  <programme start="20250717214500 +0800" stop="20250717222500 +0800" channel="734">
-    <title>黄金剧场</title>
-    </programme>
-  <programme start="20250717222500 +0800" stop="20250717231500 +0800" channel="734">
-    <title>午夜剧场</title>
-    </programme>
-  <programme start="20250717231500 +0800" stop="20250717235900 +0800" channel="734">
-    <title>午夜剧场</title>
+  <programme start="20250717224000 +0800" stop="20250717235900 +0800" channel="734">
+    <title>大剧榜：战士</title>
     </programme>
   <channel id="735">
     <display-name>河南都市</display-name>
@@ -49278,44 +49455,20 @@
   <programme start="20250717000000 +0800" stop="20250717000001 +0800" channel="735">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20250717000001 +0800" stop="20250717011000 +0800" channel="735">
-    <title>利箭纵横41</title>
-    </programme>
-  <programme start="20250717011000 +0800" stop="20250717020000 +0800" channel="735">
-    <title>利箭纵横42</title>
-    </programme>
-  <programme start="20250717020000 +0800" stop="20250717030000 +0800" channel="735">
-    <title>利箭纵横43</title>
+  <programme start="20250717000001 +0800" stop="20250717030000 +0800" channel="735">
+    <title>精彩剧场：利箭纵横</title>
     </programme>
   <programme start="20250717030000 +0800" stop="20250717034200 +0800" channel="735">
     <title>河南新闻联播</title>
     </programme>
-  <programme start="20250717034200 +0800" stop="20250717042500 +0800" channel="735">
-    <title>滹沱儿女1</title>
+  <programme start="20250717034200 +0800" stop="20250717070000 +0800" channel="735">
+    <title>精彩剧场：滹沱儿女</title>
     </programme>
-  <programme start="20250717042500 +0800" stop="20250717052000 +0800" channel="735">
-    <title>滹沱儿女2</title>
+  <programme start="20250717070000 +0800" stop="20250717120000 +0800" channel="735">
+    <title>精品剧场：满堂爹娘</title>
     </programme>
-  <programme start="20250717052000 +0800" stop="20250717070000 +0800" channel="735">
-    <title>滹沱儿女3</title>
-    </programme>
-  <programme start="20250717070000 +0800" stop="20250717083000 +0800" channel="735">
-    <title>满堂爹娘4</title>
-    </programme>
-  <programme start="20250717083000 +0800" stop="20250717095000 +0800" channel="735">
-    <title>满堂爹娘5</title>
-    </programme>
-  <programme start="20250717095000 +0800" stop="20250717110000 +0800" channel="735">
-    <title>满堂爹娘6</title>
-    </programme>
-  <programme start="20250717110000 +0800" stop="20250717120000 +0800" channel="735">
-    <title>满堂爹娘7</title>
-    </programme>
-  <programme start="20250717120000 +0800" stop="20250717125000 +0800" channel="735">
-    <title>绝地枪王13</title>
-    </programme>
-  <programme start="20250717125000 +0800" stop="20250717135000 +0800" channel="735">
-    <title>绝地枪王14</title>
+  <programme start="20250717120000 +0800" stop="20250717135000 +0800" channel="735">
+    <title>午间剧场：绝地枪王</title>
     </programme>
   <programme start="20250717135000 +0800" stop="20250717142000 +0800" channel="735">
     <title>都市报道</title>
@@ -49326,14 +49479,8 @@
   <programme start="20250717145000 +0800" stop="20250717150000 +0800" channel="735">
     <title>文旅健康</title>
     </programme>
-  <programme start="20250717150000 +0800" stop="20250717154000 +0800" channel="735">
-    <title>智者无敌10</title>
-    </programme>
-  <programme start="20250717154000 +0800" stop="20250717162000 +0800" channel="735">
-    <title>智者无敌11</title>
-    </programme>
-  <programme start="20250717162000 +0800" stop="20250717174000 +0800" channel="735">
-    <title>智者无敌12</title>
+  <programme start="20250717150000 +0800" stop="20250717174000 +0800" channel="735">
+    <title>精选剧场：智者无敌</title>
     </programme>
   <programme start="20250717174000 +0800" stop="20250717181000 +0800" channel="735">
     <title>都市大医生</title>
@@ -49341,23 +49488,14 @@
   <programme start="20250717181000 +0800" stop="20250717193000 +0800" channel="735">
     <title>都市报道</title>
     </programme>
-  <programme start="20250717193000 +0800" stop="20250717203000 +0800" channel="735">
-    <title>桃花劫12</title>
-    </programme>
-  <programme start="20250717203000 +0800" stop="20250717213000 +0800" channel="735">
-    <title>桃花劫13</title>
-    </programme>
-  <programme start="20250717213000 +0800" stop="20250717222700 +0800" channel="735">
-    <title>桃花劫14</title>
+  <programme start="20250717193000 +0800" stop="20250717222700 +0800" channel="735">
+    <title>都市剧场：桃花劫</title>
     </programme>
   <programme start="20250717222700 +0800" stop="20250717223000 +0800" channel="735">
     <title>天天福彩</title>
     </programme>
-  <programme start="20250717223000 +0800" stop="20250717231000 +0800" channel="735">
-    <title>多大点事儿21</title>
-    </programme>
-  <programme start="20250717231000 +0800" stop="20250717235900 +0800" channel="735">
-    <title>多大点事儿22</title>
+  <programme start="20250717223000 +0800" stop="20250717235900 +0800" channel="735">
+    <title>午夜剧场：多大点事儿</title>
     </programme>
   <channel id="736">
     <display-name>河源公共</display-name>
