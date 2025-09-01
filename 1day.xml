@@ -25338,80 +25338,38 @@
   <programme start="20250901000000 +0800" stop="20250901000001 +0800" channel="404">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20250901000001 +0800" stop="20250901000100 +0800" channel="404">
+  <programme start="20250901000001 +0800" stop="20250901114900 +0800" channel="404">
     <title>精彩呈现</title>
     </programme>
-  <programme start="20250901000100 +0800" stop="20250901014700 +0800" channel="404">
-    <title>电影</title>
+  <programme start="20250901114900 +0800" stop="20250901123100 +0800" channel="404">
+    <title>红鲨突击(11)</title>
     </programme>
-  <programme start="20250901014700 +0800" stop="20250901023000 +0800" channel="404">
-    <title>剧场</title>
+  <programme start="20250901123100 +0800" stop="20250901141000 +0800" channel="404">
+    <title>河东狮吼Ⅱ</title>
     </programme>
-  <programme start="20250901023000 +0800" stop="20250901031300 +0800" channel="404">
-    <title>剧场</title>
+  <programme start="20250901141000 +0800" stop="20250901160300 +0800" channel="404">
+    <title>灿烂的她</title>
     </programme>
-  <programme start="20250901031300 +0800" stop="20250901035600 +0800" channel="404">
-    <title>剧场</title>
+  <programme start="20250901160300 +0800" stop="20250901181700 +0800" channel="404">
+    <title>红海行动</title>
     </programme>
-  <programme start="20250901035600 +0800" stop="20250901043900 +0800" channel="404">
-    <title>剧场</title>
+  <programme start="20250901181700 +0800" stop="20250901202000 +0800" channel="404">
+    <title>我是路人甲</title>
     </programme>
-  <programme start="20250901043900 +0800" stop="20250901052300 +0800" channel="404">
-    <title>剧场</title>
+  <programme start="20250901202000 +0800" stop="20250901210400 +0800" channel="404">
+    <title>危机迷雾(8)</title>
     </programme>
-  <programme start="20250901052300 +0800" stop="20250901060500 +0800" channel="404">
-    <title>剧场</title>
+  <programme start="20250901210400 +0800" stop="20250901214800 +0800" channel="404">
+    <title>危机迷雾(9)</title>
     </programme>
-  <programme start="20250901060500 +0800" stop="20250901064700 +0800" channel="404">
-    <title>剧场</title>
+  <programme start="20250901214800 +0800" stop="20250901223200 +0800" channel="404">
+    <title>危机迷雾(10)</title>
     </programme>
-  <programme start="20250901064700 +0800" stop="20250901072900 +0800" channel="404">
-    <title>剧场</title>
+  <programme start="20250901223200 +0800" stop="20250901231600 +0800" channel="404">
+    <title>危机迷雾(11)</title>
     </programme>
-  <programme start="20250901072900 +0800" stop="20250901081100 +0800" channel="404">
-    <title>剧场</title>
-    </programme>
-  <programme start="20250901081100 +0800" stop="20250901094400 +0800" channel="404">
-    <title>电影</title>
-    </programme>
-  <programme start="20250901094400 +0800" stop="20250901102700 +0800" channel="404">
-    <title>剧场</title>
-    </programme>
-  <programme start="20250901102700 +0800" stop="20250901111000 +0800" channel="404">
-    <title>剧场</title>
-    </programme>
-  <programme start="20250901111000 +0800" stop="20250901115300 +0800" channel="404">
-    <title>剧场</title>
-    </programme>
-  <programme start="20250901115300 +0800" stop="20250901123600 +0800" channel="404">
-    <title>剧场</title>
-    </programme>
-  <programme start="20250901123600 +0800" stop="20250901142200 +0800" channel="404">
-    <title>电影</title>
-    </programme>
-  <programme start="20250901142200 +0800" stop="20250901160300 +0800" channel="404">
-    <title>电影</title>
-    </programme>
-  <programme start="20250901160300 +0800" stop="20250901175000 +0800" channel="404">
-    <title>电影</title>
-    </programme>
-  <programme start="20250901175000 +0800" stop="20250901192400 +0800" channel="404">
-    <title>电影</title>
-    </programme>
-  <programme start="20250901192400 +0800" stop="20250901200600 +0800" channel="404">
-    <title>剧场</title>
-    </programme>
-  <programme start="20250901200600 +0800" stop="20250901204800 +0800" channel="404">
-    <title>剧场</title>
-    </programme>
-  <programme start="20250901204800 +0800" stop="20250901213000 +0800" channel="404">
-    <title>剧场</title>
-    </programme>
-  <programme start="20250901213000 +0800" stop="20250901221200 +0800" channel="404">
-    <title>剧场</title>
-    </programme>
-  <programme start="20250901221200 +0800" stop="20250901235959 +0800" channel="404">
-    <title>电影</title>
+  <programme start="20250901231600 +0800" stop="20250901235959 +0800" channel="404">
+    <title>危机迷雾(12)</title>
     </programme>
   <channel id="405">
     <display-name>求索纪录</display-name>
@@ -34703,6 +34661,81 @@
     </programme>
   <programme start="20250901234500 +0800" stop="20250901235900 +0800" channel="531">
     <title>民生剧好看</title>
+    </programme>
+  <channel id="532">
+    <display-name>云南影视</display-name>
+    </channel>
+  <programme start="20250901000000 +0800" stop="20250901001800 +0800" channel="532">
+    <title>由https://epg.136605.xyz提供节目单服务</title>
+    </programme>
+  <programme start="20250901001800 +0800" stop="20250901002700 +0800" channel="532">
+    <title>影视气象站</title>
+    </programme>
+  <programme start="20250901002700 +0800" stop="20250901013000 +0800" channel="532">
+    <title>电影故事会</title>
+    </programme>
+  <programme start="20250901013000 +0800" stop="20250901031000 +0800" channel="532">
+    <title>好剧跟我看</title>
+    </programme>
+  <programme start="20250901031000 +0800" stop="20250901032500 +0800" channel="532">
+    <title>跟我看电影</title>
+    </programme>
+  <programme start="20250901032500 +0800" stop="20250901064800 +0800" channel="532">
+    <title>晚间节目结束</title>
+    </programme>
+  <programme start="20250901064800 +0800" stop="20250901070600 +0800" channel="532">
+    <title>跟我看电影</title>
+    </programme>
+  <programme start="20250901070600 +0800" stop="20250901085600 +0800" channel="532">
+    <title>好剧跟我看</title>
+    </programme>
+  <programme start="20250901085600 +0800" stop="20250901102200 +0800" channel="532">
+    <title>电影故事会</title>
+    </programme>
+  <programme start="20250901102200 +0800" stop="20250901111400 +0800" channel="532">
+    <title>天下电影</title>
+    </programme>
+  <programme start="20250901111400 +0800" stop="20250901113100 +0800" channel="532">
+    <title>购物时段</title>
+    </programme>
+  <programme start="20250901113100 +0800" stop="20250901125500 +0800" channel="532">
+    <title>天下电影</title>
+    </programme>
+  <programme start="20250901125500 +0800" stop="20250901131800 +0800" channel="532">
+    <title>跟我看电影</title>
+    </programme>
+  <programme start="20250901131800 +0800" stop="20250901151700 +0800" channel="532">
+    <title>五星电影</title>
+    </programme>
+  <programme start="20250901151700 +0800" stop="20250901153800 +0800" channel="532">
+    <title>购物时段</title>
+    </programme>
+  <programme start="20250901153800 +0800" stop="20250901164500 +0800" channel="532">
+    <title>电影故事会</title>
+    </programme>
+  <programme start="20250901164500 +0800" stop="20250901165500 +0800" channel="532">
+    <title>晚间节目开播</title>
+    </programme>
+  <programme start="20250901165500 +0800" stop="20250901184600 +0800" channel="532">
+    <title>五星电影</title>
+    </programme>
+  <programme start="20250901184600 +0800" stop="20250901190900 +0800" channel="532">
+    <title>跟我看电影</title>
+    </programme>
+  <programme start="20250901190900 +0800" stop="20250901205600 +0800" channel="532">
+    <title>好剧跟我看</title>
+    </programme>
+  <programme start="20250901205600 +0800" stop="20250901211200 +0800" channel="532">
+    <title>调剂节目</title>
+    </programme>
+  <programme start="20250901211200 +0800" stop="20250901220700 +0800" channel="532">
+    <title>电影故事会</title>
+    </programme>
+  <programme start="20250901220700 +0800" stop="20250901221800 +0800" channel="532">
+    <title>车影视界</title>
+    </programme>
+  <programme start="20250901221800 +0800" stop="20250901235900 +0800" channel="532">
+    <title>天下电影</title>
     </programme>
   <channel id="533">
     <display-name>云南都市</display-name>
