@@ -31426,7 +31426,7 @@
     <title>重播 荣耀时刻:第十五届全国运动会精选</title>
     </programme>
   <programme start="20251118085000 +0800" stop="20251118220000 +0800" channel="643">
-    <title>直播 湾区竞技场:中华人民共和国第十五届运动会第9比赛日(09:00射箭 反曲弓混合团体1/4决赛、14:00羽毛球单项半决赛、19:00 田径多项等)(含全运捷报)</title>
+    <title>直播 湾区竞技场:中华人民共和国第十五届运动会第9比赛日(09:00射箭 反曲弓混合团体1/4决赛、14:00羽毛球单项半决赛、19:00 田径多项、约20:00 篮球 男子18岁以下组决赛等)(含全运捷报)br /</title>
     </programme>
   <programme start="20251118220000 +0800" stop="20251118224000 +0800" channel="643">
     <title>直播 体育世界之全运进行时</title>
@@ -33264,10 +33264,10 @@
   <programme start="20251118070000 +0800" stop="20251118115000 +0800" channel="666">
     <title>阳光剧场:45集电视剧:忍冬艳蔷薇(11-16)</title>
     </programme>
-  <programme start="20251118115000 +0800" stop="20251118121000 +0800" channel="666">
+  <programme start="20251118115000 +0800" stop="20251118122000 +0800" channel="666">
     <title>重播：遇见好书</title>
     </programme>
-  <programme start="20251118121000 +0800" stop="20251118150000 +0800" channel="666">
+  <programme start="20251118122000 +0800" stop="20251118150000 +0800" channel="666">
     <title>午间剧场:40集电视剧:金陵往事(29-32)</title>
     </programme>
   <programme start="20251118150000 +0800" stop="20251118161000 +0800" channel="666">
@@ -42588,8 +42588,14 @@
   <programme start="20251118073000 +0800" stop="20251118075000 +0800" channel="753">
     <title>奇妙的中医</title>
     </programme>
-  <programme start="20251118075000 +0800" stop="20251118084500 +0800" channel="753">
+  <programme start="20251118075000 +0800" stop="20251118081500 +0800" channel="753">
     <title>自贸港法治报道</title>
+    </programme>
+  <programme start="20251118081500 +0800" stop="20251118082500 +0800" channel="753">
+    <title>政法先锋</title>
+    </programme>
+  <programme start="20251118082500 +0800" stop="20251118084500 +0800" channel="753">
+    <title>海岸线</title>
     </programme>
   <programme start="20251118084500 +0800" stop="20251118100000 +0800" channel="753">
     <title>幸福剧场</title>
@@ -58485,69 +58491,6 @@
   <programme start="20251118233000 +0800" stop="20251119000000 +0800" channel="1009">
     <title>第一品牌</title>
     </programme>
-  <channel id="1010">
-    <display-name>成都影视文艺</display-name>
-    </channel>
-  <programme start="20251118000000 +0800" stop="20251118000300 +0800" channel="1010">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20251118000300 +0800" stop="20251118005300 +0800" channel="1010">
-    <title>生活麻辣烫</title>
-    </programme>
-  <programme start="20251118005300 +0800" stop="20251118043800 +0800" channel="1010">
-    <title>热剧连播</title>
-    </programme>
-  <programme start="20251118043800 +0800" stop="20251118061000 +0800" channel="1010">
-    <title>夜猫子剧场</title>
-    </programme>
-  <programme start="20251118061000 +0800" stop="20251118073000 +0800" channel="1010">
-    <title>活到100岁</title>
-    </programme>
-  <programme start="20251118073000 +0800" stop="20251118080500 +0800" channel="1010">
-    <title>活到100岁.降糖乐园</title>
-    </programme>
-  <programme start="20251118080500 +0800" stop="20251118085000 +0800" channel="1010">
-    <title>生活麻辣烫</title>
-    </programme>
-  <programme start="20251118085000 +0800" stop="20251118121000 +0800" channel="1010">
-    <title>经典剧场</title>
-    </programme>
-  <programme start="20251118121000 +0800" stop="20251118130500 +0800" channel="1010">
-    <title>生活麻辣烫</title>
-    </programme>
-  <programme start="20251118130500 +0800" stop="20251118140000 +0800" channel="1010">
-    <title>经典剧场</title>
-    </programme>
-  <programme start="20251118140000 +0800" stop="20251118145500 +0800" channel="1010">
-    <title>夜猫子剧场</title>
-    </programme>
-  <programme start="20251118145500 +0800" stop="20251118152000 +0800" channel="1010">
-    <title>活到100岁</title>
-    </programme>
-  <programme start="20251118152000 +0800" stop="20251118160500 +0800" channel="1010">
-    <title>健康之门</title>
-    </programme>
-  <programme start="20251118160500 +0800" stop="20251118174500 +0800" channel="1010">
-    <title>精品剧场:今天我是角</title>
-    </programme>
-  <programme start="20251118174500 +0800" stop="20251118183000 +0800" channel="1010">
-    <title>凡人有事</title>
-    </programme>
-  <programme start="20251118183000 +0800" stop="20251118192000 +0800" channel="1010">
-    <title>生活麻辣烫</title>
-    </programme>
-  <programme start="20251118192000 +0800" stop="20251118230500 +0800" channel="1010">
-    <title>热剧连播</title>
-    </programme>
-  <programme start="20251118230500 +0800" stop="20251119000000 +0800" channel="1010">
-    <title>夜猫子剧场</title>
-    </programme>
-  <programme start="20251119000000 +0800" stop="20251119000001 +0800" channel="1010">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20251119000001 +0800" stop="20251119000300 +0800" channel="1010">
-    <title>夜猫子剧场</title>
-    </programme>
   <channel id="1011">
     <display-name>成都公共</display-name>
     </channel>
@@ -58882,75 +58825,6 @@
     <title>剧场</title>
     </programme>
   <programme start="20251118235900 +0800" stop="20251119000000 +0800" channel="1014">
-    <title>结束</title>
-    </programme>
-  <channel id="1015">
-    <display-name>湖北教育</display-name>
-    </channel>
-  <programme start="20251118000000 +0800" stop="20251118025400 +0800" channel="1015">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20251118025400 +0800" stop="20251118030500 +0800" channel="1015">
-    <title>观点致胜</title>
-    </programme>
-  <programme start="20251118030500 +0800" stop="20251118051000 +0800" channel="1015">
-    <title>开怀畅影</title>
-    </programme>
-  <programme start="20251118051000 +0800" stop="20251118072900 +0800" channel="1015">
-    <title>观点致胜</title>
-    </programme>
-  <programme start="20251118072900 +0800" stop="20251118085700 +0800" channel="1015">
-    <title>开怀畅影</title>
-    </programme>
-  <programme start="20251118085700 +0800" stop="20251118091800 +0800" channel="1015">
-    <title>中华德育故事</title>
-    </programme>
-  <programme start="20251118091800 +0800" stop="20251118120100 +0800" channel="1015">
-    <title>剧场</title>
-    </programme>
-  <programme start="20251118120100 +0800" stop="20251118121500 +0800" channel="1015">
-    <title>汉字解密</title>
-    </programme>
-  <programme start="20251118121500 +0800" stop="20251118131900 +0800" channel="1015">
-    <title>点亮真相</title>
-    </programme>
-  <programme start="20251118131900 +0800" stop="20251118144100 +0800" channel="1015">
-    <title>桃花朵朵开</title>
-    </programme>
-  <programme start="20251118144100 +0800" stop="20251118173500 +0800" channel="1015">
-    <title>剧场</title>
-    </programme>
-  <programme start="20251118173500 +0800" stop="20251118174600 +0800" channel="1015">
-    <title>汉字解密</title>
-    </programme>
-  <programme start="20251118174600 +0800" stop="20251118185100 +0800" channel="1015">
-    <title>桃花朵朵开</title>
-    </programme>
-  <programme start="20251118185100 +0800" stop="20251118191000 +0800" channel="1015">
-    <title>好朋友的家</title>
-    </programme>
-  <programme start="20251118191000 +0800" stop="20251118192100 +0800" channel="1015">
-    <title>汉字解密</title>
-    </programme>
-  <programme start="20251118192100 +0800" stop="20251118200600 +0800" channel="1015">
-    <title>走进生活科学</title>
-    </programme>
-  <programme start="20251118200600 +0800" stop="20251118202700 +0800" channel="1015">
-    <title>校园戏曲风</title>
-    </programme>
-  <programme start="20251118202700 +0800" stop="20251118223100 +0800" channel="1015">
-    <title>剧场</title>
-    </programme>
-  <programme start="20251118223100 +0800" stop="20251118230800 +0800" channel="1015">
-    <title>真情讲述</title>
-    </programme>
-  <programme start="20251118230800 +0800" stop="20251118233200 +0800" channel="1015">
-    <title>大揭秘</title>
-    </programme>
-  <programme start="20251118233200 +0800" stop="20251118235900 +0800" channel="1015">
-    <title>校园戏曲风</title>
-    </programme>
-  <programme start="20251118235900 +0800" stop="20251119000000 +0800" channel="1015">
     <title>结束</title>
     </programme>
   <channel id="1016">
