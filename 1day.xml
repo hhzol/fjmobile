@@ -34281,8 +34281,11 @@
   <channel id="645">
     <display-name>广东国际</display-name>
     </channel>
-  <programme start="20251120000000 +0800" stop="20251120060000 +0800" channel="645">
+  <programme start="20251120000000 +0800" stop="20251120000001 +0800" channel="645">
     <title>由https://epg.136605.xyz提供节目单服务</title>
+    </programme>
+  <programme start="20251120000001 +0800" stop="20251120060000 +0800" channel="645">
+    <title>猪猪侠之竞速小英雄八</title>
     </programme>
   <programme start="20251120060000 +0800" stop="20251120080000 +0800" channel="645">
     <title>猪猪侠之竞速小英雄八</title>
@@ -34335,8 +34338,20 @@
   <programme start="20251120211600 +0800" stop="20251120220000 +0800" channel="645">
     <title>猪猪侠之竞速小英雄三</title>
     </programme>
-  <programme start="20251120220000 +0800" stop="20251120225000 +0800" channel="645">
-    <title>飞狗莫柯之家有小短腿</title>
+  <programme start="20251120220000 +0800" stop="20251120223300 +0800" channel="645">
+    <title>飞狗莫柯之家有小短腿二</title>
+    </programme>
+  <programme start="20251120223300 +0800" stop="20251120223600 +0800" channel="645">
+    <title>全运星推官-延续</title>
+    </programme>
+  <programme start="20251120223600 +0800" stop="20251120223900 +0800" channel="645">
+    <title>全运星推官-胜负</title>
+    </programme>
+  <programme start="20251120223900 +0800" stop="20251120232500 +0800" channel="645">
+    <title>飞狗莫柯之家有小短腿二</title>
+    </programme>
+  <programme start="20251120232500 +0800" stop="20251120235900 +0800" channel="645">
+    <title>飞狗莫柯之家有小短腿一</title>
     </programme>
   <channel id="646">
     <display-name>广东少儿</display-name>
