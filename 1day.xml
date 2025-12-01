@@ -27372,38 +27372,32 @@
   <channel id="647">
     <display-name>广东影视</display-name>
     </channel>
-  <programme start="20251201000000 +0800" stop="20251201000001 +0800" channel="647">
+  <programme start="20251201000000 +0800" stop="20251201003000 +0800" channel="647">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20251201000001 +0800" stop="20251201003000 +0800" channel="647">
-    <title>剧无霸经典剧场:尖刀出鞘(25-27)</title>
-    </programme>
-  <programme start="20251201003000 +0800" stop="20251201060000 +0800" channel="647">
+  <programme start="20251201003000 +0800" stop="20251201012000 +0800" channel="647">
     <title>午夜剧场</title>
     </programme>
-  <programme start="20251201060000 +0800" stop="20251201074500 +0800" channel="647">
-    <title>早晨剧场:短剧</title>
+  <programme start="20251201012000 +0800" stop="20251201071500 +0800" channel="647">
+    <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20251201074500 +0800" stop="20251201112000 +0800" channel="647">
-    <title>醒晨剧场</title>
+  <programme start="20251201071500 +0800" stop="20251201111000 +0800" channel="647">
+    <title>醒晨剧场:战地花开(34-36)</title>
     </programme>
-  <programme start="20251201112000 +0800" stop="20251201165000 +0800" channel="647">
-    <title>午间大强档</title>
+  <programme start="20251201111000 +0800" stop="20251201160500 +0800" channel="647">
+    <title>午间大强档:破阵(17-20)</title>
     </programme>
-  <programme start="20251201165000 +0800" stop="20251201183500 +0800" channel="647">
-    <title>剧无霸前战剧场</title>
+  <programme start="20251201160500 +0800" stop="20251201184000 +0800" channel="647">
+    <title>剧无霸前战剧场:骑士的手套(16-18)</title>
     </programme>
-  <programme start="20251201183500 +0800" stop="20251201185000 +0800" channel="647">
+  <programme start="20251201184000 +0800" stop="20251201220500 +0800" channel="647">
+    <title>剧无霸剧场:使命1915(21-25)</title>
+    </programme>
+  <programme start="20251201220500 +0800" stop="20251201222500 +0800" channel="647">
     <title>有请大医生</title>
     </programme>
-  <programme start="20251201185000 +0800" stop="20251201221000 +0800" channel="647">
-    <title>剧无霸剧场</title>
-    </programme>
-  <programme start="20251201221000 +0800" stop="20251201222000 +0800" channel="647">
-    <title>广东电影报道+有请大医生</title>
-    </programme>
-  <programme start="20251201222000 +0800" stop="20251201235900 +0800" channel="647">
-    <title>剧无霸经典剧场</title>
+  <programme start="20251201222500 +0800" stop="20251201235900 +0800" channel="647">
+    <title>剧无霸经典剧场:拯救者(2-4)</title>
     </programme>
   <channel id="648">
     <display-name>广东新闻</display-name>
@@ -30890,6 +30884,48 @@
     </programme>
   <programme start="20251201231000 +0800" stop="20251201235900 +0800" channel="707">
     <title>喀什杯足球邀请赛小组赛</title>
+    </programme>
+  <channel id="708">
+    <display-name>汉语综艺</display-name>
+    </channel>
+  <programme start="20251201000000 +0800" stop="20251201000001 +0800" channel="708">
+    <title>由https://epg.136605.xyz提供节目单服务</title>
+    </programme>
+  <programme start="20251201000001 +0800" stop="20251201143500 +0800" channel="708">
+    <title>精彩呈现</title>
+    </programme>
+  <programme start="20251201143500 +0800" stop="20251201150000 +0800" channel="708">
+    <title>致富田园（414）</title>
+    </programme>
+  <programme start="20251201150000 +0800" stop="20251201152000 +0800" channel="708">
+    <title>创业在新疆（147）</title>
+    </programme>
+  <programme start="20251201152000 +0800" stop="20251201155500 +0800" channel="708">
+    <title>行走山水间（97）</title>
+    </programme>
+  <programme start="20251201155500 +0800" stop="20251201191500 +0800" channel="708">
+    <title>（26集）前途无量（811）</title>
+    </programme>
+  <programme start="20251201191500 +0800" stop="20251201200500 +0800" channel="708">
+    <title>6集纪录片极致新疆（1）</title>
+    </programme>
+  <programme start="20251201200500 +0800" stop="20251201201000 +0800" channel="708">
+    <title>国宝时刻(26)</title>
+    </programme>
+  <programme start="20251201201000 +0800" stop="20251201203500 +0800" channel="708">
+    <title>致富田园（414）</title>
+    </programme>
+  <programme start="20251201203500 +0800" stop="20251201210000 +0800" channel="708">
+    <title>我们都是追梦人特别节目新疆面孔（38）</title>
+    </programme>
+  <programme start="20251201210000 +0800" stop="20251201211000 +0800" channel="708">
+    <title>直播民生（正播）</title>
+    </programme>
+  <programme start="20251201211000 +0800" stop="20251201211300 +0800" channel="708">
+    <title>天气预报地面（正播）</title>
+    </programme>
+  <programme start="20251201211300 +0800" stop="20251201235900 +0800" channel="708">
+    <title>(45集)突围（1417）</title>
     </programme>
   <channel id="710">
     <display-name>汕头新闻综合</display-name>
@@ -40643,6 +40679,36 @@
     </programme>
   <programme start="20251201224700 +0800" stop="20251201235900 +0800" channel="805">
     <title>电视剧</title>
+    </programme>
+  <channel id="806">
+    <display-name>维吾尔语影视</display-name>
+    </channel>
+  <programme start="20251201000000 +0800" stop="20251201000001 +0800" channel="806">
+    <title>由https://epg.136605.xyz提供节目单服务</title>
+    </programme>
+  <programme start="20251201000001 +0800" stop="20251201133000 +0800" channel="806">
+    <title>精彩呈现</title>
+    </programme>
+  <programme start="20251201133000 +0800" stop="20251201140000 +0800" channel="806">
+    <title>柯语央视新闻联播</title>
+    </programme>
+  <programme start="20251201140000 +0800" stop="20251201143200 +0800" channel="806">
+    <title>柯语新疆新闻联播</title>
+    </programme>
+  <programme start="20251201143200 +0800" stop="20251201201500 +0800" channel="806">
+    <title>林深见鹿(410)</title>
+    </programme>
+  <programme start="20251201201500 +0800" stop="20251201203500 +0800" channel="806">
+    <title>创业在新疆（145）</title>
+    </programme>
+  <programme start="20251201203500 +0800" stop="20251201210800 +0800" channel="806">
+    <title>行走山水间(89）</title>
+    </programme>
+  <programme start="20251201210800 +0800" stop="20251201233000 +0800" channel="806">
+    <title>警察荣誉(3638）</title>
+    </programme>
+  <programme start="20251201233000 +0800" stop="20251201235900 +0800" channel="806">
+    <title>柯语央视新闻联播</title>
     </programme>
   <channel id="807">
     <display-name>维吾尔语新闻综合</display-name>
