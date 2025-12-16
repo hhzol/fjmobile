@@ -19275,6 +19275,69 @@
   <programme start="20251216221800 +0800" stop="20251216235900 +0800" channel="532">
     <title>天下电影</title>
     </programme>
+  <channel id="534">
+    <display-name>仙游电视</display-name>
+    </channel>
+  <programme start="20251216000000 +0800" stop="20251216120000 +0800" channel="534">
+    <title>由https://epg.136605.xyz提供节目单服务</title>
+    </programme>
+  <programme start="20251216120000 +0800" stop="20251216121000 +0800" channel="534">
+    <title>广告</title>
+    </programme>
+  <programme start="20251216121000 +0800" stop="20251216122500 +0800" channel="534">
+    <title>新闻连连看（重播）</title>
+    </programme>
+  <programme start="20251216122500 +0800" stop="20251216123000 +0800" channel="534">
+    <title>广告</title>
+    </programme>
+  <programme start="20251216123000 +0800" stop="20251216124500 +0800" channel="534">
+    <title>秋生讲古</title>
+    </programme>
+  <programme start="20251216124500 +0800" stop="20251216130000 +0800" channel="534">
+    <title>公益广告、请您欣赏</title>
+    </programme>
+  <programme start="20251216130000 +0800" stop="20251216180000 +0800" channel="534">
+    <title>设备检修</title>
+    </programme>
+  <programme start="20251216180000 +0800" stop="20251216190000 +0800" channel="534">
+    <title>转播莆田一套</title>
+    </programme>
+  <programme start="20251216190000 +0800" stop="20251216200000 +0800" channel="534">
+    <title>转播莆田一套（含中央新闻、福建新闻）</title>
+    </programme>
+  <programme start="20251216200000 +0800" stop="20251216201000 +0800" channel="534">
+    <title>广告</title>
+    </programme>
+  <programme start="20251216201000 +0800" stop="20251216202500 +0800" channel="534">
+    <title>仙游新闻（周二）</title>
+    </programme>
+  <programme start="20251216202500 +0800" stop="20251216203500 +0800" channel="534">
+    <title>广告</title>
+    </programme>
+  <programme start="20251216203500 +0800" stop="20251216205000 +0800" channel="534">
+    <title>有味有醋</title>
+    </programme>
+  <programme start="20251216205000 +0800" stop="20251216210000 +0800" channel="534">
+    <title>公益广告、请您欣赏</title>
+    </programme>
+  <programme start="20251216210000 +0800" stop="20251216211500 +0800" channel="534">
+    <title>秋生讲古</title>
+    </programme>
+  <programme start="20251216211500 +0800" stop="20251216213000 +0800" channel="534">
+    <title>公益广告、请您欣赏</title>
+    </programme>
+  <programme start="20251216213000 +0800" stop="20251216214500 +0800" channel="534">
+    <title>有味有醋</title>
+    </programme>
+  <programme start="20251216214500 +0800" stop="20251216220000 +0800" channel="534">
+    <title>广告</title>
+    </programme>
+  <programme start="20251216220000 +0800" stop="20251216221500 +0800" channel="534">
+    <title>仙游新闻（重播周二）</title>
+    </programme>
+  <programme start="20251216221500 +0800" stop="20251216235900 +0800" channel="534">
+    <title>公益广告、请您欣赏</title>
+    </programme>
   <channel id="535">
     <display-name>佛山公共</display-name>
     </channel>
@@ -27159,20 +27222,17 @@
   <programme start="20251216192000 +0800" stop="20251216192500 +0800" channel="666">
     <title>天气，点点看</title>
     </programme>
-  <programme start="20251216192500 +0800" stop="20251216220500 +0800" channel="666">
+  <programme start="20251216192500 +0800" stop="20251216223000 +0800" channel="666">
     <title>情感剧场:35集电视剧:侠义英雄传(11-13)</title>
     </programme>
-  <programme start="20251216220500 +0800" stop="20251216221000 +0800" channel="666">
+  <programme start="20251216223000 +0800" stop="20251216224000 +0800" channel="666">
     <title>重播：天气，点点看</title>
     </programme>
-  <programme start="20251216221000 +0800" stop="20251216230000 +0800" channel="666">
+  <programme start="20251216224000 +0800" stop="20251216233000 +0800" channel="666">
     <title>幸福剧场:58集电视剧:家国恩仇记(3)</title>
     </programme>
-  <programme start="20251216230000 +0800" stop="20251216235000 +0800" channel="666">
+  <programme start="20251216233000 +0800" stop="20251216235900 +0800" channel="666">
     <title>幸福剧场:58集电视剧:家国恩仇记(4)</title>
-    </programme>
-  <programme start="20251216235000 +0800" stop="20251216235900 +0800" channel="666">
-    <title>幸福剧场:58集电视剧:家国恩仇记(5)</title>
     </programme>
   <channel id="667">
     <display-name>延边1</display-name>
@@ -35337,11 +35397,8 @@
   <programme start="20251216144000 +0800" stop="20251216153000 +0800" channel="754">
     <title>七彩动漫城:奇奇和努娜</title>
     </programme>
-  <programme start="20251216153000 +0800" stop="20251216153000 +0800" channel="754">
-    <title>七彩动漫城:超级飞侠18</title>
-    </programme>
   <programme start="20251216153000 +0800" stop="20251216160000 +0800" channel="754">
-    <title>直播：海口市总工会2025年“宪法宣传周”活动暨“椰小工”IP升级发布会</title>
+    <title>七彩动漫城:超级飞侠18</title>
     </programme>
   <programme start="20251216160000 +0800" stop="20251216170000 +0800" channel="754">
     <title>七彩动漫城：海底小纵队9</title>
