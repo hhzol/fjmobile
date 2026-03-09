@@ -23397,8 +23397,11 @@
   <programme start="20260310223000 +0800" stop="20260310230000 +0800" channel="1060">
     <title>Science View</title>
     </programme>
-  <programme start="20260310230000 +0800" stop="20260310235959 +0800" channel="1060">
+  <programme start="20260310230000 +0800" stop="20260310233000 +0800" channel="1060">
     <title>NHK NEWSLINE</title>
+    </programme>
+  <programme start="20260310233000 +0800" stop="20260311000000 +0800" channel="1060">
+    <title>Journeys in Japan</title>
     </programme>
   <channel id="1061">
     <display-name>ABC Australia</display-name>
