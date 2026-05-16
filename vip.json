@@ -20,12 +20,18 @@
   ],
   "lives": [
     {
-      "group": "自定义",
+      "group": "cctv",
       "channels": [
         {
-          "name": "主角",
+          "name": "cctv1",
           "urls": [
-            "https://epg.136605.xyz/zhujue.m3u"
+            "http://183.252.175.68/PLTV/88888888/224/3221227550/index.m3u8?rrsip=ott.fj.chinamobile.com"
+          ]
+        },
+        {
+          "name": "cctv2",
+          "urls": [
+            "http://183.252.175.68/PLTV/88888888/224/3221225923/index.m3u8?rrsip=ott.fj.chinamobile.com"
           ]
         }
       ]
