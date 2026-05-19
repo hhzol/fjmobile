@@ -414,10 +414,10 @@ http://[2409:8087:3410:20:100::1009]:6410/PLTV/88888888/224/3221227162/index.m3u
 http://[2409:8087:3410:20:100::100d]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
 http://[2409:8087:3400:20:1000::20a]/PLTV/88888888/224/3221227162/index.m3u8?rrsip=ott.fj.chinamobile.com?servicetype=1
 http://[2409:8087:3408:20:1040::206]/PLTV/88888888/224/3221227162/index.m3u8?rrsip=ott.fj.chinamobile.com?servicetype=1
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.136605.xyz/tvg-logo/深圳卫视.png" group-title="4K频道",深圳卫视
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://epg.136605.xyz/tvg-logo/深圳卫视.png" group-title="4K频道",深圳卫视4K
 http://183.252.175.68/PLTV/88888888/224/3221227489/index.m3u8?rrsip=ott.fj.chinamobile.com
 http://112.50.213.133/PLTV/88888888/224/3221227489/index.m3u8?rrsip=ott.fj.chinamobile.com
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.136605.xyz/tvg-logo/广东卫视.png" group-title="4K频道",广东卫视
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://epg.136605.xyz/tvg-logo/广东卫视.png" group-title="4K频道",广东卫视4K
 http://183.252.175.68/PLTV/88888888/224/3221227391/index.m3u8?rrsip=ott.fj.chinamobile.com
 http://112.50.213.133/PLTV/88888888/224/3221227391/index.m3u8?rrsip=ott.fj.chinamobile.com
 
