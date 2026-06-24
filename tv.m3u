@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://e.136605.xyz/2.xml"
+#EXTM3U x-tvg-url="https://epg.136605.xyz/1day.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV1.png" group-title="央视频道",CCTV1
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227550/index.m3u8
 http://183.252.175.68/PLTV/88888888/224/3221227550/index.m3u8?rrsip=ott.fj.chinamobile.com
@@ -10,11 +10,14 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225812/index.m3u8
 http://183.252.175.68/PLTV/88888888/224/3221225812/index.m3u8?rrsip=ott.fj.chinamobile.com
 http://112.50.213.133/PLTV/88888888/224/3221225812/index.m3u8?rrsip=ott.fj.chinamobile.com
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV2.png" group-title="央视频道",CCTV2
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
 http://183.252.175.68/PLTV/88888888/224/3221225923/index.m3u8?rrsip=ott.fj.chinamobile.com
 http://112.50.213.133/PLTV/88888888/224/3221225923/index.m3u8?rrsip=ott.fj.chinamobile.com
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
 http://183.252.175.68/PLTV/88888888/224/3221225800/index.m3u8?rrsip=ott.fj.chinamobile.com
 http://112.50.213.133/PLTV/88888888/224/3221225800/index.m3u8?rrsip=ott.fj.chinamobile.com
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV3.png" group-title="央视频道",CCTV3
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227445/index.m3u8
 http://183.252.175.68/PLTV/88888888/224/3221227445/index.m3u8?rrsip=ott.fj.chinamobile.com
 http://112.50.213.133/PLTV/88888888/224/3221227445/index.m3u8?rrsip=ott.fj.chinamobile.com
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV4.png" group-title="央视频道",CCTV4
@@ -22,9 +25,11 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227554/index.m3u8
 http://183.252.175.68/PLTV/88888888/224/3221227554/index.m3u8?rrsip=ott.fj.chinamobile.com
 http://112.50.213.133/PLTV/88888888/224/3221227554/index.m3u8?rrsip=ott.fj.chinamobile.com
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV5.png" group-title="央视频道",CCTV5
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227283/index.m3u8
 http://183.252.175.68/PLTV/88888888/224/3221227283/index.m3u8?rrsip=ott.fj.chinamobile.com
 http://112.50.213.133/PLTV/88888888/224/3221227283/index.m3u8?rrsip=ott.fj.chinamobile.com
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV5+.png" group-title="央视频道",CCTV5+
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
 http://183.252.175.68/PLTV/88888888/224/3221225939/index.m3u8?rrsip=ott.fj.chinamobile.com
 http://112.50.213.133/PLTV/88888888/224/3221225939/index.m3u8?rrsip=ott.fj.chinamobile.com
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV6.png" group-title="央视频道",CCTV6
@@ -32,6 +37,7 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227525/index.m3u8
 http://183.252.175.68/PLTV/88888888/224/3221227525/index.m3u8?rrsip=ott.fj.chinamobile.com
 http://112.50.213.133/PLTV/88888888/224/3221227525/index.m3u8?rrsip=ott.fj.chinamobile.com
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV7.png" group-title="央视频道",CCTV7
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8
 http://183.252.175.68/PLTV/88888888/224/3221225927/index.m3u8?rrsip=ott.fj.chinamobile.com
 http://112.50.213.133/PLTV/88888888/224/3221225927/index.m3u8?rrsip=ott.fj.chinamobile.com
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV8.png" group-title="央视频道",CCTV8
