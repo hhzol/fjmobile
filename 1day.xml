@@ -118,6 +118,8 @@
     </programme>
   <channel id="2">
     <display-name>CCTV2</display-name>
+    <display-name>CCTV2超清</display-name>
+    <display-name>CCTV2财经</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627000040 +0800" channel="2">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -256,6 +258,8 @@
     </programme>
   <channel id="3">
     <display-name>CCTV3</display-name>
+    <display-name>CCTV3超清</display-name>
+    <display-name>CCTV3综艺</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627002725 +0800" channel="3">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -340,6 +344,8 @@
     </programme>
   <channel id="4">
     <display-name>CCTV4</display-name>
+    <display-name>CCTV4超清</display-name>
+    <display-name>CCTV4中文国际</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627003500 +0800" channel="4">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -478,6 +484,8 @@
     </programme>
   <channel id="5">
     <display-name>CCTV5</display-name>
+    <display-name>CCTV5超清</display-name>
+    <display-name>CCTV5体育</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627003500 +0800" channel="5">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -544,6 +552,8 @@
     </programme>
   <channel id="6">
     <display-name>CCTV5+</display-name>
+    <display-name>CCTV5+超清</display-name>
+    <display-name>CCTV5+体育赛事</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627003500 +0800" channel="6">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -607,6 +617,8 @@
     </programme>
   <channel id="7">
     <display-name>CCTV6</display-name>
+    <display-name>CCTV6超清</display-name>
+    <display-name>CCTV6电影</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627003700 +0800" channel="7">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -709,6 +721,8 @@
     </programme>
   <channel id="8">
     <display-name>CCTV7</display-name>
+    <display-name>CCTV7超清</display-name>
+    <display-name>CCTV7国防军事</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627001015 +0800" channel="8">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -823,6 +837,8 @@
     </programme>
   <channel id="9">
     <display-name>CCTV8</display-name>
+    <display-name>CCTV8超清</display-name>
+    <display-name>CCTV8电视剧</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627000450 +0800" channel="9">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -949,6 +965,8 @@
     </programme>
   <channel id="10">
     <display-name>CCTV9</display-name>
+    <display-name>CCTV9超清</display-name>
+    <display-name>CCTV9纪录</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627003100 +0800" channel="10">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -1048,6 +1066,8 @@
     </programme>
   <channel id="11">
     <display-name>CCTV10</display-name>
+    <display-name>CCTV10超清</display-name>
+    <display-name>CCTV10科教</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627002030 +0800" channel="11">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -1159,6 +1179,8 @@
     </programme>
   <channel id="12">
     <display-name>CCTV11</display-name>
+    <display-name>CCTV11超清</display-name>
+    <display-name>CCTV11戏曲</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627000400 +0800" channel="12">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -1231,6 +1253,8 @@
     </programme>
   <channel id="13">
     <display-name>CCTV12</display-name>
+    <display-name>CCTV12超清</display-name>
+    <display-name>CCTV12社会与法</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627004200 +0800" channel="13">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -1339,6 +1363,8 @@
     </programme>
   <channel id="14">
     <display-name>CCTV13</display-name>
+    <display-name>CCTV13超清</display-name>
+    <display-name>CCTV13新闻</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627000001 +0800" channel="14">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -1459,6 +1485,8 @@
     </programme>
   <channel id="15">
     <display-name>CCTV14</display-name>
+    <display-name>CCTV14超清</display-name>
+    <display-name>CCTV14少儿</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627001800 +0800" channel="15">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -1510,6 +1538,8 @@
     </programme>
   <channel id="16">
     <display-name>CCTV15</display-name>
+    <display-name>CCTV15超清</display-name>
+    <display-name>CCTV15音乐</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627001315 +0800" channel="16">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -1576,6 +1606,8 @@
     </programme>
   <channel id="17">
     <display-name>CCTV16</display-name>
+    <display-name>CCTV16超清</display-name>
+    <display-name>CCTV16奥林匹克</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627003500 +0800" channel="17">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -1708,6 +1740,8 @@
     </programme>
   <channel id="19">
     <display-name>CCTV17</display-name>
+    <display-name>CCTV17超清</display-name>
+    <display-name>CCTV17农业农村</display-name>
     </channel>
   <programme start="20260627000000 +0800" stop="20260627003600 +0800" channel="19">
     <title>由https://epg.136605.xyz提供节目单服务</title>
