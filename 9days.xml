@@ -16070,6 +16070,7 @@
     </programme>
   <channel id="20">
     <display-name>CGTN纪录</display-name>
+    <display-name>CGTN外语纪录</display-name>
     </channel>
   <programme start="20260625000000 +0800" stop="20260625000001 +0800" channel="20">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -20732,6 +20733,7 @@
     </programme>
   <channel id="24">
     <display-name>CGTN西语</display-name>
+    <display-name>CGTN西班牙语</display-name>
     </channel>
   <programme start="20260625000000 +0800" stop="20260625000001 +0800" channel="24">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -22076,6 +22078,7 @@
     </programme>
   <channel id="25">
     <display-name>CGTN阿语</display-name>
+    <display-name>CGTN阿拉伯语</display-name>
     </channel>
   <programme start="20260625000000 +0800" stop="20260625001500 +0800" channel="25">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -220927,7 +220930,7 @@
     </programme>
   <channel id="622">
     <display-name>东方影视</display-name>
-    <display-name>上海东方影视</display-name>
+    <display-name>上视东方影视</display-name>
     </channel>
   <programme start="20260701000000 +0800" stop="20260701000001 +0800" channel="622">
     <title>由https://epg.136605.xyz提供节目单服务</title>
@@ -224775,6 +224778,336 @@
     </programme>
   <programme start="20260701233000" stop="20260701235959" channel="652" _source_file="data/epg_20260701_2.xml">
     <title>乡间物语小导游大视界</title>
+    </programme>
+  <channel id="653">
+    <display-name>老故事</display-name>
+    </channel>
+  <programme start="20260701000000 +0800" stop="20260701000001 +0800" channel="653">
+    <title>由https://epg.136605.xyz提供节目单服务</title>
+    </programme>
+  <programme start="20260701000001 +0800" stop="20260701001700" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>走进利尔作物十年耕心之路</title>
+    </programme>
+  <programme start="20260701001700" stop="20260701003600" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>匠心筑城与时间对话（下）</title>
+    </programme>
+  <programme start="20260701003600" stop="20260701060100" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>汉源（五）</title>
+    </programme>
+  <programme start="20260701060100" stop="20260701063100" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>城市的记忆与重生济南篇（中）</title>
+    </programme>
+  <programme start="20260701063100" stop="20260701064200" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>楼百根（上）</title>
+    </programme>
+  <programme start="20260701064200" stop="20260701065200" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>楼百根（下）</title>
+    </programme>
+  <programme start="20260701065200" stop="20260701070700" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>债务破晓时</title>
+    </programme>
+  <programme start="20260701070700" stop="20260701072200" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>商业教练用提问解决问题</title>
+    </programme>
+  <programme start="20260701072200" stop="20260701082400" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>光影史诗吴印咸（二）</title>
+    </programme>
+  <programme start="20260701082400" stop="20260701090100" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>地震之后</title>
+    </programme>
+  <programme start="20260701090100" stop="20260701093200" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>城市的记忆与重生济南篇（下）</title>
+    </programme>
+  <programme start="20260701093200" stop="20260701094200" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>周晖</title>
+    </programme>
+  <programme start="20260701094200" stop="20260701095300" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>朱汉华</title>
+    </programme>
+  <programme start="20260701095300" stop="20260701100300" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>千年凤凰当代样子</title>
+    </programme>
+  <programme start="20260701100300" stop="20260701110100" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>光影史诗吴印咸（三）</title>
+    </programme>
+  <programme start="20260701110100" stop="20260701112200" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>百年回响五卅运动在苏州（一）</title>
+    </programme>
+  <programme start="20260701112200" stop="20260701114400" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>百年回响五卅运动在苏州（二）</title>
+    </programme>
+  <programme start="20260701114400" stop="20260701114900" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>在影像里重逢（三十二）</title>
+    </programme>
+  <programme start="20260701114900" stop="20260701120400" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>爱印</title>
+    </programme>
+  <programme start="20260701120400" stop="20260701121900" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>扎根</title>
+    </programme>
+  <programme start="20260701121900" stop="20260701123400" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>以锐意创新护航人类健康</title>
+    </programme>
+  <programme start="20260701123400" stop="20260701130100" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>西津渡（二）</title>
+    </programme>
+  <programme start="20260701130100" stop="20260701133100" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>城市的记忆与重生济南篇（中）</title>
+    </programme>
+  <programme start="20260701133100" stop="20260701134200" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>楼百根（上）</title>
+    </programme>
+  <programme start="20260701134200" stop="20260701135200" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>楼百根（下）</title>
+    </programme>
+  <programme start="20260701135200" stop="20260701140700" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>债务破晓时</title>
+    </programme>
+  <programme start="20260701140700" stop="20260701142200" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>商业教练用提问解决问题</title>
+    </programme>
+  <programme start="20260701142200" stop="20260701152400" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>光影史诗吴印咸（二）</title>
+    </programme>
+  <programme start="20260701152400" stop="20260701160000" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>地震之后</title>
+    </programme>
+  <programme start="20260701160000" stop="20260701160900" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>在影像里重逢（三十一）</title>
+    </programme>
+  <programme start="20260701160900" stop="20260701163400" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>程默镜头里的共和国记忆（下）</title>
+    </programme>
+  <programme start="20260701163400" stop="20260701170100" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>西津渡（一）</title>
+    </programme>
+  <programme start="20260701170100" stop="20260701173200" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>城市的记忆与重生济南篇（下）</title>
+    </programme>
+  <programme start="20260701173200" stop="20260701174200" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>周晖</title>
+    </programme>
+  <programme start="20260701174200" stop="20260701175300" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>朱汉华</title>
+    </programme>
+  <programme start="20260701175300" stop="20260701180300" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>千年凤凰当代样子</title>
+    </programme>
+  <programme start="20260701180300" stop="20260701190100" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>光影史诗吴印咸（三）</title>
+    </programme>
+  <programme start="20260701190100" stop="20260701192200" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>百年回响五卅运动在苏州（一）</title>
+    </programme>
+  <programme start="20260701192200" stop="20260701194400" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>百年回响五卅运动在苏州（二）</title>
+    </programme>
+  <programme start="20260701194400" stop="20260701194900" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>在影像里重逢（三十二）</title>
+    </programme>
+  <programme start="20260701194900" stop="20260701200400" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>爱印</title>
+    </programme>
+  <programme start="20260701200400" stop="20260701201900" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>扎根</title>
+    </programme>
+  <programme start="20260701201900" stop="20260701203400" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>以锐意创新护航人类健康</title>
+    </programme>
+  <programme start="20260701203400" stop="20260701210100" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>西津渡（二）</title>
+    </programme>
+  <programme start="20260701210100" stop="20260701213100" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>城市的记忆与重生济南篇（中）</title>
+    </programme>
+  <programme start="20260701213100" stop="20260701214200" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>楼百根（上）</title>
+    </programme>
+  <programme start="20260701214200" stop="20260701215200" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>楼百根（下）</title>
+    </programme>
+  <programme start="20260701215200" stop="20260701220700" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>债务破晓时</title>
+    </programme>
+  <programme start="20260701220700" stop="20260701222200" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>商业教练用提问解决问题</title>
+    </programme>
+  <programme start="20260701222200" stop="20260701232400" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>光影史诗吴印咸（二）</title>
+    </programme>
+  <programme start="20260701232400" stop="20260701235900" channel="653" _source_file="data/epg_20260701_2.xml">
+    <title>地震之后</title>
+    </programme>
+  <channel id="654">
+    <display-name>发现之旅</display-name>
+    </channel>
+  <programme start="20260701000000 +0800" stop="20260701000001 +0800" channel="654">
+    <title>由https://epg.136605.xyz提供节目单服务</title>
+    </programme>
+  <programme start="20260701000001 +0800" stop="20260701003000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>发现汇</title>
+    </programme>
+  <programme start="20260701003000" stop="20260701010000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>揽胜神州</title>
+    </programme>
+  <programme start="20260701010000" stop="20260701040000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>测试图</title>
+    </programme>
+  <programme start="20260701040000" stop="20260701042000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>测试图</title>
+    </programme>
+  <programme start="20260701042000" stop="20260701060000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>测试图</title>
+    </programme>
+  <programme start="20260701060000" stop="20260701063000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>新昌悟语</title>
+    </programme>
+  <programme start="20260701063000" stop="20260701070000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>美丽家园</title>
+    </programme>
+  <programme start="20260701070000" stop="20260701073000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>发现汇</title>
+    </programme>
+  <programme start="20260701073000" stop="20260701073500" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>青春之我(85)</title>
+    </programme>
+  <programme start="20260701073500" stop="20260701074000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>青春之我(78)</title>
+    </programme>
+  <programme start="20260701074000" stop="20260701074500" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>翦商(1)</title>
+    </programme>
+  <programme start="20260701074500" stop="20260701075400" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>首席科学家的故事</title>
+    </programme>
+  <programme start="20260701075400" stop="20260701080000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>还看今朝</title>
+    </programme>
+  <programme start="20260701080000" stop="20260701084400" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>还看今朝</title>
+    </programme>
+  <programme start="20260701084400" stop="20260701085300" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>守护三江源</title>
+    </programme>
+  <programme start="20260701085300" stop="20260701094300" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>家国</title>
+    </programme>
+  <programme start="20260701094300" stop="20260701095000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>重建中国茶道</title>
+    </programme>
+  <programme start="20260701095000" stop="20260701103000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>还看今朝</title>
+    </programme>
+  <programme start="20260701103000" stop="20260701103500" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>青春之我(85)</title>
+    </programme>
+  <programme start="20260701103500" stop="20260701104000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>青春之我(78)</title>
+    </programme>
+  <programme start="20260701104000" stop="20260701104800" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>首席科学家的故事</title>
+    </programme>
+  <programme start="20260701104800" stop="20260701110300" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>你要倾听的大地</title>
+    </programme>
+  <programme start="20260701110300" stop="20260701120000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>还看今朝</title>
+    </programme>
+  <programme start="20260701120000" stop="20260701123000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>美丽家园</title>
+    </programme>
+  <programme start="20260701123000" stop="20260701130000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>对话品牌</title>
+    </programme>
+  <programme start="20260701130000" stop="20260701133000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>发现汇</title>
+    </programme>
+  <programme start="20260701133000" stop="20260701140000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>新昌悟语</title>
+    </programme>
+  <programme start="20260701140000" stop="20260701140500" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>青春之我(85)</title>
+    </programme>
+  <programme start="20260701140500" stop="20260701141000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>青春之我(78)</title>
+    </programme>
+  <programme start="20260701141000" stop="20260701150000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>还看今朝</title>
+    </programme>
+  <programme start="20260701150000" stop="20260701150500" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>翦商(1)</title>
+    </programme>
+  <programme start="20260701150500" stop="20260701151000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>晓屯聊摄影</title>
+    </programme>
+  <programme start="20260701151000" stop="20260701160000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>西南联大</title>
+    </programme>
+  <programme start="20260701160000" stop="20260701160500" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>你要倾听的大地</title>
+    </programme>
+  <programme start="20260701160500" stop="20260701164500" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>还看今朝</title>
+    </programme>
+  <programme start="20260701164500" stop="20260701165000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>青春之我(85)</title>
+    </programme>
+  <programme start="20260701165000" stop="20260701165500" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>青春之我(78)</title>
+    </programme>
+  <programme start="20260701165500" stop="20260701170000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>晓屯聊摄影</title>
+    </programme>
+  <programme start="20260701170000" stop="20260701171500" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>美丽家园</title>
+    </programme>
+  <programme start="20260701171500" stop="20260701173000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>国家生态</title>
+    </programme>
+  <programme start="20260701173000" stop="20260701180000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>发现汇</title>
+    </programme>
+  <programme start="20260701180000" stop="20260701183000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>新昌悟语</title>
+    </programme>
+  <programme start="20260701183000" stop="20260701190000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>美丽中华行</title>
+    </programme>
+  <programme start="20260701190000" stop="20260701195000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>西南联大</title>
+    </programme>
+  <programme start="20260701195000" stop="20260701195700" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>首席科学家的故事</title>
+    </programme>
+  <programme start="20260701195700" stop="20260701204700" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>还看今朝</title>
+    </programme>
+  <programme start="20260701204700" stop="20260701212000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>你要倾听的大地</title>
+    </programme>
+  <programme start="20260701212000" stop="20260701212500" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>晓屯聊摄影</title>
+    </programme>
+  <programme start="20260701212500" stop="20260701213000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>翦商(2)</title>
+    </programme>
+  <programme start="20260701213000" stop="20260701213500" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>青春之我(86)</title>
+    </programme>
+  <programme start="20260701213500" stop="20260701214000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>青春之我(79)</title>
+    </programme>
+  <programme start="20260701214000" stop="20260701223000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>家国</title>
+    </programme>
+  <programme start="20260701223000" stop="20260701230000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>新昌悟语</title>
+    </programme>
+  <programme start="20260701230000" stop="20260701233000" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>美丽中华行</title>
+    </programme>
+  <programme start="20260701233000" stop="20260701235959" channel="654" _source_file="data/epg_20260701_2.xml">
+    <title>对话品牌</title>
     </programme>
   <channel id="1000">
     <display-name>NHK World</display-name>
