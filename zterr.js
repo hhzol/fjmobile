@@ -1,4 +1,4 @@
-var main = function(item) {
+var main = function (item) {
 
     const url = item.url;
 
@@ -21,7 +21,6 @@ var main = function(item) {
     return {
         url: base + "?servicetype=3&playseek=" + playseek,
         player: 1,
-        scale: 0,
         headers: {
             "User-Agent": "okhttp/3.12.11"
         }
