@@ -1,4 +1,4 @@
-function main(item) {
+var main = function(item) {
 
     const url = item.url;
 
@@ -14,13 +14,10 @@ function main(item) {
         + id
         + "/index.m3u8";
 
-    // ❗关键逻辑：判断是否回看
     if (!playseek) {
-        // 直播（虽然你说不用直播，但必须兜底，否则有时会黑屏）
         return { url: base + "?servicetype=1" };
     }
 
-    // 回看直接用 M3U 给的 playseek
     return {
         url: base + "?servicetype=3&playseek=" + playseek,
         player: 1,
@@ -29,4 +26,4 @@ function main(item) {
             "User-Agent": "okhttp/3.12.11"
         }
     };
-}
+};
