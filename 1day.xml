@@ -28038,9 +28038,6 @@
   <programme start="20260706000001 +0800" stop="20260706003500 +0800" channel="280">
     <title>绿水青山中国行,科普好书</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706003500 +0800" channel="280">
-    <title>绿水青山中国行,科普好书</title>
-    </programme>
   <programme start="20260706003500 +0800" stop="20260706010000 +0800" channel="280">
     <title>华夏寻珍,寻钱记</title>
     </programme>
@@ -28061,6 +28058,12 @@
     </programme>
   <programme start="20260706043500 +0800" stop="20260706050000 +0800" channel="280">
     <title>华夏寻珍,寻钱记</title>
+    </programme>
+  <programme start="20260706043500 +0800" stop="20260706050000 +0800" channel="280">
+    <title>华夏寻珍,寻钱记</title>
+    </programme>
+  <programme start="20260706050000 +0800" stop="20260706063000 +0800" channel="280">
+    <title>钱币里的中国,科普好书</title>
     </programme>
   <programme start="20260706050000 +0800" stop="20260706063000 +0800" channel="280">
     <title>钱币里的中国,科普好书</title>
@@ -33818,59 +33821,80 @@
   <programme start="20260706022700 +0800" stop="20260706054000 +0800" channel="415">
     <title>测试卡</title>
     </programme>
-  <programme start="20260706054000 +0800" stop="20260706061500 +0800" channel="415">
-    <title>开台、大湾区会客厅</title>
+  <programme start="20260706054000 +0800" stop="20260706061300 +0800" channel="415">
+    <title>大湾区会客厅</title>
     </programme>
-  <programme start="20260706061500 +0800" stop="20260706062800 +0800" channel="415">
+  <programme start="20260706061300 +0800" stop="20260706062800 +0800" channel="415">
     <title>第1时评</title>
     </programme>
   <programme start="20260706062800 +0800" stop="20260706070000 +0800" channel="415">
     <title>都市路路通</title>
     </programme>
-  <programme start="20260706070000 +0800" stop="20260706070100 +0800" channel="415">
+  <programme start="20260706070000 +0800" stop="20260706070500 +0800" channel="415">
     <title>中华人民共和国国歌</title>
     </programme>
-  <programme start="20260706070100 +0800" stop="20260706080000 +0800" channel="415">
+  <programme start="20260706070500 +0800" stop="20260706080300 +0800" channel="415">
     <title>第一现场</title>
     </programme>
-  <programme start="20260706080000 +0800" stop="20260706082000 +0800" channel="415">
-    <title>专题</title>
+  <programme start="20260706080300 +0800" stop="20260706082200 +0800" channel="415">
+    <title>老广的味道Ⅸ(18)</title>
     </programme>
-  <programme start="20260706082000 +0800" stop="20260706091500 +0800" channel="415">
+  <programme start="20260706082200 +0800" stop="20260706091200 +0800" channel="415">
     <title>龙城(14)</title>
     </programme>
-  <programme start="20260706091500 +0800" stop="20260706101000 +0800" channel="415">
+  <programme start="20260706091200 +0800" stop="20260706100400 +0800" channel="415">
     <title>龙城(15)</title>
     </programme>
-  <programme start="20260706101000 +0800" stop="20260706110000 +0800" channel="415">
+  <programme start="20260706100400 +0800" stop="20260706104600 +0800" channel="415">
     <title>龙城(16)</title>
     </programme>
-  <programme start="20260706110000 +0800" stop="20260706120000 +0800" channel="415">
+  <programme start="20260706104600 +0800" stop="20260706105800 +0800" channel="415">
+    <title>专题</title>
+    </programme>
+  <programme start="20260706105800 +0800" stop="20260706114000 +0800" channel="415">
     <title>龙城(17)</title>
     </programme>
-  <programme start="20260706120000 +0800" stop="20260706121500 +0800" channel="415">
+  <programme start="20260706114000 +0800" stop="20260706120000 +0800" channel="415">
+    <title>专题</title>
+    </programme>
+  <programme start="20260706120000 +0800" stop="20260706121700 +0800" channel="415">
     <title>第1时评</title>
     </programme>
-  <programme start="20260706121500 +0800" stop="20260706130000 +0800" channel="415">
+  <programme start="20260706121700 +0800" stop="20260706124800 +0800" channel="415">
     <title>网安天下</title>
     </programme>
-  <programme start="20260706130000 +0800" stop="20260706140000 +0800" channel="415">
+  <programme start="20260706124800 +0800" stop="20260706133000 +0800" channel="415">
     <title>精武陈真(16)</title>
     </programme>
-  <programme start="20260706140000 +0800" stop="20260706150000 +0800" channel="415">
+  <programme start="20260706133000 +0800" stop="20260706134800 +0800" channel="415">
+    <title>专题</title>
+    </programme>
+  <programme start="20260706134800 +0800" stop="20260706142900 +0800" channel="415">
     <title>精武陈真(17)</title>
     </programme>
-  <programme start="20260706150000 +0800" stop="20260706155000 +0800" channel="415">
+  <programme start="20260706142900 +0800" stop="20260706144800 +0800" channel="415">
+    <title>专题</title>
+    </programme>
+  <programme start="20260706144800 +0800" stop="20260706152900 +0800" channel="415">
     <title>精武陈真(18)</title>
     </programme>
-  <programme start="20260706155000 +0800" stop="20260706164000 +0800" channel="415">
+  <programme start="20260706152900 +0800" stop="20260706154200 +0800" channel="415">
+    <title>专题</title>
+    </programme>
+  <programme start="20260706154200 +0800" stop="20260706163200 +0800" channel="415">
     <title>精武陈真(19)</title>
     </programme>
-  <programme start="20260706164000 +0800" stop="20260706173700 +0800" channel="415">
+  <programme start="20260706163200 +0800" stop="20260706171900 +0800" channel="415">
     <title>精武陈真(20)</title>
     </programme>
-  <programme start="20260706173700 +0800" stop="20260706174700 +0800" channel="415">
-    <title>广告专题</title>
+  <programme start="20260706171900 +0800" stop="20260706172500 +0800" channel="415">
+    <title>多大点事儿(4)</title>
+    </programme>
+  <programme start="20260706172500 +0800" stop="20260706173600 +0800" channel="415">
+    <title>多大点事儿(5)</title>
+    </programme>
+  <programme start="20260706173600 +0800" stop="20260706174700 +0800" channel="415">
+    <title>专题</title>
     </programme>
   <programme start="20260706174700 +0800" stop="20260706182000 +0800" channel="415">
     <title>都市路路通</title>
@@ -33878,37 +33902,37 @@
   <programme start="20260706182000 +0800" stop="20260706191500 +0800" channel="415">
     <title>第一现场</title>
     </programme>
-  <programme start="20260706191500 +0800" stop="20260706193000 +0800" channel="415">
+  <programme start="20260706191500 +0800" stop="20260706193100 +0800" channel="415">
     <title>第1时评</title>
     </programme>
-  <programme start="20260706193000 +0800" stop="20260706200000 +0800" channel="415">
+  <programme start="20260706193100 +0800" stop="20260706200000 +0800" channel="415">
     <title>法观天下</title>
     </programme>
-  <programme start="20260706200000 +0800" stop="20260706202000 +0800" channel="415">
+  <programme start="20260706200000 +0800" stop="20260706201600 +0800" channel="415">
     <title>直播深圳</title>
     </programme>
-  <programme start="20260706202000 +0800" stop="20260706203000 +0800" channel="415">
+  <programme start="20260706201600 +0800" stop="20260706202800 +0800" channel="415">
     <title>龙华十分</title>
     </programme>
-  <programme start="20260706203000 +0800" stop="20260706211500 +0800" channel="415">
+  <programme start="20260706202800 +0800" stop="20260706211100 +0800" channel="415">
     <title>危险关系(17)</title>
     </programme>
-  <programme start="20260706211500 +0800" stop="20260706220000 +0800" channel="415">
+  <programme start="20260706211100 +0800" stop="20260706215600 +0800" channel="415">
     <title>危险关系(18)</title>
     </programme>
-  <programme start="20260706220000 +0800" stop="20260706224500 +0800" channel="415">
+  <programme start="20260706215600 +0800" stop="20260706223800 +0800" channel="415">
     <title>危险关系(19)</title>
     </programme>
-  <programme start="20260706224500 +0800" stop="20260706233000 +0800" channel="415">
+  <programme start="20260706223800 +0800" stop="20260706232200 +0800" channel="415">
     <title>危险关系(20)</title>
     </programme>
-  <programme start="20260706233000 +0800" stop="20260707000000 +0800" channel="415">
+  <programme start="20260706232200 +0800" stop="20260707000000 +0800" channel="415">
     <title>危险关系(21)</title>
     </programme>
   <programme start="20260707000000 +0800" stop="20260707000001 +0800" channel="415">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260707000001 +0800" stop="20260707001000 +0800" channel="415">
+  <programme start="20260707000001 +0800" stop="20260707001100 +0800" channel="415">
     <title>危险关系(21)</title>
     </programme>
   <channel id="416">
@@ -33932,73 +33956,88 @@
   <programme start="20260706033100 +0800" stop="20260706041300 +0800" channel="416">
     <title>向着炮火前进(32)</title>
     </programme>
-  <programme start="20260706041300 +0800" stop="20260706070000 +0800" channel="416">
+  <programme start="20260706041300 +0800" stop="20260706071200 +0800" channel="416">
     <title>测试卡</title>
     </programme>
-  <programme start="20260706070000 +0800" stop="20260706071300 +0800" channel="416">
-    <title>开台</title>
-    </programme>
-  <programme start="20260706071300 +0800" stop="20260706080000 +0800" channel="416">
+  <programme start="20260706071200 +0800" stop="20260706075900 +0800" channel="416">
     <title>我们的河山(10)</title>
     </programme>
-  <programme start="20260706080000 +0800" stop="20260706085000 +0800" channel="416">
+  <programme start="20260706075900 +0800" stop="20260706084800 +0800" channel="416">
     <title>我们的河山(11)</title>
     </programme>
-  <programme start="20260706085000 +0800" stop="20260706094000 +0800" channel="416">
+  <programme start="20260706084800 +0800" stop="20260706093000 +0800" channel="416">
     <title>我们的河山(12)</title>
     </programme>
-  <programme start="20260706094000 +0800" stop="20260706103000 +0800" channel="416">
+  <programme start="20260706093000 +0800" stop="20260706094100 +0800" channel="416">
+    <title>专题</title>
+    </programme>
+  <programme start="20260706094100 +0800" stop="20260706102600 +0800" channel="416">
     <title>我们的河山(13)</title>
     </programme>
-  <programme start="20260706103000 +0800" stop="20260706111500 +0800" channel="416">
+  <programme start="20260706102600 +0800" stop="20260706111000 +0800" channel="416">
     <title>我们的河山(14)</title>
     </programme>
-  <programme start="20260706111500 +0800" stop="20260706121000 +0800" channel="416">
+  <programme start="20260706111000 +0800" stop="20260706115000 +0800" channel="416">
     <title>蝴蝶劫(16)</title>
     </programme>
-  <programme start="20260706121000 +0800" stop="20260706124500 +0800" channel="416">
+  <programme start="20260706115000 +0800" stop="20260706120400 +0800" channel="416">
+    <title>专题</title>
+    </programme>
+  <programme start="20260706120400 +0800" stop="20260706124900 +0800" channel="416">
     <title>蝴蝶劫(17)</title>
     </programme>
-  <programme start="20260706124500 +0800" stop="20260706134300 +0800" channel="416">
+  <programme start="20260706124900 +0800" stop="20260706133000 +0800" channel="416">
     <title>橙红年代(46)</title>
     </programme>
-  <programme start="20260706134300 +0800" stop="20260706144100 +0800" channel="416">
+  <programme start="20260706133000 +0800" stop="20260706134100 +0800" channel="416">
+    <title>专题</title>
+    </programme>
+  <programme start="20260706134100 +0800" stop="20260706142400 +0800" channel="416">
     <title>橙红年代(47)</title>
     </programme>
-  <programme start="20260706144100 +0800" stop="20260706153900 +0800" channel="416">
+  <programme start="20260706142400 +0800" stop="20260706151000 +0800" channel="416">
     <title>小夫妻(1)</title>
     </programme>
-  <programme start="20260706153900 +0800" stop="20260706163700 +0800" channel="416">
+  <programme start="20260706151000 +0800" stop="20260706152100 +0800" channel="416">
+    <title>专题</title>
+    </programme>
+  <programme start="20260706152100 +0800" stop="20260706160500 +0800" channel="416">
     <title>小夫妻(2)</title>
     </programme>
-  <programme start="20260706163700 +0800" stop="20260706175000 +0800" channel="416">
+  <programme start="20260706160500 +0800" stop="20260706161900 +0800" channel="416">
+    <title>专题</title>
+    </programme>
+  <programme start="20260706161900 +0800" stop="20260706170700 +0800" channel="416">
     <title>小夫妻(3)</title>
     </programme>
-  <programme start="20260706175000 +0800" stop="20260706183500 +0800" channel="416">
+  <programme start="20260706170700 +0800" stop="20260706175000 +0800" channel="416">
+    <title>小夫妻(4)</title>
+    </programme>
+  <programme start="20260706175000 +0800" stop="20260706183600 +0800" channel="416">
     <title>玉茗茶骨(4)</title>
     </programme>
-  <programme start="20260706183500 +0800" stop="20260706192500 +0800" channel="416">
+  <programme start="20260706183600 +0800" stop="20260706192100 +0800" channel="416">
     <title>玉茗茶骨(5)</title>
     </programme>
-  <programme start="20260706192500 +0800" stop="20260706200500 +0800" channel="416">
+  <programme start="20260706192100 +0800" stop="20260706200800 +0800" channel="416">
     <title>血色黎明(34)</title>
     </programme>
-  <programme start="20260706200500 +0800" stop="20260706205000 +0800" channel="416">
+  <programme start="20260706200800 +0800" stop="20260706205300 +0800" channel="416">
     <title>血色黎明(35)</title>
     </programme>
-  <programme start="20260706205000 +0800" stop="20260706213500 +0800" channel="416">
+  <programme start="20260706205300 +0800" stop="20260706213700 +0800" channel="416">
     <title>血色黎明(36)</title>
     </programme>
-  <programme start="20260706213500 +0800" stop="20260706221500 +0800" channel="416">
+  <programme start="20260706213700 +0800" stop="20260706222000 +0800" channel="416">
     <title>血色黎明(37)</title>
     </programme>
-  <programme start="20260706221500 +0800" stop="20260706225500 +0800" channel="416">
+  <programme start="20260706222000 +0800" stop="20260706230400 +0800" channel="416">
     <title>血色黎明(38)</title>
     </programme>
-  <programme start="20260706225500 +0800" stop="20260706234000 +0800" channel="416">
+  <programme start="20260706230400 +0800" stop="20260706234500 +0800" channel="416">
     <title>山河同在(48)</title>
     </programme>
-  <programme start="20260706234000 +0800" stop="20260707000000 +0800" channel="416">
+  <programme start="20260706234500 +0800" stop="20260707000000 +0800" channel="416">
     <title>山河同在(49)</title>
     </programme>
   <programme start="20260707000000 +0800" stop="20260707000001 +0800" channel="416">
@@ -34010,271 +34049,112 @@
   <channel id="417">
     <display-name>深圳少儿</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706003500 +0800" channel="417">
+  <programme start="20260706000000 +0800" stop="20260706171200 +0800" channel="417">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706003500 +0800" stop="20260706065800 +0800" channel="417">
-    <title>测试卡</title>
-    </programme>
-  <programme start="20260706065800 +0800" stop="20260706070000 +0800" channel="417">
-    <title>开台礼貌片、宣传</title>
-    </programme>
-  <programme start="20260706070000 +0800" stop="20260706070700 +0800" channel="417">
-    <title>毛毛镇Ⅴ(17)</title>
-    </programme>
-  <programme start="20260706070700 +0800" stop="20260706071400 +0800" channel="417">
-    <title>毛毛镇Ⅴ(18)</title>
-    </programme>
-  <programme start="20260706071400 +0800" stop="20260706072100 +0800" channel="417">
-    <title>毛毛镇Ⅴ(19)</title>
-    </programme>
-  <programme start="20260706072100 +0800" stop="20260706072800 +0800" channel="417">
-    <title>毛毛镇Ⅴ(20)</title>
-    </programme>
-  <programme start="20260706072800 +0800" stop="20260706073500 +0800" channel="417">
-    <title>毛毛镇Ⅴ(21)</title>
-    </programme>
-  <programme start="20260706073500 +0800" stop="20260706074100 +0800" channel="417">
-    <title>毛毛镇Ⅴ(22)</title>
-    </programme>
-  <programme start="20260706074100 +0800" stop="20260706074800 +0800" channel="417">
-    <title>毛毛镇Ⅴ(23)</title>
-    </programme>
-  <programme start="20260706074800 +0800" stop="20260706075500 +0800" channel="417">
-    <title>毛毛镇Ⅴ(24)</title>
-    </programme>
-  <programme start="20260706075500 +0800" stop="20260706080200 +0800" channel="417">
-    <title>毛毛镇Ⅴ(25)</title>
-    </programme>
-  <programme start="20260706080200 +0800" stop="20260706080800 +0800" channel="417">
-    <title>毛毛镇Ⅴ(26)</title>
-    </programme>
-  <programme start="20260706080800 +0800" stop="20260706081500 +0800" channel="417">
-    <title>毛毛镇Ⅴ(27)</title>
-    </programme>
-  <programme start="20260706081500 +0800" stop="20260706082200 +0800" channel="417">
-    <title>毛毛镇Ⅴ(28)</title>
-    </programme>
-  <programme start="20260706082200 +0800" stop="20260706082900 +0800" channel="417">
-    <title>毛毛镇Ⅴ(29)</title>
-    </programme>
-  <programme start="20260706082900 +0800" stop="20260706083500 +0800" channel="417">
-    <title>毛毛镇Ⅴ(30)</title>
-    </programme>
-  <programme start="20260706083500 +0800" stop="20260706084200 +0800" channel="417">
-    <title>毛毛镇Ⅴ(31)</title>
-    </programme>
-  <programme start="20260706084200 +0800" stop="20260706085000 +0800" channel="417">
-    <title>毛毛镇Ⅴ(32)</title>
-    </programme>
-  <programme start="20260706085000 +0800" stop="20260706085900 +0800" channel="417">
-    <title>毛毛镇Ⅴ(33)</title>
-    </programme>
-  <programme start="20260706085900 +0800" stop="20260706091100 +0800" channel="417">
-    <title>百变校巴Ⅴ(4)</title>
-    </programme>
-  <programme start="20260706091100 +0800" stop="20260706092400 +0800" channel="417">
-    <title>百变校巴Ⅴ(5)</title>
-    </programme>
-  <programme start="20260706092400 +0800" stop="20260706093700 +0800" channel="417">
-    <title>百变校巴Ⅴ(6)</title>
-    </programme>
-  <programme start="20260706093700 +0800" stop="20260706094900 +0800" channel="417">
-    <title>百变校巴Ⅴ(7)</title>
-    </programme>
-  <programme start="20260706094900 +0800" stop="20260706100200 +0800" channel="417">
-    <title>百变校巴Ⅴ(8)</title>
-    </programme>
-  <programme start="20260706100200 +0800" stop="20260706101500 +0800" channel="417">
-    <title>百变校巴Ⅴ(9)</title>
-    </programme>
-  <programme start="20260706101500 +0800" stop="20260706102800 +0800" channel="417">
-    <title>百变校巴Ⅴ(10)</title>
-    </programme>
-  <programme start="20260706102800 +0800" stop="20260706104200 +0800" channel="417">
-    <title>百变校巴Ⅴ(11)</title>
-    </programme>
-  <programme start="20260706104200 +0800" stop="20260706105500 +0800" channel="417">
-    <title>百变校巴Ⅴ(12)</title>
-    </programme>
-  <programme start="20260706105500 +0800" stop="20260706110900 +0800" channel="417">
-    <title>百变校巴Ⅴ(13)</title>
-    </programme>
-  <programme start="20260706110900 +0800" stop="20260706112200 +0800" channel="417">
-    <title>百变校巴Ⅴ(14)</title>
-    </programme>
-  <programme start="20260706112200 +0800" stop="20260706113600 +0800" channel="417">
-    <title>百变校巴Ⅴ(15)</title>
-    </programme>
-  <programme start="20260706113600 +0800" stop="20260706114900 +0800" channel="417">
-    <title>百变校巴Ⅴ(16)</title>
-    </programme>
-  <programme start="20260706114900 +0800" stop="20260706120300 +0800" channel="417">
-    <title>百变校巴Ⅴ(17)</title>
-    </programme>
-  <programme start="20260706120300 +0800" stop="20260706121600 +0800" channel="417">
-    <title>百变校巴Ⅴ(18)</title>
-    </programme>
-  <programme start="20260706121600 +0800" stop="20260706123000 +0800" channel="417">
-    <title>百变校巴Ⅴ(19)</title>
-    </programme>
-  <programme start="20260706123000 +0800" stop="20260706124400 +0800" channel="417">
-    <title>谈心微短剧(28)、教育局微短剧</title>
-    </programme>
-  <programme start="20260706124400 +0800" stop="20260706125900 +0800" channel="417">
-    <title>百变校巴之超学先锋Ⅲ(19)</title>
-    </programme>
-  <programme start="20260706125900 +0800" stop="20260706131500 +0800" channel="417">
-    <title>百变校巴之超学先锋Ⅲ(20)</title>
-    </programme>
-  <programme start="20260706131500 +0800" stop="20260706133000 +0800" channel="417">
-    <title>百变校巴之超学先锋Ⅲ(21)</title>
-    </programme>
-  <programme start="20260706133000 +0800" stop="20260706134600 +0800" channel="417">
-    <title>百变校巴之超学先锋Ⅲ(22)</title>
-    </programme>
-  <programme start="20260706134600 +0800" stop="20260706140100 +0800" channel="417">
-    <title>百变校巴之超学先锋Ⅲ(23)</title>
-    </programme>
-  <programme start="20260706140100 +0800" stop="20260706141700 +0800" channel="417">
-    <title>百变校巴之超学先锋Ⅲ(24)</title>
-    </programme>
-  <programme start="20260706141700 +0800" stop="20260706143400 +0800" channel="417">
-    <title>百变校巴之超学先锋Ⅲ(25)</title>
-    </programme>
-  <programme start="20260706143400 +0800" stop="20260706145200 +0800" channel="417">
-    <title>百变校巴之超学先锋Ⅲ(26)</title>
-    </programme>
-  <programme start="20260706145200 +0800" stop="20260706150400 +0800" channel="417">
-    <title>猪猪侠之恐龙日记Ⅷ(18)</title>
-    </programme>
-  <programme start="20260706150400 +0800" stop="20260706151600 +0800" channel="417">
-    <title>猪猪侠之恐龙日记Ⅷ(19)</title>
-    </programme>
-  <programme start="20260706151600 +0800" stop="20260706152900 +0800" channel="417">
-    <title>猪猪侠之恐龙日记Ⅷ(20)</title>
-    </programme>
-  <programme start="20260706152900 +0800" stop="20260706154100 +0800" channel="417">
-    <title>猪猪侠之恐龙日记Ⅷ(21)</title>
-    </programme>
-  <programme start="20260706154100 +0800" stop="20260706155300 +0800" channel="417">
-    <title>猪猪侠之恐龙日记Ⅷ(22)</title>
-    </programme>
-  <programme start="20260706155300 +0800" stop="20260706160600 +0800" channel="417">
-    <title>猪猪侠之恐龙日记Ⅷ(23)</title>
-    </programme>
-  <programme start="20260706160600 +0800" stop="20260706161800 +0800" channel="417">
-    <title>猪猪侠之恐龙日记Ⅷ(24)</title>
-    </programme>
-  <programme start="20260706161800 +0800" stop="20260706163000 +0800" channel="417">
-    <title>猪猪侠之恐龙日记Ⅷ(25)</title>
-    </programme>
-  <programme start="20260706163000 +0800" stop="20260706164300 +0800" channel="417">
-    <title>猪猪侠之恐龙日记Ⅷ(26)</title>
-    </programme>
-  <programme start="20260706164300 +0800" stop="20260706165500 +0800" channel="417">
-    <title>乐比悠悠学成语(1)</title>
-    </programme>
-  <programme start="20260706165500 +0800" stop="20260706170700 +0800" channel="417">
-    <title>乐比悠悠学成语(2)</title>
-    </programme>
-  <programme start="20260706170700 +0800" stop="20260706172000 +0800" channel="417">
+  <programme start="20260706171200 +0800" stop="20260706172200 +0800" channel="417">
     <title>乐比悠悠学成语(3)</title>
     </programme>
-  <programme start="20260706172000 +0800" stop="20260706173300 +0800" channel="417">
+  <programme start="20260706172200 +0800" stop="20260706173500 +0800" channel="417">
     <title>乐比悠悠学成语(4)</title>
     </programme>
-  <programme start="20260706173300 +0800" stop="20260706174600 +0800" channel="417">
+  <programme start="20260706173500 +0800" stop="20260706174500 +0800" channel="417">
     <title>乐比悠悠学成语(5)</title>
     </programme>
-  <programme start="20260706174600 +0800" stop="20260706180000 +0800" channel="417">
+  <programme start="20260706174500 +0800" stop="20260706175700 +0800" channel="417">
     <title>乐比悠悠学成语(6)</title>
     </programme>
-  <programme start="20260706180000 +0800" stop="20260706181200 +0800" channel="417">
+  <programme start="20260706175700 +0800" stop="20260706180000 +0800" channel="417">
+    <title>短视频:2026六一晚会-龙的传人</title>
+    </programme>
+  <programme start="20260706180000 +0800" stop="20260706181300 +0800" channel="417">
     <title>深圳下午茶:交警无人机</title>
     </programme>
-  <programme start="20260706181200 +0800" stop="20260706182400 +0800" channel="417">
+  <programme start="20260706181300 +0800" stop="20260706182300 +0800" channel="417">
     <title>熊出没之赵琳的探险日记(1)</title>
     </programme>
-  <programme start="20260706182400 +0800" stop="20260706183600 +0800" channel="417">
+  <programme start="20260706182300 +0800" stop="20260706183300 +0800" channel="417">
     <title>熊出没之赵琳的探险日记(2)</title>
     </programme>
-  <programme start="20260706183600 +0800" stop="20260706184600 +0800" channel="417">
+  <programme start="20260706183300 +0800" stop="20260706184300 +0800" channel="417">
     <title>熊出没之赵琳的探险日记(3)</title>
     </programme>
-  <programme start="20260706184600 +0800" stop="20260706185700 +0800" channel="417">
+  <programme start="20260706184300 +0800" stop="20260706185300 +0800" channel="417">
     <title>熊出没之赵琳的探险日记(4)</title>
     </programme>
-  <programme start="20260706185700 +0800" stop="20260706190700 +0800" channel="417">
+  <programme start="20260706185300 +0800" stop="20260706190400 +0800" channel="417">
     <title>熊出没之赵琳的探险日记(5)</title>
     </programme>
-  <programme start="20260706190700 +0800" stop="20260706191800 +0800" channel="417">
+  <programme start="20260706190400 +0800" stop="20260706191400 +0800" channel="417">
     <title>熊出没之赵琳的探险日记(6)</title>
     </programme>
-  <programme start="20260706191800 +0800" stop="20260706192800 +0800" channel="417">
+  <programme start="20260706191400 +0800" stop="20260706192400 +0800" channel="417">
     <title>熊出没之赵琳的探险日记(7)</title>
     </programme>
-  <programme start="20260706192800 +0800" stop="20260706193900 +0800" channel="417">
+  <programme start="20260706192400 +0800" stop="20260706193400 +0800" channel="417">
     <title>熊出没之赵琳的探险日记(8)</title>
     </programme>
-  <programme start="20260706193900 +0800" stop="20260706194900 +0800" channel="417">
+  <programme start="20260706193400 +0800" stop="20260706194400 +0800" channel="417">
     <title>熊出没之赵琳的探险日记(9)</title>
     </programme>
-  <programme start="20260706194900 +0800" stop="20260706200000 +0800" channel="417">
+  <programme start="20260706194400 +0800" stop="20260706195700 +0800" channel="417">
     <title>熊出没之赵琳的探险日记(10)</title>
     </programme>
-  <programme start="20260706200000 +0800" stop="20260706201600 +0800" channel="417">
+  <programme start="20260706195700 +0800" stop="20260706200200 +0800" channel="417">
+    <title>短视频:2026六一晚会</title>
+    </programme>
+  <programme start="20260706200200 +0800" stop="20260706201400 +0800" channel="417">
     <title>喜羊羊与灰太狼之疯狂超能营(30)</title>
     </programme>
-  <programme start="20260706201600 +0800" stop="20260706202900 +0800" channel="417">
+  <programme start="20260706201400 +0800" stop="20260706202600 +0800" channel="417">
     <title>喜羊羊与灰太狼之疯狂超能营(31)</title>
     </programme>
-  <programme start="20260706202900 +0800" stop="20260706204200 +0800" channel="417">
+  <programme start="20260706202600 +0800" stop="20260706203900 +0800" channel="417">
     <title>喜羊羊与灰太狼之疯狂超能营(32)</title>
     </programme>
-  <programme start="20260706204200 +0800" stop="20260706205500 +0800" channel="417">
+  <programme start="20260706203900 +0800" stop="20260706205100 +0800" channel="417">
     <title>喜羊羊与灰太狼之疯狂超能营(33)</title>
     </programme>
-  <programme start="20260706205500 +0800" stop="20260706210800 +0800" channel="417">
+  <programme start="20260706205100 +0800" stop="20260706210300 +0800" channel="417">
     <title>喜羊羊与灰太狼之疯狂超能营(34)</title>
     </programme>
-  <programme start="20260706210800 +0800" stop="20260706212100 +0800" channel="417">
+  <programme start="20260706210300 +0800" stop="20260706211600 +0800" channel="417">
     <title>喜羊羊与灰太狼之疯狂超能营(35)</title>
     </programme>
-  <programme start="20260706212100 +0800" stop="20260706213400 +0800" channel="417">
+  <programme start="20260706211600 +0800" stop="20260706212800 +0800" channel="417">
     <title>喜羊羊与灰太狼之疯狂超能营(36)</title>
     </programme>
-  <programme start="20260706213400 +0800" stop="20260706214700 +0800" channel="417">
+  <programme start="20260706212800 +0800" stop="20260706214100 +0800" channel="417">
     <title>喜羊羊与灰太狼之疯狂超能营(37)</title>
     </programme>
-  <programme start="20260706214700 +0800" stop="20260706220000 +0800" channel="417">
+  <programme start="20260706214100 +0800" stop="20260706215300 +0800" channel="417">
     <title>喜羊羊与灰太狼之疯狂超能营(38)</title>
     </programme>
-  <programme start="20260706220000 +0800" stop="20260706221300 +0800" channel="417">
+  <programme start="20260706215300 +0800" stop="20260706220500 +0800" channel="417">
     <title>喜羊羊与灰太狼之疯狂超能营(39)</title>
     </programme>
-  <programme start="20260706221300 +0800" stop="20260706222600 +0800" channel="417">
+  <programme start="20260706220500 +0800" stop="20260706221800 +0800" channel="417">
     <title>喜羊羊与灰太狼之疯狂超能营(40)</title>
     </programme>
-  <programme start="20260706222600 +0800" stop="20260706223900 +0800" channel="417">
+  <programme start="20260706221800 +0800" stop="20260706223000 +0800" channel="417">
     <title>喜羊羊与灰太狼之疯狂超能营(41)</title>
     </programme>
-  <programme start="20260706223900 +0800" stop="20260706225200 +0800" channel="417">
+  <programme start="20260706223000 +0800" stop="20260706224300 +0800" channel="417">
     <title>喜羊羊与灰太狼之疯狂超能营(42)</title>
     </programme>
-  <programme start="20260706225200 +0800" stop="20260706230500 +0800" channel="417">
+  <programme start="20260706224300 +0800" stop="20260706230200 +0800" channel="417">
     <title>喜羊羊与灰太狼之疯狂超能营(43)</title>
     </programme>
-  <programme start="20260706230500 +0800" stop="20260706235200 +0800" channel="417">
+  <programme start="20260706230200 +0800" stop="20260706234900 +0800" channel="417">
     <title>生命树(15)</title>
     </programme>
-  <programme start="20260706235200 +0800" stop="20260707000000 +0800" channel="417">
+  <programme start="20260706234900 +0800" stop="20260707000000 +0800" channel="417">
     <title>生命树(16)</title>
     </programme>
   <programme start="20260707000000 +0800" stop="20260707000001 +0800" channel="417">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260707000001 +0800" stop="20260707003900 +0800" channel="417">
+  <programme start="20260707000001 +0800" stop="20260707003600 +0800" channel="417">
     <title>生命树(16)</title>
     </programme>
   <channel id="418">
@@ -34363,6 +34243,87 @@
     </programme>
   <programme start="20260706233000 +0800" stop="20260707000000 +0800" channel="418">
     <title>传奇</title>
+    </programme>
+  <channel id="419">
+    <display-name>深圳龙岗</display-name>
+    </channel>
+  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="419">
+    <title>由https://epg.136605.xyz提供节目单服务</title>
+    </programme>
+  <programme start="20260706000001 +0800" stop="20260706070000 +0800" channel="419">
+    <title>闭台</title>
+    </programme>
+  <programme start="20260706070000 +0800" stop="20260706073700 +0800" channel="419">
+    <title>新短秀新生活</title>
+    </programme>
+  <programme start="20260706073700 +0800" stop="20260706084900 +0800" channel="419">
+    <title>法治中国60分</title>
+    </programme>
+  <programme start="20260706084900 +0800" stop="20260706092200 +0800" channel="419">
+    <title>传奇</title>
+    </programme>
+  <programme start="20260706092200 +0800" stop="20260706100100 +0800" channel="419">
+    <title>新短秀新生活</title>
+    </programme>
+  <programme start="20260706100100 +0800" stop="20260706110900 +0800" channel="419">
+    <title>法治中国60分</title>
+    </programme>
+  <programme start="20260706110900 +0800" stop="20260706113800 +0800" channel="419">
+    <title>传奇</title>
+    </programme>
+  <programme start="20260706113800 +0800" stop="20260706121500 +0800" channel="419">
+    <title>新短秀新生活</title>
+    </programme>
+  <programme start="20260706121500 +0800" stop="20260706131400 +0800" channel="419">
+    <title>法治中国60分</title>
+    </programme>
+  <programme start="20260706131400 +0800" stop="20260706135000 +0800" channel="419">
+    <title>传奇</title>
+    </programme>
+  <programme start="20260706135000 +0800" stop="20260706142400 +0800" channel="419">
+    <title>新短秀新生活</title>
+    </programme>
+  <programme start="20260706142400 +0800" stop="20260706152300 +0800" channel="419">
+    <title>法治中国60分</title>
+    </programme>
+  <programme start="20260706152300 +0800" stop="20260706155400 +0800" channel="419">
+    <title>传奇</title>
+    </programme>
+  <programme start="20260706155400 +0800" stop="20260706163000 +0800" channel="419">
+    <title>新短秀新生活</title>
+    </programme>
+  <programme start="20260706163000 +0800" stop="20260706172700 +0800" channel="419">
+    <title>法治中国60分</title>
+    </programme>
+  <programme start="20260706172700 +0800" stop="20260706175800 +0800" channel="419">
+    <title>传奇</title>
+    </programme>
+  <programme start="20260706175800 +0800" stop="20260706183100 +0800" channel="419">
+    <title>新短秀新生活</title>
+    </programme>
+  <programme start="20260706183100 +0800" stop="20260706193000 +0800" channel="419">
+    <title>法治中国60分</title>
+    </programme>
+  <programme start="20260706193000 +0800" stop="20260706195200 +0800" channel="419">
+    <title>龙岗新闻</title>
+    </programme>
+  <programme start="20260706195200 +0800" stop="20260706202500 +0800" channel="419">
+    <title>新短秀新生活</title>
+    </programme>
+  <programme start="20260706202500 +0800" stop="20260706212600 +0800" channel="419">
+    <title>法治中国60分</title>
+    </programme>
+  <programme start="20260706212600 +0800" stop="20260706215700 +0800" channel="419">
+    <title>传奇</title>
+    </programme>
+  <programme start="20260706215700 +0800" stop="20260706223000 +0800" channel="419">
+    <title>新短秀新生活</title>
+    </programme>
+  <programme start="20260706223000 +0800" stop="20260706224800 +0800" channel="419">
+    <title>龙岗新闻</title>
+    </programme>
+  <programme start="20260706224800 +0800" stop="20260707000000 +0800" channel="419">
+    <title>法治中国60分</title>
     </programme>
   <channel id="420">
     <display-name>佛山综合</display-name>
@@ -41723,11 +41684,8 @@
     <display-name>ROCK Action</display-name>
     <display-name>ROCK Action</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="481">
+  <programme start="20260706000000 +0800" stop="20260706003500 +0800" channel="481">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706003500 +0800" channel="481">
-    <title>雙龍會(護)</title>
     </programme>
   <programme start="20260706003500 +0800" stop="20260706022000 +0800" channel="481">
     <title>玩命對戰</title>
@@ -42015,12 +41973,6 @@
     </programme>
   <programme start="20260706000001 +0800" stop="20260706003000 +0800" channel="486">
     <title>Top 20</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="486">
-    <title>女運動員</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706003000 +0800" channel="486">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
   <programme start="20260706003000 +0800" stop="20260706010000 +0800" channel="486">
     <title>Invincible</title>
@@ -42358,11 +42310,8 @@
     <display-name>Global Trekker</display-name>
     <display-name>Global Trekker</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="489">
+  <programme start="20260706000000 +0800" stop="20260706000500 +0800" channel="489">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000500 +0800" channel="489">
-    <title>貓頭鷹的秘密生活(普)</title>
     </programme>
   <programme start="20260706000500 +0800" stop="20260706005500 +0800" channel="489">
     <title>貓頭鷹的秘密生活 #2</title>
@@ -42475,12 +42424,6 @@
     </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="490">
     <title>Best Of Pets</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="490">
-    <title>狗狗搜救隊</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="490">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
   <programme start="20260706000001 +0800" stop="20260706020000 +0800" channel="490">
     <title>寵物安眠曲:鼠類</title>
@@ -43646,11 +43589,8 @@
     <display-name>TRACE Urban</display-name>
     <display-name>TRACE Urban</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="505">
+  <programme start="20260706000000 +0800" stop="20260706020000 +0800" channel="505">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706020000 +0800" channel="505">
-    <title>週末情調</title>
     </programme>
   <programme start="20260706020000 +0800" stop="20260706024500 +0800" channel="505">
     <title>HIT 10</title>
@@ -46473,13 +46413,13 @@
   <programme start="20260706035000 +0800" stop="20260706060000 +0800" channel="532">
     <title>Campeonato do Mundo FIFA 2026 - Oitavos de Final: Brasil vs Noruega (Directo)</title>
     </programme>
-  <programme start="20260706060000 +0800" stop="20260706075000 +0800" channel="532">
+  <programme start="20260706060000 +0800" stop="20260706085000 +0800" channel="532">
     <title>RTPi Directo</title>
     </programme>
-  <programme start="20260706075000 +0800" stop="20260706100000 +0800" channel="532">
+  <programme start="20260706085000 +0800" stop="20260706110000 +0800" channel="532">
     <title>Campeonato do Mundo FIFA 2026 - Oitavos de Final: México vs Inglaterra (Directo)</title>
     </programme>
-  <programme start="20260706100000 +0800" stop="20260706133000 +0800" channel="532">
+  <programme start="20260706110000 +0800" stop="20260706133000 +0800" channel="532">
     <title>RTPi Directo</title>
     </programme>
   <programme start="20260706133000 +0800" stop="20260706143000 +0800" channel="532">
@@ -46491,20 +46431,20 @@
   <programme start="20260706145500 +0800" stop="20260706154000 +0800" channel="532">
     <title>Queridos Papás</title>
     </programme>
-  <programme start="20260706154000 +0800" stop="20260706155500 +0800" channel="532">
+  <programme start="20260706154000 +0800" stop="20260706160000 +0800" channel="532">
     <title>RoboCar Poli - Museu das Canções - Fim</title>
     </programme>
-  <programme start="20260706155500 +0800" stop="20260706162000 +0800" channel="532">
+  <programme start="20260706160000 +0800" stop="20260706164000 +0800" channel="532">
+    <title>Conferência de Imprensa do Conselho Executivo (Directo)</title>
+    </programme>
+  <programme start="20260706164000 +0800" stop="20260706171500 +0800" channel="532">
     <title>Os Smurfs</title>
     </programme>
-  <programme start="20260706162000 +0800" stop="20260706164500 +0800" channel="532">
+  <programme start="20260706171500 +0800" stop="20260706174000 +0800" channel="532">
     <title>O Gato da Cartola</title>
     </programme>
-  <programme start="20260706164500 +0800" stop="20260706170000 +0800" channel="532">
+  <programme start="20260706174000 +0800" stop="20260706175000 +0800" channel="532">
     <title>Mensagem Numa Garrafa T1</title>
-    </programme>
-  <programme start="20260706170000 +0800" stop="20260706175000 +0800" channel="532">
-    <title>Renascer (Repetição)</title>
     </programme>
   <programme start="20260706175000 +0800" stop="20260706190000 +0800" channel="532">
     <title>Downton Abbey T5</title>
@@ -46516,7 +46456,7 @@
     <title>Telejornal</title>
     </programme>
   <programme start="20260706204500 +0800" stop="20260706214000 +0800" channel="532">
-    <title>Semanário</title>
+    <title>Caminhando com os Elefantes</title>
     </programme>
   <programme start="20260706214000 +0800" stop="20260706223000 +0800" channel="532">
     <title>Renascer</title>
@@ -46582,14 +46522,8 @@
   <programme start="20260706103000 +0800" stop="20260706110000 +0800" channel="533">
     <title>新聞報道</title>
     </programme>
-  <programme start="20260706110000 +0800" stop="20260706111200 +0800" channel="533">
+  <programme start="20260706110000 +0800" stop="20260706120000 +0800" channel="533">
     <title>新聞報道</title>
-    </programme>
-  <programme start="20260706111200 +0800" stop="20260706112000 +0800" channel="533">
-    <title>中國軟實力</title>
-    </programme>
-  <programme start="20260706112000 +0800" stop="20260706120000 +0800" channel="533">
-    <title>中國城市動態</title>
     </programme>
   <programme start="20260706120000 +0800" stop="20260706122000 +0800" channel="533">
     <title>新聞報道</title>
@@ -47003,12 +46937,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="537">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="537">
-    <title>大時代【普】(E644)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="537">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706020000 +0800" channel="537">
     <title>綜藝大集合【普】(E1275)</title>
     </programme>
@@ -47109,12 +47037,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="538">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="538">
-    <title>青春異言堂【普】(E557)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="538">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="538">
     <title>民視全球新聞【普】</title>
     </programme>
@@ -47209,11 +47131,8 @@
     <display-name>民视</display-name>
     <display-name>民視</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="539">
+  <programme start="20260706000000 +0800" stop="20260706013000 +0800" channel="539">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706013000 +0800" channel="539">
-    <title>綜藝大集合【普】(E1276)</title>
     </programme>
   <programme start="20260706013000 +0800" stop="20260706023000 +0800" channel="539">
     <title>台灣演義【普】(E792)</title>
@@ -47327,12 +47246,6 @@
     <display-name>大爱电视</display-name>
     <display-name>大愛電視</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="540">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="540">
-    <title>青春愛讀書(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="540">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -47550,11 +47463,8 @@
     <display-name>中视</display-name>
     <display-name>中視</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="541">
+  <programme start="20260706000000 +0800" stop="20260706001500 +0800" channel="541">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706001500 +0800" channel="541">
-    <title>大陸尋奇(普)</title>
     </programme>
   <programme start="20260706001500 +0800" stop="20260706021500 +0800" channel="541">
     <title>飢餓遊戲愛妮雅化妝品絲瓜露(普)</title>
@@ -47641,12 +47551,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="542">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="542">
-    <title>星空下的黑潮島嶼</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="542">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706020000 +0800" channel="542">
     <title>請世界吃桌</title>
     </programme>
@@ -47717,12 +47621,6 @@
     <display-name>三立综合台</display-name>
     <display-name>三立綜合台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="543">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="543">
-    <title>旅行東西軍(普)(N)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="543">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -47802,13 +47700,7 @@
     <display-name>客家电视台</display-name>
     <display-name>客家電視台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="544">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706003000 +0800" channel="544">
-    <title>聚焦國際第 734 集</title>
-    </programme>
-  <programme start="20260706003000 +0800" stop="20260706060000 +0800" channel="544">
+  <programme start="20260706000000 +0800" stop="20260706060000 +0800" channel="544">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
   <programme start="20260706060000 +0800" stop="20260706063000 +0800" channel="544">
@@ -47902,9 +47794,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="545">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000200 +0800" channel="545">
-    <title>娛樂百分百精選-32</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="545">
     <title>WTO姐妹會-20260304</title>
     </programme>
@@ -47987,12 +47876,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="546">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="546">
-    <title>TVBS文茜的世界財經周報</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="546">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="546">
     <title>11點熱吵店</title>
     </programme>
@@ -48069,12 +47952,6 @@
     <display-name>靖天综合台</display-name>
     <display-name>靖天綜合台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="547">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="547">
-    <title>今晚開讚吧(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="547">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -48157,12 +48034,6 @@
     <display-name>靖天日本台</display-name>
     <display-name>靖天日本台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="548">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="548">
-    <title>環遊亞洲趣味之旅(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="548">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -48293,12 +48164,6 @@
     <display-name>新唐人亚太台</display-name>
     <display-name>新唐人亞太台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="549">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="549">
-    <title>Piano Talk 6</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="549">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -48465,12 +48330,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="550">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="550">
-    <title>DIPLOMATS ARCHIVE: HIDDEN STORIES(普)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="550">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="550">
     <title>GUGAK THE MUSIC OF KOREA(普)</title>
     </programme>
@@ -48625,12 +48484,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="551">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="551">
-    <title>來去部落kivala-新春特輯(普)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="551">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="551">
     <title>Radiw不打烊(普)</title>
     </programme>
@@ -48725,12 +48578,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="552">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="552">
-    <title>全台會員購給利》7月下單現折200元(每人限乙次)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="552">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="552">
     <title>新會員有禮》7月首購送200元現金券！</title>
     </programme>
@@ -48807,11 +48654,8 @@
     <display-name>LiveABC互动英语频道</display-name>
     <display-name>LiveABC互動英語頻道</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="553">
+  <programme start="20260706000000 +0800" stop="20260706001400 +0800" channel="553">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706001400 +0800" channel="553">
-    <title>ABC互動英語-20260702【普】</title>
     </programme>
   <programme start="20260706001400 +0800" stop="20260706003400 +0800" channel="553">
     <title>ABC互動英語-20260706【普】</title>
@@ -48994,12 +48838,6 @@
     <display-name>达文西频道</display-name>
     <display-name>達文西頻道</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="554">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="554">
-    <title>華麗的冒險－冰島(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="554">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -49310,12 +49148,6 @@
     <display-name>ELTV生活英语台</display-name>
     <display-name>ELTV生活英語台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="555">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="555">
-    <title>看動畫學英語﹘Rainbow故事屋</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706003000 +0800" channel="555">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -49464,11 +49296,8 @@
     <display-name>Nick Jr. 儿童频道</display-name>
     <display-name>Nick Jr. 兒童頻道</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="556">
+  <programme start="20260706000000 +0800" stop="20260706001500 +0800" channel="556">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706001500 +0800" channel="556">
-    <title>泡泡先生一家(普)</title>
     </programme>
   <programme start="20260706001500 +0800" stop="20260706003000 +0800" channel="556">
     <title>泡泡先生一家(普)</title>
@@ -49723,12 +49552,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="557">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="557">
-    <title>長尾豹馬修一家親(普)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="557">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706001500 +0800" channel="557">
     <title>勞德之家(普)</title>
     </programme>
@@ -49931,11 +49754,8 @@
     <display-name>DreamWorks 梦工厂动画</display-name>
     <display-name>DreamWorks 夢工廠動畫</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="558">
+  <programme start="20260706000000 +0800" stop="20260706002000 +0800" channel="558">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706002000 +0800" channel="558">
-    <title>馴龍高手: 捍衛博克島(護)</title>
     </programme>
   <programme start="20260706002000 +0800" stop="20260706004500 +0800" channel="558">
     <title>巨怪獵人(護)</title>
@@ -50118,12 +49938,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="559">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="559">
-    <title>飛天妙妙屋(普)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="559">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706003000 +0800" channel="559">
     <title>IU秀台語(普)</title>
     </programme>
@@ -50260,12 +50074,6 @@
     <display-name>靖洋卡通Nice Bingo</display-name>
     <display-name>靖洋卡通Nice Bingo</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="560">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="560">
-    <title>超人力霸王傑洛：英雄傳(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="560">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -50417,12 +50225,6 @@
     <display-name>MOMO亲子台</display-name>
     <display-name>MOMO親子台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="561">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="561">
-    <title>ABC故事屋 S2 EP08</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="561">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -50649,12 +50451,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="562">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="562">
-    <title>全台會員購給利》7月下單現折200元(每人限乙次)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="562">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="562">
     <title>新會員有禮》7月首購送200元現金券！</title>
     </programme>
@@ -50731,12 +50527,6 @@
     <display-name>镜电视新闻台</display-name>
     <display-name>鏡電視新聞台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="563">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="563">
-    <title>另一種注目(護)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="563">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -50819,12 +50609,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="564">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="564">
-    <title>東森夜線新聞</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="564">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706032000 +0800" channel="564">
     <title>東森新聞精選</title>
     </programme>
@@ -50862,12 +50646,6 @@
     <display-name>华视新闻</display-name>
     <display-name>華視新聞</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="565">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="565">
-    <title>華視夜間新聞</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="565">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -50948,7 +50726,7 @@
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
   <programme start="20260706000001 +0800" stop="20260706003000 +0800" channel="566">
-    <title>民視午夜新聞【普】</title>
+    <title>民視午夜新聞</title>
     </programme>
   <programme start="20260706003000 +0800" stop="20260706013000 +0800" channel="566">
     <title>台灣演義【普】(E792)</title>
@@ -51029,12 +50807,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="567">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="567">
-    <title>驚爆新聞線(首)(普)(N)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="567">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="567">
     <title>驚爆新聞線(首)(普)(N)</title>
     </programme>
@@ -51108,12 +50880,6 @@
     <display-name>TVBS新闻</display-name>
     <display-name>TVBS新聞</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="568">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="568">
-    <title>新聞夜視界</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="568">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -51196,12 +50962,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="569">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="569">
-    <title>57怪奇物語</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="569">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="569">
     <title>台灣大代誌</title>
     </programme>
@@ -51275,12 +51035,6 @@
     <display-name>中视新闻</display-name>
     <display-name>中視新聞</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="570">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="570">
-    <title>即時新聞現場(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="570">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -51360,12 +51114,6 @@
     <display-name>中天新闻台</display-name>
     <display-name>中天新聞台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="571">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="571">
-    <title>23洪流洞見</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="571">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -51460,12 +51208,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="572">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="572">
-    <title>The Circuit(普)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="572">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="572">
     <title>Bloomberg Wall Street Week(普)</title>
     </programme>
@@ -51539,11 +51281,8 @@
     <display-name>寰宇新闻台</display-name>
     <display-name>寰宇新聞台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="573">
+  <programme start="20260706000000 +0800" stop="20260706005500 +0800" channel="573">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706005500 +0800" channel="573">
-    <title>寰宇全球新聞(普)</title>
     </programme>
   <programme start="20260706005500 +0800" stop="20260706015500 +0800" channel="573">
     <title>寰宇整點新聞(普)</title>
@@ -51625,7 +51364,7 @@
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
   <programme start="20260706000001 +0800" stop="20260706005500 +0800" channel="574">
-    <title>噓你不知道的事                  (普)</title>
+    <title>噓你不知道的事</title>
     </programme>
   <programme start="20260706005500 +0800" stop="20260706015500 +0800" channel="574">
     <title>寰宇焦點新聞                    (普)</title>
@@ -51703,12 +51442,6 @@
     <display-name>SBN全球财经台</display-name>
     <display-name>SBN全球財經台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="575">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="575">
-    <title>飆股特快車 (重)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="575">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -51863,12 +51596,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="576">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="576">
-    <title>勞動力危機真相</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="576">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="576">
     <title>新聞大白話特報1500</title>
     </programme>
@@ -51948,12 +51675,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="577">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="577">
-    <title>全台會員購給利》7月下單現折200元(每人限乙次)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="577">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="577">
     <title>新會員有禮》7月首購送200元現金券！</title>
     </programme>
@@ -52030,11 +51751,8 @@
     <display-name>民视综艺台</display-name>
     <display-name>民視綜藝台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="578">
+  <programme start="20260706000000 +0800" stop="20260706002400 +0800" channel="578">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706002400 +0800" channel="578">
-    <title>綜藝新時代-第205集【普】</title>
     </programme>
   <programme start="20260706002400 +0800" stop="20260706015700 +0800" channel="578">
     <title>綜藝大集合-第1120集【普】</title>
@@ -52095,7 +51813,7 @@
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
   <programme start="20260706000001 +0800" stop="20260706003100 +0800" channel="579">
-    <title>豬哥會社-第136集【普】</title>
+    <title>豬哥會社-第136集</title>
     </programme>
   <programme start="20260706003100 +0800" stop="20260706014100 +0800" channel="579">
     <title>豬哥會社-第124集【普】</title>
@@ -52164,12 +51882,6 @@
     <display-name>靖天育乐台</display-name>
     <display-name>靖天育樂台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="580">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="580">
-    <title>全民星攻略(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="580">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -52261,12 +51973,6 @@
     <display-name>KLT-靖天国际台</display-name>
     <display-name>KLT-靖天國際台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="581">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="581">
-    <title>帶阿姐看世界  (普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="581">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -52421,12 +52127,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="582">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="582">
-    <title>台灣大代誌(普)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="582">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="582">
     <title>進擊的台灣(普)</title>
     </programme>
@@ -52503,12 +52203,6 @@
     <display-name>靖天信息台</display-name>
     <display-name>靖天資訊台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="583">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="583">
-    <title>台灣1001個故事(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="583">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -52603,12 +52297,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="584">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="584">
-    <title>SBS歌謠大戰</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="584">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="584">
     <title>SBS歌謠大戰</title>
     </programme>
@@ -52685,12 +52373,6 @@
     <display-name>韩国娱乐台 KMTV</display-name>
     <display-name>韓國娛樂台 KMTV</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="585">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="585">
-    <title>Genie TOP 100 第600集  (600_02)(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="585">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -52812,11 +52494,8 @@
     <display-name>ROCK Entertainment</display-name>
     <display-name>ROCK Entertainment</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="586">
+  <programme start="20260706000000 +0800" stop="20260706004500 +0800" channel="586">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706004500 +0800" channel="586">
-    <title>時光之輪(護)</title>
     </programme>
   <programme start="20260706004500 +0800" stop="20260706014500 +0800" channel="586">
     <title>時光之輪(護)</title>
@@ -52906,11 +52585,8 @@
     <display-name>Lifetime 娱乐频道</display-name>
     <display-name>Lifetime 娛樂頻道</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="587">
+  <programme start="20260706000000 +0800" stop="20260706011000 +0800" channel="587">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706011000 +0800" channel="587">
-    <title>寄宿學校謀殺案(護)</title>
     </programme>
   <programme start="20260706011000 +0800" stop="20260706021000 +0800" channel="587">
     <title>戰痘醫師：肌膚風暴 第2季(護)</title>
@@ -52985,12 +52661,6 @@
     <display-name>电影原声台CMusic</display-name>
     <display-name>電影原聲台CMusic</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="588">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="588">
-    <title>Finlandia(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="588">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -54396,11 +54066,8 @@
     <display-name>Mezzo Live HD</display-name>
     <display-name>Mezzo Live HD</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="589">
+  <programme start="20260706000000 +0800" stop="20260706000600 +0800" channel="589">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000600 +0800" channel="589">
-    <title>藝術舞蹈/盧布爾雅那音樂節:史特拉汶斯基《結婚》、《春之祭》</title>
     </programme>
   <programme start="20260706000600 +0800" stop="20260706020000 +0800" channel="589">
     <title>藝術舞蹈/荷蘭國家芭蕾舞團《瑪塔哈里》(Ted Brandsen編舞)</title>
@@ -54469,11 +54136,8 @@
     <display-name>CLASSICA 古典乐</display-name>
     <display-name>CLASSICA 古典樂</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="590">
+  <programme start="20260706000000 +0800" stop="20260706001800 +0800" channel="590">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706001800 +0800" channel="590">
-    <title>尼可萊：溫莎的風流婦人</title>
     </programme>
   <programme start="20260706001800 +0800" stop="20260706020200 +0800" channel="590">
     <title>歐洲音樂會在柏林</title>
@@ -54563,12 +54227,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="591">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="591">
-    <title>全台會員購給利》7月下單現折200元(每人限乙次)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="591">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="591">
     <title>新會員有禮》7月首購送200元現金券！</title>
     </programme>
@@ -54645,11 +54303,8 @@
     <display-name>getwin sport运动台</display-name>
     <display-name>getwin sport運動台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="592">
+  <programme start="20260706000000 +0800" stop="20260706000300 +0800" channel="592">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000300 +0800" channel="592">
-    <title>2026年 世界少棒聯盟LLB亞太區U13錦標賽 精彩重播</title>
     </programme>
   <programme start="20260706000300 +0800" stop="20260706064500 +0800" channel="592">
     <title>2026年 世界少棒聯盟LLB亞太區U13錦標賽 精彩重播</title>
@@ -54670,97 +54325,106 @@
     <display-name>INULTRA</display-name>
     <display-name>INULTRA</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="593">
+  <programme start="20260706000000 +0800" stop="20260706002300 +0800" channel="593">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="593">
-    <title>體壇最前線 7/5(第186集) (普)</title>
+  <programme start="20260706002300 +0800" stop="20260706012100 +0800" channel="593">
+    <title>野性生命力</title>
     </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="593">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
+  <programme start="20260706012100 +0800" stop="20260706021600 +0800" channel="593">
+    <title>馬文的狂野中美洲</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706013000 +0800" channel="593">
-    <title>2026 與狗共舞賽 自由編舞 英國組(第2集) (普)</title>
+  <programme start="20260706021600 +0800" stop="20260706031000 +0800" channel="593">
+    <title>馬文的狂野中美洲</title>
     </programme>
-  <programme start="20260706013000 +0800" stop="20260706023000 +0800" channel="593">
-    <title>2026 飛球接力賽 準決賽與決賽(第4集) (普)</title>
+  <programme start="20260706031000 +0800" stop="20260706033800 +0800" channel="593">
+    <title>納米比亞野生孤兒</title>
     </programme>
-  <programme start="20260706023000 +0800" stop="20260706033000 +0800" channel="593">
-    <title>2026 敏捷錦標賽 中大/大型犬組 跳躍賽(第16集) (普)</title>
+  <programme start="20260706033800 +0800" stop="20260706040500 +0800" channel="593">
+    <title>納米比亞野生孤兒</title>
     </programme>
-  <programme start="20260706033000 +0800" stop="20260706043000 +0800" channel="593">
-    <title>Crufts 與狗共舞 優勝表演 精華回顧(第27集) (普)</title>
+  <programme start="20260706040500 +0800" stop="20260706042900 +0800" channel="593">
+    <title>納米比亞野生動物保護區</title>
     </programme>
-  <programme start="20260706043000 +0800" stop="20260706053000 +0800" channel="593">
-    <title>2026 Crufts 飛球接力賽 精華回顧(第28集) (普)</title>
+  <programme start="20260706042900 +0800" stop="20260706050000 +0800" channel="593">
+    <title>納米比亞野生動物保護區</title>
     </programme>
-  <programme start="20260706053000 +0800" stop="20260706063000 +0800" channel="593">
-    <title>2026 Crufts 與狗共舞賽 精華回顧(第29集) (普)</title>
+  <programme start="20260706050000 +0800" stop="20260706055800 +0800" channel="593">
+    <title>野外遊蹤-中南半島的叢林心臟</title>
     </programme>
-  <programme start="20260706063000 +0800" stop="20260706073000 +0800" channel="593">
-    <title>2026 Crufts 敏捷錦標賽 小_中型犬組 / 中大_大型犬組 精華回顧(第30集) (普)</title>
+  <programme start="20260706055800 +0800" stop="20260706065700 +0800" channel="593">
+    <title>野外遊蹤-中南半島的叢林心臟</title>
     </programme>
-  <programme start="20260706073000 +0800" stop="20260706090000 +0800" channel="593">
-    <title>2026 與狗共舞賽 自由編舞 英國組(第2集) (普)</title>
+  <programme start="20260706065700 +0800" stop="20260706075500 +0800" channel="593">
+    <title>野外遊蹤-印度的失落國度</title>
     </programme>
-  <programme start="20260706090000 +0800" stop="20260706100000 +0800" channel="593">
-    <title>2026 飛球接力賽 準決賽與決賽(第4集) (普)</title>
+  <programme start="20260706075500 +0800" stop="20260706085400 +0800" channel="593">
+    <title>野外遊蹤-印度的失落國度</title>
     </programme>
-  <programme start="20260706100000 +0800" stop="20260706110000 +0800" channel="593">
-    <title>2026 敏捷錦標賽 中大/大型犬組 跳躍賽(第16集) (普)</title>
+  <programme start="20260706085400 +0800" stop="20260706092300 +0800" channel="593">
+    <title>未知路途-印度</title>
     </programme>
-  <programme start="20260706110000 +0800" stop="20260706113000 +0800" channel="593">
-    <title>歐冠足球誌#22(第22集) (普)</title>
+  <programme start="20260706092300 +0800" stop="20260706094900 +0800" channel="593">
+    <title>未知路途-印度</title>
     </programme>
-  <programme start="20260706113000 +0800" stop="20260706120000 +0800" channel="593">
-    <title>體壇最前線 7/5(第186集) (普)</title>
+  <programme start="20260706094900 +0800" stop="20260706104000 +0800" channel="593">
+    <title>狂野馬達加斯加:奇幻生物</title>
     </programme>
-  <programme start="20260706120000 +0800" stop="20260706133000 +0800" channel="593">
-    <title>2026 與狗共舞賽 自由編舞 英國組(第2集) (普)</title>
+  <programme start="20260706104000 +0800" stop="20260706113800 +0800" channel="593">
+    <title>野外遊蹤-狂野阿根廷</title>
     </programme>
-  <programme start="20260706133000 +0800" stop="20260706143000 +0800" channel="593">
-    <title>2026 飛球接力賽 準決賽與決賽(第4集) (普)</title>
+  <programme start="20260706113800 +0800" stop="20260706122800 +0800" channel="593">
+    <title>升級我的車</title>
     </programme>
-  <programme start="20260706143000 +0800" stop="20260706153000 +0800" channel="593">
-    <title>2026 敏捷錦標賽 中大/大型犬組 跳躍賽(第16集) (普)</title>
+  <programme start="20260706122800 +0800" stop="20260706131800 +0800" channel="593">
+    <title>升級我的車</title>
     </programme>
-  <programme start="20260706153000 +0800" stop="20260706163000 +0800" channel="593">
-    <title>Crufts 與狗共舞 優勝表演 精華回顧(第27集) (普)</title>
+  <programme start="20260706131800 +0800" stop="20260706140800 +0800" channel="593">
+    <title>傳奇汽車品牌</title>
     </programme>
-  <programme start="20260706163000 +0800" stop="20260706173000 +0800" channel="593">
-    <title>2026 Crufts 飛球接力賽 精華回顧(第28集) (普)</title>
+  <programme start="20260706140800 +0800" stop="20260706145900 +0800" channel="593">
+    <title>傳奇汽車品牌</title>
     </programme>
-  <programme start="20260706173000 +0800" stop="20260706183000 +0800" channel="593">
-    <title>2026 Crufts 與狗共舞賽 精華回顧(第29集) (普)</title>
+  <programme start="20260706145900 +0800" stop="20260706152300 +0800" channel="593">
+    <title>德州肌肉車</title>
     </programme>
-  <programme start="20260706183000 +0800" stop="20260706193000 +0800" channel="593">
-    <title>2026 Crufts 敏捷錦標賽 小_中型犬組 / 中大_大型犬組 精華回顧(第30集) (普)</title>
+  <programme start="20260706152300 +0800" stop="20260706154600 +0800" channel="593">
+    <title>德州肌肉車</title>
     </programme>
-  <programme start="20260706193000 +0800" stop="20260706210000 +0800" channel="593">
-    <title>2026 與狗共舞賽 自由編舞 英國組(第2集) (普)</title>
+  <programme start="20260706154600 +0800" stop="20260706163700 +0800" channel="593">
+    <title>姜成鎬狂野時速</title>
     </programme>
-  <programme start="20260706210000 +0800" stop="20260706220000 +0800" channel="593">
-    <title>2026 飛球接力賽 準決賽與決賽(第4集) (普)</title>
+  <programme start="20260706163700 +0800" stop="20260706172800 +0800" channel="593">
+    <title>姜成鎬狂野時速</title>
     </programme>
-  <programme start="20260706220000 +0800" stop="20260706230000 +0800" channel="593">
-    <title>2026 敏捷錦標賽 中大/大型犬組 跳躍賽(第16集) (普)</title>
+  <programme start="20260706172800 +0800" stop="20260706182200 +0800" channel="593">
+    <title>復興肌肉車</title>
     </programme>
-  <programme start="20260706230000 +0800" stop="20260706233000 +0800" channel="593">
-    <title>英超名人堂 #6 Claude Makelele(第6集) (普)</title>
+  <programme start="20260706182200 +0800" stop="20260706191700 +0800" channel="593">
+    <title>復興肌肉車</title>
     </programme>
-  <programme start="20260706233000 +0800" stop="20260706235959 +0800" channel="593">
-    <title>體壇最前線 7/6(第187集) (普)</title>
+  <programme start="20260706191700 +0800" stop="20260706200800 +0800" channel="593">
+    <title>上緊發條</title>
+    </programme>
+  <programme start="20260706200800 +0800" stop="20260706205700 +0800" channel="593">
+    <title>上緊發條</title>
+    </programme>
+  <programme start="20260706205700 +0800" stop="20260706215200 +0800" channel="593">
+    <title>尋找經典車</title>
+    </programme>
+  <programme start="20260706215200 +0800" stop="20260706224700 +0800" channel="593">
+    <title>尋找經典車</title>
+    </programme>
+  <programme start="20260706224700 +0800" stop="20260706233400 +0800" channel="593">
+    <title>超跑美女開箱車城</title>
+    </programme>
+  <programme start="20260706233400 +0800" stop="20260706235959 +0800" channel="593">
+    <title>野外遊蹤-狂野哥倫比亞</title>
     </programme>
   <channel id="594">
     <display-name>博斯高球台</display-name>
     <display-name>博斯高球台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="594">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="594">
-    <title>LIVE 2026歐巡BMW國際公開賽 第四天(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="594">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -54795,12 +54459,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="595">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="595">
-    <title>2026 亞巡日本國際亞巡賽 第四天(普)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="595">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706033000 +0800" channel="595">
     <title>2026 LPGA拉斯維加斯錦標賽 第四天(普)</title>
     </programme>
@@ -54829,12 +54487,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="596">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="596">
-    <title>LIVE2026溫布頓網球錦標賽(中央球場)DAY7 十六強1930-0400(普)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="596">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706040000 +0800" channel="596">
     <title>LIVE2026溫布頓網球錦標賽(中央球場)DAY7 十六強1930-0400(普)</title>
     </programme>
@@ -54857,12 +54509,6 @@
     <display-name>博斯无限台</display-name>
     <display-name>博斯無限台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="597">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="597">
-    <title>2025-26司諾克賽季 巡迴錦標賽 八強(1) TRU vs MUR(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="597">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -54909,12 +54555,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="598">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="598">
-    <title>LIVE 2026溫布頓網球錦標賽DAY7 16強(普)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="598">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706060000 +0800" channel="598">
     <title>LIVE 2026溫布頓網球錦標賽DAY7 16強(普)</title>
     </programme>
@@ -54928,12 +54568,6 @@
     <display-name>博斯运动二台</display-name>
     <display-name>博斯運動二台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="599">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="599">
-    <title>LIVE2026溫布頓網球錦標賽(2號球場)DAY71800-0400(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="599">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -54971,12 +54605,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="600">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="600">
-    <title>LIVE2026溫布頓網球錦標賽DAY7 十六強(一號球場)2000-0400(普)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="600">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706040000 +0800" channel="600">
     <title>LIVE2026溫布頓網球錦標賽DAY7 十六強(一號球場)2000-0400(普)</title>
     </programme>
@@ -55005,12 +54633,6 @@
     <display-name>博斯无限二台</display-name>
     <display-name>博斯無限二台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="601">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="601">
-    <title>2024-25司諾克賽季 司諾克大師賽 4強 ALL vs MUR(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="601">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -55057,12 +54679,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="602">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="602">
-    <title>115年莒光盃排球 新園國中 vs 雙十國中(普)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="602">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706060000 +0800" channel="602">
     <title>休播(普)</title>
     </programme>
@@ -55099,9 +54715,6 @@
     </channel>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="603">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000200 +0800" channel="603">
-    <title>00384 Hair and Make-up Fashion Exposed ELAINE SHOBANJO Exclusive Interview for ShoMya 150817 PMNB</title>
     </programme>
   <programme start="20260706000001 +0800" stop="20260706002300 +0800" channel="603">
     <title>K POP DANCE ACADEMY 08</title>
@@ -55395,11 +55008,8 @@
     <display-name>车迷TV</display-name>
     <display-name>車迷TV</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="604">
+  <programme start="20260706000000 +0800" stop="20260706005000 +0800" channel="604">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706005000 +0800" channel="604">
-    <title>2026年歐洲利曼耐力賽系列賽(普)</title>
     </programme>
   <programme start="20260706005000 +0800" stop="20260706014500 +0800" channel="604">
     <title>德國房車大師賽 2026(普)</title>
@@ -55519,12 +55129,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="605">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="605">
-    <title>瘋傳起來吧：Poppy Hillstead</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="605">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="605">
     <title>火箭聯盟：火力全開：翻滾吧</title>
     </programme>
@@ -55607,11 +55211,8 @@
     <display-name>民视旅游台</display-name>
     <display-name>民視旅遊台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="606">
+  <programme start="20260706000000 +0800" stop="20260706001400 +0800" channel="606">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706001400 +0800" channel="606">
-    <title>哈旅遊-第19集【普】</title>
     </programme>
   <programme start="20260706001400 +0800" stop="20260706003600 +0800" channel="606">
     <title>美鳳有約-第5042集【普】</title>
@@ -55746,12 +55347,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="607">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="607">
-    <title>94愛說話(普)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="607">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="607">
     <title>滾動人文紀實(普)</title>
     </programme>
@@ -55828,12 +55423,6 @@
     <display-name>亚洲旅游台</display-name>
     <display-name>亞洲旅遊台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="608">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="608">
-    <title>效廉出發吧(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="608">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -55925,11 +55514,8 @@
     <display-name>fun探索娱乐台</display-name>
     <display-name>fun探索娛樂台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="609">
+  <programme start="20260706000000 +0800" stop="20260706005900 +0800" channel="609">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706005900 +0800" channel="609">
-    <title>若昂‧波斯科：2018年馬爾他爵士音樂節(普)</title>
     </programme>
   <programme start="20260706005900 +0800" stop="20260706013600 +0800" channel="609">
     <title>古典：下一個世代 2019：Tagg   Petersen(普)</title>
@@ -56004,12 +55590,6 @@
     <display-name>幸福空间居家台</display-name>
     <display-name>幸福空間居家台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="610">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="610">
-    <title>幸福空間(E841)(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="610">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -56092,11 +55672,8 @@
     <display-name>Love Nature</display-name>
     <display-name>Love Nature</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="611">
+  <programme start="20260706000000 +0800" stop="20260706003500 +0800" channel="611">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706003500 +0800" channel="611">
-    <title>深淵異形 (雙語)(普)</title>
     </programme>
   <programme start="20260706003500 +0800" stop="20260706012500 +0800" channel="611">
     <title>超級鯊魚大道 第1季(普)</title>
@@ -56183,11 +55760,8 @@
     <display-name>History 历史频道</display-name>
     <display-name>History 歷史頻道</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="612">
+  <programme start="20260706000000 +0800" stop="20260706004000 +0800" channel="612">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706004000 +0800" channel="612">
-    <title>尋寶雙星 第18季(護)</title>
     </programme>
   <programme start="20260706004000 +0800" stop="20260706013500 +0800" channel="612">
     <title>湯姆漢克斯：二戰風雲(普)</title>
@@ -56276,9 +55850,6 @@
     </channel>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="613">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000100 +0800" channel="613">
-    <title>環遊世界800天 第一季 06 菁英</title>
     </programme>
   <programme start="20260706000001 +0800" stop="20260706005200 +0800" channel="613">
     <title>主廚大聯盟 04</title>
@@ -56407,12 +55978,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="614">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="614">
-    <title>LUXE.THIS WEEK(普)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="614">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="614">
     <title>DESTINATION SPECIAL SARDINIA(普)</title>
     </programme>
@@ -56519,11 +56084,8 @@
     <display-name>TV5MONDE STYLE HD 生活时尚</display-name>
     <display-name>TV5MONDE STYLE HD 生活時尚</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="615">
+  <programme start="20260706000000 +0800" stop="20260706010000 +0800" channel="615">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="615">
-    <title>LA BOÎTE À SECRETS(普)</title>
     </programme>
   <programme start="20260706010000 +0800" stop="20260706023200 +0800" channel="615">
     <title>LE JARDIN EXTRAORDINAIRE(普)</title>
@@ -56667,12 +56229,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="616">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="616">
-    <title>蒼蠅王(輔12)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="616">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="616">
     <title>蒼蠅王(輔12)</title>
     </programme>
@@ -56755,12 +56311,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="617">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="617">
-    <title>睫毛膏【普】</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="617">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706013100 +0800" channel="617">
     <title>垃圾魚【普】</title>
     </programme>
@@ -56816,11 +56366,8 @@
     <display-name>民视影剧台</display-name>
     <display-name>民視影劇台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="618">
+  <programme start="20260706000000 +0800" stop="20260706000100 +0800" channel="618">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000100 +0800" channel="618">
-    <title>豆腐媽媽-第119集【普】</title>
     </programme>
   <programme start="20260706000100 +0800" stop="20260706005400 +0800" channel="618">
     <title>豆腐媽媽-第121集【普】</title>
@@ -56895,12 +56442,6 @@
     <display-name>HITS频道</display-name>
     <display-name>HITS頻道</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="619">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="619">
-    <title>歡樂一家親 第5季(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="619">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -57161,12 +56702,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="621">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="621">
-    <title>愛無界(普)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="621">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="621">
     <title>犀利人妻(普)</title>
     </programme>
@@ -57243,12 +56778,6 @@
     <display-name>靖洋戏剧台</display-name>
     <display-name>靖洋戲劇台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="622">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="622">
-    <title>一舞傾城(護)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="622">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -57337,11 +56866,8 @@
     <display-name>CI 罪案侦查频道</display-name>
     <display-name>CI 罪案偵查頻道</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="623">
+  <programme start="20260706000000 +0800" stop="20260706002500 +0800" channel="623">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706002500 +0800" channel="623">
-    <title>攝影機下的臥底現場(護)</title>
     </programme>
   <programme start="20260706002500 +0800" stop="20260706012000 +0800" channel="623">
     <title>奧札克執法實錄(護)</title>
@@ -57440,12 +56966,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="624">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="624">
-    <title>剩女，真的？</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="624">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706014000 +0800" channel="624">
     <title>冲天</title>
     </programme>
@@ -57534,12 +57054,6 @@
     <display-name>影迷数位纪实台</display-name>
     <display-name>影迷數位紀實台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="625">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="625">
-    <title>亞瑟王傳奇：神話的力量【普】</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="625">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -57637,12 +57151,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="626">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="626">
-    <title>齊神籙第24集</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="626">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706013000 +0800" channel="626">
     <title>金光御九界之鬼途奇行錄25</title>
     </programme>
@@ -57695,12 +57203,6 @@
     <display-name>采昌影剧台</display-name>
     <display-name>采昌影劇台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="627">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="627">
-    <title>找到你【輔12】</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="627">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -57759,11 +57261,8 @@
     <display-name>靖天映画</display-name>
     <display-name>靖天映畫</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="628">
+  <programme start="20260706000000 +0800" stop="20260706013000 +0800" channel="628">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706013000 +0800" channel="628">
-    <title>風暴(輔15)</title>
     </programme>
   <programme start="20260706013000 +0800" stop="20260706033500 +0800" channel="628">
     <title>兩人世界(輔12)</title>
@@ -57805,11 +57304,8 @@
     <display-name>靖天电影台</display-name>
     <display-name>靖天電影台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="629">
+  <programme start="20260706000000 +0800" stop="20260706012000 +0800" channel="629">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706012000 +0800" channel="629">
-    <title>逆風逐夢(輔12)</title>
     </programme>
   <programme start="20260706012000 +0800" stop="20260706030500 +0800" channel="629">
     <title>蛇影特務(輔12)</title>
@@ -57851,12 +57347,6 @@
     <display-name>影迷数字电影台</display-name>
     <display-name>影迷數位電影台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="630">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="630">
-    <title>青之炎【護】</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="630">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -57908,9 +57398,6 @@
     </channel>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="631">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706001400 +0800" channel="631">
-    <title>心動迷航 Love Map</title>
     </programme>
   <programme start="20260706000001 +0800" stop="20260706012700 +0800" channel="631">
     <title>艾瑪的美味人生 The Beauty Of Love</title>
@@ -57964,11 +57451,8 @@
     <display-name>CinemaWorld</display-name>
     <display-name>CinemaWorld</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="632">
+  <programme start="20260706000000 +0800" stop="20260706002000 +0800" channel="632">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706002000 +0800" channel="632">
-    <title>逐歐之志(普)</title>
     </programme>
   <programme start="20260706002000 +0800" stop="20260706021000 +0800" channel="632">
     <title>窮忙世代(普)</title>
@@ -58019,11 +57503,8 @@
     <display-name>My Cinema Europe HD 我的欧洲电影</display-name>
     <display-name>My Cinema Europe HD 我的歐洲電影</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="633">
+  <programme start="20260706000000 +0800" stop="20260706010500 +0800" channel="633">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706010500 +0800" channel="633">
-    <title>轉折點(輔12)</title>
     </programme>
   <programme start="20260706010500 +0800" stop="20260706024000 +0800" channel="633">
     <title>尼克的戰場(護)</title>
@@ -58074,12 +57555,6 @@
     <display-name>好消息</display-name>
     <display-name>好消息</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="634">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="634">
-    <title>奔向標竿(雙語)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="634">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -58234,12 +57709,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="635">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="635">
-    <title>奔向標竿(雙語)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="635">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706001500 +0800" channel="635">
     <title>經典音樂河</title>
     </programme>
@@ -58376,12 +57845,6 @@
     <display-name>大爱二台</display-name>
     <display-name>大愛二台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="636">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="636">
-    <title>真善美故事館(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="636">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -58542,12 +58005,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="637">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="637">
-    <title>臺灣資深藝術家(5)(6)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="637">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706010000 +0800" channel="637">
     <title>人間新聞(1150705)(重)</title>
     </programme>
@@ -58648,12 +58105,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="638">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="638">
-    <title>現場目擊者(普)</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="638">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706002500 +0800" channel="638">
     <title>邦迪救難隊(普)</title>
     </programme>
@@ -58751,12 +58202,6 @@
     <display-name>NHK WORLD-JAPAN</display-name>
     <display-name>NHK WORLD-JAPAN</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="639">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="639">
-    <title>A Cats-Eye View of Japan(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="639">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -58998,12 +58443,6 @@
     <display-name>FRANCE24 英文台</display-name>
     <display-name>FRANCE24 英文台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="640">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="640">
-    <title>Talking Europe(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="640">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -59389,12 +58828,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="641">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="641">
-    <title>newsgrid</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="641">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706003000 +0800" channel="641">
     <title>News Live</title>
     </programme>
@@ -59510,12 +58943,6 @@
     <display-name>CNBC Asia 财经台</display-name>
     <display-name>CNBC Asia 財經台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="642">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="642">
-    <title>American Greed: Biggest Cons(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="642">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -59652,12 +59079,6 @@
     <display-name>DW德国之声</display-name>
     <display-name>DW德國之聲</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="643">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="643">
-    <title>藝術揭幕(普)</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="643">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
@@ -59896,12 +59317,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="644">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="644">
-    <title>立法院會議轉播</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="644">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706060000 +0800" channel="644">
     <title>立法院會議轉播</title>
     </programme>
@@ -59921,12 +59336,6 @@
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="645">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="645">
-    <title>立法院會議轉播</title>
-    </programme>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="645">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
   <programme start="20260706000001 +0800" stop="20260706060000 +0800" channel="645">
     <title>立法院會議轉播</title>
     </programme>
@@ -59943,11 +59352,8 @@
     <display-name>经典电影台</display-name>
     <display-name>經典電影台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="646">
+  <programme start="20260706000000 +0800" stop="20260706002700 +0800" channel="646">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706002700 +0800" channel="646">
-    <title>海外特派員</title>
     </programme>
   <programme start="20260706002700 +0800" stop="20260706021400 +0800" channel="646">
     <title>自古英雄多寂寞</title>
@@ -59992,11 +59398,8 @@
     <display-name>经典卡通台</display-name>
     <display-name>經典卡通台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="647">
+  <programme start="20260706000000 +0800" stop="20260706001500 +0800" channel="647">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706001500 +0800" channel="647">
-    <title>101忠狗</title>
     </programme>
   <programme start="20260706001500 +0800" stop="20260706002200 +0800" channel="647">
     <title>大力水手卜派 第二季 第9集</title>
@@ -60188,12 +59591,6 @@
     <display-name>精选动漫台</display-name>
     <display-name>精選動漫台</display-name>
     </channel>
-  <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="648">
-    <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260706000001 +0800" stop="20260706000000 +0800" channel="648">
-    <title>金銀島-11</title>
-    </programme>
   <programme start="20260706000000 +0800" stop="20260706000001 +0800" channel="648">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
