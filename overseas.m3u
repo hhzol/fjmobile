@@ -1,0 +1,57 @@
+
+#EXTM3U x-tvg-url="https://epg.136605.xyz/1day.xml"
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://epg.136605.xyz/tvg-logo/华视.png" group-title="台港海外",华视
+rtmp://60.248.77.76/sat/tv111
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://epg.136605.xyz/tvg-logo/中视.png" group-title="台港海外",中视
+rtmp://60.248.77.76/sat/tv091
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://epg.136605.xyz/tvg-logo/台视.png" group-title="台港海外",台视
+rtmp://60.248.77.76/sat/tv071
+rtmp://f13h.mine.nu/sat/tv071
+https://s2.m16tv.cfd/taiwan/CH-4/AKTV.m3u8
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.136605.xyz/tvg-logo/民视.png" group-title="台港海外",民视
+rtmp://60.248.77.76/sat/tv051
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://epg.136605.xyz/tvg-logo/CNA.png" group-title="台港海外",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+https://s2.m16tv.cfd/aktv3/cna/AKTV.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://epg.136605.xyz/tvg-logo/CNN.png" group-title="台港海外",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="台港海外",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC2" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC2.png" group-title="台港海外",BBC2
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-name="纬来日本台" tvg-logo="https://epg.136605.xyz/tvg-logo/纬来日本台.png" group-title="台港海外",纬来日本台
+rtmp://60.248.77.76/sat/tv771
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 tvg-name="纬来育乐台" tvg-logo="https://epg.136605.xyz/tvg-logo/纬来育乐台.png" group-title="台港海外",纬来育乐台
+rtmp://60.248.77.76/sat/tv701
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://epg.136605.xyz/tvg-logo/纬来体育台.png" group-title="台港海外",纬来体育台
+rtmp://60.248.77.76/sat/tv721
+rtmp://f13h.mine.nu/sat/tv721
+https://s2.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
+#EXTINF:-1 tvg-name="DAZN1" tvg-logo="https://epg.136605.xyz/tvg-logo/DAZN1.png" group-title="台港海外",DAZN1
+rtmp://60.248.77.76/sat/tv731
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-name="DAZN2" tvg-logo="https://epg.136605.xyz/tvg-logo/DAZN2.png" group-title="台港海外",DAZN2
+rtmp://60.248.77.76/sat/tv741
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://epg.136605.xyz/tvg-logo/东森超视.png" group-title="台港海外",东森超视
+rtmp://60.248.77.76/sat/tv331
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-name="MOMO综合台4K" tvg-logo="https://epg.136605.xyz/tvg-logo/MOMO综合台4K.png" group-title="台港海外",MOMO综合台4K
+rtmp://60.248.77.76/sat/tv761
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 tvg-name="TVB 翡翠台" tvg-logo="https://epg.136605.xyz/tvg-logo/TVB 翡翠台.png" group-title="台港海外",TVB 翡翠台
+https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-name="TVB 翡翠台 4K" tvg-logo="https://epg.136605.xyz/tvg-logo/TVB 翡翠台.png" group-title="台港海外",TVB 翡翠台 4K
+https://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://epg.136605.xyz/tvg-logo/TVB Plus.png" group-title="台港海外",TVB Plus
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-name="TVB 明珠台" tvg-logo="https://epg.136605.xyz/tvg-logo/TVB明珠台.png" group-title="台港海外",TVB 明珠台
+https://o11.163189.xyz/stream/tvb/mzt/
