@@ -23,7 +23,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_14
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="台港海外",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 tvg-name="BBC2" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC2.png" group-title="台港海外",BBC2
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="纬来日本台" tvg-logo="https://epg.136605.xyz/tvg-logo/纬来日本台.png" group-title="台港海外",纬来日本台
 rtmp://60.248.77.76/sat/tv771
@@ -47,11 +46,5 @@ rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-name="MOMO综合台4K" tvg-logo="https://epg.136605.xyz/tvg-logo/MOMO综合台4K.png" group-title="台港海外",MOMO综合台4K
 rtmp://60.248.77.76/sat/tv761
 rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 tvg-name="TVB 翡翠台" tvg-logo="https://epg.136605.xyz/tvg-logo/TVB 翡翠台.png" group-title="台港海外",TVB 翡翠台
-https://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-name="TVB 翡翠台 4K" tvg-logo="https://epg.136605.xyz/tvg-logo/TVB 翡翠台.png" group-title="台港海外",TVB 翡翠台 4K
 https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://epg.136605.xyz/tvg-logo/TVB Plus.png" group-title="台港海外",TVB Plus
-https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-name="TVB 明珠台" tvg-logo="https://epg.136605.xyz/tvg-logo/TVB明珠台.png" group-title="台港海外",TVB 明珠台
-https://o11.163189.xyz/stream/tvb/mzt/
