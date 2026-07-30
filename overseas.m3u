@@ -30,12 +30,16 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 tvg-name="CNN Headlines" tvg-logo="https://epg.136605.xyz/tvg-logo/CNN.png" group-title="台港海外",CNN Headlines
+#EXTKU9OPT:DE=1#HEADERS={"User-Agent":"Mozilla/5.0 (SMART-TV; Tizen 6.0)"}
 https://jmp2.uk/plu-66c45c274f25dd00092739ee.m3u8
 #EXTINF:-1 tvg-name="cbs news" tvg-logo="https://epg.136605.xyz/tvg-logo/CNN.png" group-title="台港海外",cbs news
+#EXTKU9OPT:DE=1#HEADERS={"User-Agent":"Mozilla/5.0 (SMART-TV; Tizen 6.0)"}
 https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 #EXTINF:-1 tvg-name="60 minutes" tvg-logo="https://epg.136605.xyz/tvg-logo/CNN.png" group-title="台港海外",60 minutes
+#EXTKU9OPT:DE=1#HEADERS={"User-Agent":"Mozilla/5.0 (SMART-TV; Tizen 6.0)"}
 https://jmp2.uk/plu-66b646f9cd0d3100086af83c.m3u8
 #EXTINF:-1 tvg-name="football" tvg-logo="https://epg.136605.xyz/tvg-logo/CNN.png" group-title="台港海外",football
+#EXTKU9OPT:DE=1#HEADERS={"User-Agent":"Mozilla/5.0 (SMART-TV; Tizen 6.0)"}
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://epg.136605.xyz/tvg-logo/华视.png" group-title="台港海外",华视
 rtmp://60.248.77.76/sat/tv111
