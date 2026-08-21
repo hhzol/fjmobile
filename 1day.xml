@@ -7621,26 +7621,8 @@
   <channel id="408">
     <display-name>深圳少儿</display-name>
     </channel>
-  <programme start="20260821000000 +0800" stop="20260821114600 +0800" channel="408">
+  <programme start="20260821000000 +0800" stop="20260821180000 +0800" channel="408">
     <title>由https://epg.136605.xyz提供节目单服务</title>
-    </programme>
-  <programme start="20260821114600 +0800" stop="20260821120200 +0800" channel="408">
-    <title>猪猪侠之梦想守卫者上(18)</title>
-    </programme>
-  <programme start="20260821120200 +0800" stop="20260821121500 +0800" channel="408">
-    <title>猪猪侠之梦想守卫者上(19)</title>
-    </programme>
-  <programme start="20260821121500 +0800" stop="20260821123000 +0800" channel="408">
-    <title>猪猪侠之梦想守卫者上(20)</title>
-    </programme>
-  <programme start="20260821123000 +0800" stop="20260821124200 +0800" channel="408">
-    <title>读书(31)</title>
-    </programme>
-  <programme start="20260821124200 +0800" stop="20260821130900 +0800" channel="408">
-    <title>安全圳少年:运动安全</title>
-    </programme>
-  <programme start="20260821130900 +0800" stop="20260821180000 +0800" channel="408">
-    <title>开心超人联盟之平行时空大冒险</title>
     </programme>
   <programme start="20260821180000 +0800" stop="20260821181300 +0800" channel="408">
     <title>行走亦课堂Ⅱ(23)</title>
@@ -16635,8 +16617,11 @@
   <programme start="20260821082300 +0800" stop="20260821083000 +0800" channel="506">
     <title>JAPAN FROM ABOVE: UP CLOSE</title>
     </programme>
-  <programme start="20260821083000 +0800" stop="20260821090000 +0800" channel="506">
-    <title>NHK WORLD SELECTION</title>
+  <programme start="20260821083000 +0800" stop="20260821085300 +0800" channel="506">
+    <title>The Business Keyhole</title>
+    </programme>
+  <programme start="20260821085300 +0800" stop="20260821090000 +0800" channel="506">
+    <title>Is That Picture Real?</title>
     </programme>
   <programme start="20260821090000 +0800" stop="20260821091000 +0800" channel="506">
     <title>NHK NEWSLINE</title>
@@ -16657,7 +16642,7 @@
     <title>1/36: Foreign Residents in Japan</title>
     </programme>
   <programme start="20260821103000 +0800" stop="20260821110000 +0800" channel="506">
-    <title>NHK WORLD-JAPAN Special program</title>
+    <title>SCHOOL OF J-POP</title>
     </programme>
   <programme start="20260821110000 +0800" stop="20260821111000 +0800" channel="506">
     <title>NHK NEWSLINE</title>
@@ -16693,7 +16678,7 @@
     <title>RAMEN JAPAN 5min.</title>
     </programme>
   <programme start="20260821133000 +0800" stop="20260821140000 +0800" channel="506">
-    <title>NHK WORLD SELECTION</title>
+    <title>The Business Keyhole</title>
     </programme>
   <programme start="20260821140000 +0800" stop="20260821141000 +0800" channel="506">
     <title>NHK NEWSLINE</title>
@@ -16717,7 +16702,7 @@
     <title>Nuns Seasonal Calendar</title>
     </programme>
   <programme start="20260821153000 +0800" stop="20260821160000 +0800" channel="506">
-    <title>NHK WORLD-JAPAN Special program</title>
+    <title>SCHOOL OF J-POP</title>
     </programme>
   <programme start="20260821160000 +0800" stop="20260821161000 +0800" channel="506">
     <title>NHK NEWSLINE</title>
@@ -16746,8 +16731,11 @@
   <programme start="20260821181500 +0800" stop="20260821183000 +0800" channel="506">
     <title>CINEMATIC JOURNEY</title>
     </programme>
-  <programme start="20260821183000 +0800" stop="20260821190000 +0800" channel="506">
-    <title>NHK WORLD SELECTION</title>
+  <programme start="20260821183000 +0800" stop="20260821185300 +0800" channel="506">
+    <title>The Business Keyhole</title>
+    </programme>
+  <programme start="20260821185300 +0800" stop="20260821190000 +0800" channel="506">
+    <title>Is That Picture Real?</title>
     </programme>
   <programme start="20260821190000 +0800" stop="20260821191500 +0800" channel="506">
     <title>NHK NEWSLINE</title>
@@ -16783,7 +16771,7 @@
     <title>Herbal Symphony #5</title>
     </programme>
   <programme start="20260821213000 +0800" stop="20260821220000 +0800" channel="506">
-    <title>NHK WORLD-JAPAN Special program</title>
+    <title>SCHOOL OF J-POP</title>
     </programme>
   <programme start="20260821220000 +0800" stop="20260821221000 +0800" channel="506">
     <title>NHK NEWSLINE</title>
@@ -16806,8 +16794,11 @@
   <programme start="20260821232500 +0800" stop="20260821233000 +0800" channel="506">
     <title>RAMEN JAPAN 5min.</title>
     </programme>
-  <programme start="20260821233000 +0800" stop="20260822000000 +0800" channel="506">
-    <title>NHK WORLD SELECTION</title>
+  <programme start="20260821233000 +0800" stop="20260821235300 +0800" channel="506">
+    <title>The Business Keyhole</title>
+    </programme>
+  <programme start="20260821235300 +0800" stop="20260822000000 +0800" channel="506">
+    <title>Is That Picture Real?</title>
     </programme>
   <channel id="507">
     <display-name>Arirang TV</display-name>
@@ -22929,7 +22920,7 @@
   <programme start="20260821130000 +0800" stop="20260821140000 +0800" channel="556">
     <title>華視1300午間新聞</title>
     </programme>
-  <programme start="20260821140000 +0800" stop="20260821150000 +0800" channel="556">
+  <programme start="20260821140000 +0800" stop="20260821235959 +0800" channel="556">
     <title>華視1400整點新聞</title>
     </programme>
   <programme start="20260821150000 +0800" stop="20260821160000 +0800" channel="556">
@@ -24310,16 +24301,16 @@
     <title>台灣大代誌(普)</title>
     </programme>
   <programme start="20260821170000 +0800" stop="20260821180000 +0800" channel="571">
-    <title>MIT台灣誌(普)</title>
+    <title>台灣大代誌(普)</title>
     </programme>
   <programme start="20260821180000 +0800" stop="20260821183000 +0800" channel="571">
-    <title>美鳳有約(普)</title>
+    <title>進擊的台灣(普)</title>
     </programme>
   <programme start="20260821183000 +0800" stop="20260821190000 +0800" channel="571">
-    <title>美鳳有約(普)</title>
+    <title>進擊的台灣(普)</title>
     </programme>
   <programme start="20260821190000 +0800" stop="20260821200000 +0800" channel="571">
-    <title>大陸尋奇(普)</title>
+    <title>台灣1001個故事(普)</title>
     </programme>
   <programme start="20260821200000 +0800" stop="20260821210000 +0800" channel="571">
     <title>綺麗台灣(普)</title>
@@ -40928,10 +40919,10 @@
   <channel id="826">
     <display-name>南平新闻综合</display-name>
     </channel>
-  <programme start="20260821000000 +0800" stop="20260821000001 +0800" channel="826">
+  <programme start="20260821000000 +0800" stop="20260821080000 +0800" channel="826">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260821000001 +0800" stop="20260821180000 +0800" channel="826">
+  <programme start="20260821080000 +0800" stop="20260821180000 +0800" channel="826">
     <title>剧场: 隋唐英雄传 14-16</title>
     </programme>
   <programme start="20260821180000 +0800" stop="20260821184000 +0800" channel="826">
