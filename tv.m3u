@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.136605.xyz/1day.xml" catchup-source="?start=${(b)yyyyMMddHHmmss}&end=${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://epg.136605.xyz/1day.xml" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV1.png" group-title="央视频道",CCTV1
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227550/index.m3u8
 http://183.252.175.68/PLTV/88888888/224/3221227550/index.m3u8?rrsip=ott.fj.chinamobile.com
