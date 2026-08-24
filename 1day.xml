@@ -54801,10 +54801,10 @@
     <display-name>西部电影</display-name>
     <display-name>陕西西部电影</display-name>
     </channel>
-  <programme start="20260824000000 +0800" stop="20260824000001 +0800" channel="814">
+  <programme start="20260824000000 +0800" stop="20260824080000 +0800" channel="814">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260824000001 +0800" stop="20260824120000 +0800" channel="814">
+  <programme start="20260824080000 +0800" stop="20260824120000 +0800" channel="814">
     <title>秘杀名单</title>
     </programme>
   <programme start="20260824120000 +0800" stop="20260824150000 +0800" channel="814">
@@ -54929,10 +54929,10 @@
     <display-name>福州2</display-name>
     <display-name>福州影视频道</display-name>
     </channel>
-  <programme start="20260824000000 +0800" stop="20260824000001 +0800" channel="816">
+  <programme start="20260824000000 +0800" stop="20260824070000 +0800" channel="816">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260824000001 +0800" stop="20260824111000 +0800" channel="816">
+  <programme start="20260824070000 +0800" stop="20260824111000 +0800" channel="816">
     <title>花时间 剧场</title>
     </programme>
   <programme start="20260824111000 +0800" stop="20260824113000 +0800" channel="816">
@@ -61259,74 +61259,110 @@
   <channel id="879">
     <display-name>广东体育</display-name>
     </channel>
-  <programme start="20260824000000 +0800" stop="20260824010000 +0800" channel="879">
+  <programme start="20260824000000 +0800" stop="20260824001500 +0800" channel="879">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260824010000 +0800" stop="20260824023500 +0800" channel="879">
-    <title>体育赛事</title>
+  <programme start="20260824001500 +0800" stop="20260824004400 +0800" channel="879">
+    <title>美加墨赛场:2026年 美加墨世界杯 三四名决赛法国vs英格兰</title>
     </programme>
-  <programme start="20260824023500 +0800" stop="20260824041000 +0800" channel="879">
-    <title>体育赛事</title>
+  <programme start="20260824004400 +0800" stop="20260824013600 +0800" channel="879">
+    <title>2026年 广东省城市篮球联赛 八强附加赛次回合潮州vs珠海</title>
     </programme>
-  <programme start="20260824041000 +0800" stop="20260824054500 +0800" channel="879">
-    <title>体育赛事</title>
+  <programme start="20260824013600 +0800" stop="20260824022800 +0800" channel="879">
+    <title>2026年 广东省城市篮球联赛 八强赛首回合潮州vs广州</title>
     </programme>
-  <programme start="20260824054500 +0800" stop="20260824072400 +0800" channel="879">
-    <title>体育赛事</title>
+  <programme start="20260824022800 +0800" stop="20260824033500 +0800" channel="879">
+    <title>2026年 广东省城市篮球联赛 八强赛次回合广州vs潮州</title>
     </programme>
-  <programme start="20260824072400 +0800" stop="20260824090600 +0800" channel="879">
-    <title>体育赛事</title>
+  <programme start="20260824033500 +0800" stop="20260824040100 +0800" channel="879">
+    <title>2026 中甲 第7轮精编版广东广州豹vs南通支云</title>
     </programme>
-  <programme start="20260824090600 +0800" stop="20260824103400 +0800" channel="879">
-    <title>体育实况</title>
+  <programme start="20260824040100 +0800" stop="20260824042700 +0800" channel="879">
+    <title>2026 中甲 第8轮精编版大连鲲城vs广东广州豹</title>
     </programme>
-  <programme start="20260824103400 +0800" stop="20260824120000 +0800" channel="879">
-    <title>体育赛事</title>
+  <programme start="20260824042700 +0800" stop="20260824051900 +0800" channel="879">
+    <title>2026年亚洲大学生篮球联赛三四名决赛早稻田大学vs清华大学</title>
     </programme>
-  <programme start="20260824120000 +0800" stop="20260824123000 +0800" channel="879">
-    <title>正午体育新闻</title>
+  <programme start="20260824051900 +0800" stop="20260824054300 +0800" channel="879">
+    <title>《一战城名-2026年 广东省城市篮球联赛 专题总结片》</title>
     </programme>
-  <programme start="20260824123000 +0800" stop="20260824133000 +0800" channel="879">
-    <title>体育实况</title>
+  <programme start="20260824054300 +0800" stop="20260824072500 +0800" channel="879">
+    <title>2026F1第8站奥地利大奖赛正赛</title>
     </programme>
-  <programme start="20260824133000 +0800" stop="20260824142200 +0800" channel="879">
-    <title>欢乐大牌档</title>
+  <programme start="20260824072500 +0800" stop="20260824080600 +0800" channel="879">
+    <title>美加墨赛场:2026年 美加墨世界杯 小组赛第3轮挪威vs法国</title>
     </programme>
-  <programme start="20260824142200 +0800" stop="20260824160100 +0800" channel="879">
-    <title>2 体育赛事</title>
+  <programme start="20260824080600 +0800" stop="20260824084300 +0800" channel="879">
+    <title>美加墨赛场:2026年 美加墨世界杯 1/16决赛荷兰vs摩洛哥</title>
     </programme>
-  <programme start="20260824160100 +0800" stop="20260824173800 +0800" channel="879">
-    <title>体育赛事</title>
+  <programme start="20260824084300 +0800" stop="20260824091400 +0800" channel="879">
+    <title>2026年 广东省城市足球超级联赛 常规赛(东区)第8轮补赛深圳vs汕头</title>
     </programme>
-  <programme start="20260824173800 +0800" stop="20260824182800 +0800" channel="879">
-    <title>体育实况</title>
+  <programme start="20260824091400 +0800" stop="20260824103100 +0800" channel="879">
+    <title>2026年 广东省城市篮球联赛 第9轮佛山vs云浮</title>
     </programme>
-  <programme start="20260824182800 +0800" stop="20260824193000 +0800" channel="879">
-    <title>体育世界</title>
+  <programme start="20260824103100 +0800" stop="20260824112500 +0800" channel="879">
+    <title>美加墨赛场:2026年 美加墨世界杯 1/16决赛葡萄牙vs克罗地亚</title>
     </programme>
-  <programme start="20260824193000 +0800" stop="20260824202800 +0800" channel="879">
-    <title>足球星视界</title>
+  <programme start="20260824112500 +0800" stop="20260824120000 +0800" channel="879">
+    <title>2026年 广东省城市足球超级联赛 第4轮精编版中山vs珠海</title>
     </programme>
-  <programme start="20260824202800 +0800" stop="20260824213000 +0800" channel="879">
-    <title>英超 精选</title>
+  <programme start="20260824120000 +0800" stop="20260824131400 +0800" channel="879">
+    <title>出奇智胜 (932)</title>
     </programme>
-  <programme start="20260824213000 +0800" stop="20260824223200 +0800" channel="879">
-    <title>晚间体育新闻</title>
+  <programme start="20260824131400 +0800" stop="20260824135200 +0800" channel="879">
+    <title>《一战城名-2026年 广东省城市篮球联赛 专题总结片》</title>
     </programme>
-  <programme start="20260824223200 +0800" stop="20260824230300 +0800" channel="879">
-    <title>中超 精选</title>
+  <programme start="20260824135200 +0800" stop="20260824150100 +0800" channel="879">
+    <title>2026年 广东省城市篮球联赛 第11轮汕尾vs梅州</title>
     </programme>
-  <programme start="20260824230300 +0800" stop="20260824235700 +0800" channel="879">
-    <title>UFC周刊</title>
+  <programme start="20260824150100 +0800" stop="20260824154000 +0800" channel="879">
+    <title>2026年 广东省城市足球超级联赛 第5轮精编版东莞vs潮州</title>
     </programme>
-  <programme start="20260824235700 +0800" stop="20260825000000 +0800" channel="879">
-    <title>超级游戏</title>
+  <programme start="20260824154000 +0800" stop="20260824161200 +0800" channel="879">
+    <title>美加墨赛场:2026年 美加墨世界杯 1/16决赛阿根廷vs佛得角</title>
+    </programme>
+  <programme start="20260824161200 +0800" stop="20260824165000 +0800" channel="879">
+    <title>美加墨赛场:2026年 美加墨世界杯 1/8决赛巴拉圭vs法国</title>
+    </programme>
+  <programme start="20260824165000 +0800" stop="20260824181000 +0800" channel="879">
+    <title>羽乐无限 :2026世界羽联世界巡回赛日本公开赛精选(3)女双半决赛日本vs中国</title>
+    </programme>
+  <programme start="20260824181000 +0800" stop="20260824185100 +0800" channel="879">
+    <title>2026 中甲 第19轮精编版无锡吴钩vs广东广州豹</title>
+    </programme>
+  <programme start="20260824185100 +0800" stop="20260824192200 +0800" channel="879">
+    <title>2026年 广东省城市足球超级联赛 第3轮精编版广州vs茂名</title>
+    </programme>
+  <programme start="20260824192200 +0800" stop="20260824195100 +0800" channel="879">
+    <title>2026年 广东省城市足球超级联赛 第6轮精编版梅州vs清远</title>
+    </programme>
+  <programme start="20260824195100 +0800" stop="20260824202300 +0800" channel="879">
+    <title>美加墨赛场:2026年 美加墨世界杯 1/16决赛西班牙vs奥地利</title>
+    </programme>
+  <programme start="20260824202300 +0800" stop="20260824205400 +0800" channel="879">
+    <title>美加墨赛场:2026年 美加墨世界杯 小组赛2轮西班牙vs沙特阿拉伯</title>
+    </programme>
+  <programme start="20260824205400 +0800" stop="20260824212400 +0800" channel="879">
+    <title>2026年 广东省城市足球超级联赛 第7轮精编版清远vs揭阳</title>
+    </programme>
+  <programme start="20260824212400 +0800" stop="20260824215300 +0800" channel="879">
+    <title>首播2026年 广东省城市足球超级联赛 八强附加赛首回合茂名vs清远</title>
+    </programme>
+  <programme start="20260824215300 +0800" stop="20260824230400 +0800" channel="879">
+    <title>首播 出奇智胜 (934)</title>
+    </programme>
+  <programme start="20260824230400 +0800" stop="20260824234000 +0800" channel="879">
+    <title>2026年 广东省城市足球超级联赛 常规赛(西区)第9轮湛江vs广州</title>
+    </programme>
+  <programme start="20260824234000 +0800" stop="20260825000000 +0800" channel="879">
+    <title>2026F1第10站比利时大奖赛正赛</title>
     </programme>
   <programme start="20260825000000 +0800" stop="20260825000001 +0800" channel="879">
     <title>由https://epg.136605.xyz提供节目单服务</title>
     </programme>
-  <programme start="20260825000001 +0800" stop="20260825005100 +0800" channel="879">
-    <title>超级游戏</title>
+  <programme start="20260825000001 +0800" stop="20260825011000 +0800" channel="879">
+    <title>2026F1第10站比利时大奖赛正赛</title>
     </programme>
   <channel id="880">
     <display-name>广东经济科教</display-name>
