@@ -39,8 +39,6 @@ rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-name="MOMO综合台4K" tvg-logo="https://epg.136605.xyz/tvg-logo/MOMO综合台4K.png" group-title="台湾",MOMO综合台4K
 rtmp://60.248.77.76/sat/tv761
 rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 tvg-name="TVB 翡翠台 4K" tvg-logo="https://epg.136605.xyz/tvg-logo/TVB 翡翠台.png" group-title="海外",TVB 翡翠台 4K
-https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live (720p)
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="News",CBS News 24/7 (720p)
@@ -111,3 +109,5 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_14
 https://jmp2.uk/plu-66b646f9cd0d3100086af83c.m3u8
 #EXTINF:-1 tvg-name="football" tvg-logo="https://epg.136605.xyz/tvg-logo/CNN.png" group-title="海外",football
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+#EXTINF:-1 tvg-name="TVB 翡翠台 4K" tvg-logo="https://epg.136605.xyz/tvg-logo/TVB 翡翠台.png" group-title="海外",TVB 翡翠台 4K
+https://o11.163189.xyz/stream/tvb/fct4k/
