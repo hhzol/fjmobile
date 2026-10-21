@@ -4,35 +4,6 @@
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8
-#EXTINF:-1 tvg-name="BBC TWO" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC TWO
-https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
-https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8
-#EXTINF:-1 tvg-name="BBC ALBA" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC ALBA
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.m3u8
-#EXTINF:-1 tvg-name="BBC FOUR" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC FOUR
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.m3u8
-#EXTINF:-1 tvg-name="BBC SCOTLAND" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC SCOTLAND
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-name="BBC FILM4" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC FILM4
-https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
-#EXTINF:-1 tvg-name="BBC TJC" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC TJC
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-#EXTINF:-1 tvg-name="BBC CBBC" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC CBBC
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-name="BBC CBeebies" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC CBeebies
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-name="BBC Parliament" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC Parliament
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png" group-title="News",GB News
-https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://epg.136605.xyz/tvg-logo/CNN.png" group-title="海外",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-name="60 minutes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/60-minutes.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20250724063718" group-title="海外",60 Minutes
-https://jmp2.uk/plu-66b646f9cd0d3100086af83c.m3u8
-#EXTINF:-1 tvg-name="football" tvg-logo="https://epg.136605.xyz/tvg-logo/CNN.png" group-title="海外",football
-https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://epg.136605.xyz/tvg-logo/华视.png" group-title="台湾",华视
 rtmp://60.248.77.76/sat/tv111
 rtmp://f13h.mine.nu/sat/tv111
@@ -87,27 +58,56 @@ https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 tvg-name="CNN Headlines" tvg-logo="https://epg.136605.xyz/tvg-logo/CNN.png" group-title="News",CNN Headlines
 https://jmp2.uk/plu-66c45c274f25dd00092739ee.m3u8
-#EXTINF:-1 tvg-id="CCTVBilliards.cn@HD" group-title="央视",央视台球
+#EXTINF:-1 tvg-id="CCTVBilliards.cn@HD" tvg-logo="https://epg.136605.xyz/tvg-logo/央视台球.png" group-title="央视",央视台球
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVCultureofQuality.cn@SD" group-title="央视",央视文化精品
+#EXTINF:-1 tvg-id="CCTVCultureofQuality.cn@SD" tvg-logo="https://epg.136605.xyz/tvg-logo/央视文化精品.png" group-title="央视",央视文化精品
 http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVGolfTennis.cn@HD" group-title="央视",高尔夫网球
+#EXTINF:-1 tvg-id="CCTVGolfTennis.cn@HD" tvg-logo="https://epg.136605.xyz/tvg-logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVHealth.cn@HD" group-title="央视",卫生健康
+#EXTINF:-1 tvg-id="CCTVHealth.cn@HD" tvg-logo="https://epg.136605.xyz/tvg-logo/卫生健康.png" group-title="央视",卫生健康
 http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVNostalgiaTheater.cn@HD" group-title="央视",怀旧剧场
+#EXTINF:-1 tvg-id="CCTVNostalgiaTheater.cn@HD" tvg-logo="https://epg.136605.xyz/tvg-logo/怀旧剧场.png" group-title="央视",怀旧剧场
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVStormFootball.cn@HD" group-title="央视",风云足球
+#EXTINF:-1 tvg-id="CCTVStormFootball.cn@HD" tvg-logo="https://epg.136605.xyz/tvg-logo/风云足球.png" group-title="央视",风云足球
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVStormMusic.cn@HD" group-title="央视",风云音乐
+#EXTINF:-1 tvg-id="CCTVStormMusic.cn@HD" tvg-logo="https://epg.136605.xyz/tvg-logo/风云音乐.png" group-title="央视",风云音乐
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVStormTheater.cn@HD" group-title="央视",风云剧场
+#EXTINF:-1 tvg-id="CCTVStormTheater.cn@HD" tvg-logo="https://epg.136605.xyz/tvg-logo/风云剧场.png" group-title="央视",风云剧场
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVTheFirstTheater.cn@HD" group-title="央视",第一剧场
+#EXTINF:-1 tvg-id="CCTVTheFirstTheater.cn@HD" tvg-logo="https://epg.136605.xyz/tvg-logo/第一剧场.png" group-title="央视",第一剧场
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn@HD" group-title="央视",兵器科技
+#EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn@HD" tvg-logo="https://epg.136605.xyz/tvg-logo/兵器科技.png" group-title="央视",兵器科技
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVWomensFashion.cn@SD" group-title="央视",女性时尚
+#EXTINF:-1 tvg-id="CCTVWomensFashion.cn@SD" tvg-logo="https://epg.136605.xyz/tvg-logo/女性时尚.png" group-title="央视",女性时尚
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVWorldGeography.cn@SD" group-title="央视",世界地理
+#EXTINF:-1 tvg-id="CCTVWorldGeography.cn@SD" tvg-logo="https://epg.136605.xyz/tvg-logo/世界地理.png" group-title="央视",世界地理
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="BBC TWO" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC TWO
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-name="BBC ALBA" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC ALBA
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-name="BBC FOUR" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC FOUR
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-name="BBC SCOTLAND" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC SCOTLAND
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC FILM4" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC FILM4
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
+#EXTINF:-1 tvg-name="BBC TJC" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:-1 tvg-name="BBC CBBC" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC CBBC
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-name="BBC CBeebies" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC CBeebies
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-name="BBC Parliament" tvg-logo="https://epg.136605.xyz/tvg-logo/BBC News.png" group-title="海外",BBC Parliament
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png" group-title="News",GB News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://epg.136605.xyz/tvg-logo/CNN.png" group-title="海外",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-name="60 minutes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/60-minutes.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20250724063718" group-title="海外",60 Minutes
+https://jmp2.uk/plu-66b646f9cd0d3100086af83c.m3u8
+#EXTINF:-1 tvg-name="football" tvg-logo="https://epg.136605.xyz/tvg-logo/CNN.png" group-title="海外",football
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
